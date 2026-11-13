@@ -16,7 +16,7 @@ cd measurements
 python derive.py
 ```
 
-Needs Python 3 and numpy. The script recomputes every derived number from the notebook outputs and compares it with the files the film used. With the activations attached to the release, it also refits the probes:
+Needs Python 3 and numpy. The script recomputes every derived number from the notebook outputs and compares it with the files the film used. With the activations attached to the release [v1.0](https://github.com/Cogspace-org/knowing-what-you-know/releases/tag/v1.0), it also refits the probes:
 
 ```
 python derive.py --activations activations_llama8b_layers.npz

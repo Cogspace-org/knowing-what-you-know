@@ -17,7 +17,7 @@ Recomputes the derived numbers from `results/` and compares them with the shippe
 python derive.py --activations activations_llama8b_layers.npz
 ```
 
-Also refits the six probes from the activations (`activations_llama8b_layers.npz`, 84 MB, attached to the repository's release). About two minutes on a laptop; the AUCs and the out-of-sample scores come out identical.
+Also refits the six probes from the activations (`activations_llama8b_layers.npz`, 84 MB, attached to the release [v1.0](https://github.com/Cogspace-org/knowing-what-you-know/releases/tag/v1.0)). About two minutes on a laptop; the AUCs and the out-of-sample scores come out identical.
 
 To regenerate the outputs themselves, run the notebook on Colab with an A100 (about an hour). Llama 3.1 is gated: accept its licence on Hugging Face first.
 
