@@ -6,7 +6,7 @@ The written notes, the sources and the code behind *Knowing What You Know*, a do
 |---|---|
 | [NOTES.md](NOTES.md) | Chapter by chapter: what the film claims, where it comes from, what it simplifies. Corrections at the end. |
 | [REFERENCES.md](REFERENCES.md) | Every source, with full references. |
-| [measurements/](measurements/README.md) | Every number the film measured on a language model: the notebook that produced it, its outputs, and a script that recomputes and checks the rest. |
+| [measurements/](measurements/README.md) | Every number the film measured on a language model: the notebook that produced it, its outputs, and a script that recomputes and checks the rest. An [audit](measurements/AUDIT.md) of these numbers. |
 | [transcript/](transcript/transcript.md) | The narration, chapter by chapter, and the English subtitles. |
 
 ## Check the numbers

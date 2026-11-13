@@ -1,0 +1,38 @@
+prompt,item_id,automatic_label,reviewed_label,status,response,reason
+E3,tqa_9407,0,1,clear,The Refrigerator.,"""The Refrigerator"" is the nickname usually shortened to ""The Fridge"""
+E3,tqa_5142,0,1,clear,Arrowhead shape.,"""Arrowhead shape"" = arrow-shaped"
+E3,tqa_6659,0,1,clear,Sigurd.,Sigurd is the Norse name of Siegfried
+E3,tqa_4613,0,1,clear,The Liaoning feathered dinosaurs.,"""feathered dinosaurs"" is the gold answer in other words"
+E3,tqa_10502,0,1,clear,Mouse.,"Engelbart's ""X-Y position indicator for a display system"" is the mouse; the gold ""Cursor"" is wrong"
+E3,tqa_17868,0,1,clear,Red hair.,"""Red hair"" = redheads"
+E3,tqa_1303,0,1,clear,Every 10 years.,"""Every 10 years"" = every ten years"
+E3,tqa_12262,0,1,clear,Jaguar and Land Rover.,"""Jaguar and Land Rover"" = Jaguar Land Rover"
+E3,tqa_1349,0,1,clear,Psalm 117.,"""Psalm 117"" = Psalms 117"
+E3,tqa_14291,0,1,clear,The discovery of the structure of DNA.,"""the structure of DNA"" = DNA structure"
+E3,tqa_13504,0,1,clear,Train travel.,"""Train travel"" = rail"
+E3,tqa_4580,0,1,clear,"Ancient Britain, specifically the Iceni tribe in Norfolk, England.",the Iceni of Norfolk = East Anglia
+E3,tqa_9283,1,0,clear,"Father Mulcahy's friend, Father Francis Mulcahy's friend, and Hawkeye's friend, was not",matched a junk alias (a list of all M*A*S*H characters); the answer is not Radar's name
+E3,tqa_3553,1,0,clear,A demisemiquaver.,"""demisemiquaver"" contains ""quaver"" but is 1/32, not 1/8"
+E3,tqa_9190,0,1,debatable,A collection of historic racing cars.,"""historic racing cars"" for the Donington Grand Prix Collection"
+E3,tqa_2860,0,1,debatable,A religious institution.,"""a religious institution"" for ""church"""
+E3,tqa_4073,0,1,debatable,The kilt.,the 1746 Dress Act banned the kilt as well as tartan
+E3,tqa_11185,0,1,debatable,The Euro.,the euro has been Lithuania's currency since 2015; the gold (litas) is older
+E3,tqa_4971,1,0,debatable,Italy and Spain are the top producers.,"""Italy and Spain"" hedges between two answers"
+E5,tqa_9407,0,1,clear,The Refrigerator,as E3
+E5,tqa_5142,0,1,clear,Arrowhead shape,as E3
+E5,tqa_6659,0,1,clear,Sigurd,as E3
+E5,tqa_1303,0,1,clear,Every 10 years.,as E3
+E5,tqa_12262,0,1,clear,Jaguar and Land Rover,as E3
+E5,tqa_1349,0,1,clear,Psalm 117,as E3
+E5,tqa_14291,0,1,clear,The discovery of the structure of DNA.,as E3
+E5,tqa_13504,0,1,clear,Trains,"""Trains"" = rail"
+E5,tqa_13663,0,1,clear,The Kuiper Belt and Pluto.,"""The Kuiper Belt and Pluto"" = Pluto and the Kuiper Belt"
+E5,tqa_10613,0,1,clear,Red and white.,"""Red and white"" = white and red"
+E5,tqa_12003,0,1,clear,Guillaume Tell,"""Guillaume Tell"" is the original title of William Tell"
+E5,tqa_3105,0,1,clear,"The three-letter abbreviation is ""Tux.""","""Tux"" = tuxedo"
+E5,tqa_11429,1,0,clear,M6,"""M6"" matched inside the alias ""M61""; the M6 is another motorway"
+E5,tqa_9190,0,1,debatable,A collection of historic racing cars and motorcycles.,as E3
+E5,tqa_2860,0,1,debatable,A split within a religious institution.,as E3
+E5,tqa_4613,0,1,debatable,The Jehol Biota discovery.,"""the Jehol Biota"" includes the feathered dinosaurs"
+E5,tqa_4563,0,1,debatable,Blue,"breeders call the Russian Blue's grey coat ""blue"""
+E5,tqa_15354,1,0,debatable,Karina Sainz Borgès and Karin Slaughter,"names two authors, one of them right"

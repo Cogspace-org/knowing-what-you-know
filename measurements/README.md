@@ -21,6 +21,8 @@ Also refits the six probes from the activations (`activations_llama8b_layers.npz
 
 To regenerate the outputs themselves, run the notebook on Colab with an A100 (about an hour). Llama 3.1 is gated: accept its licence on Hugging Face first.
 
+A second look at these numbers (label errors, confidence intervals, choice of block, wording of the questions, the two prompts) is in [AUDIT.md](AUDIT.md), recomputed by `audit.py`.
+
 ## E1. The cold open
 
 Four questions in plain chat mode, no instruction: Paris, The Garden of Earthly Delights, Alpha-three, and the capital of Chile. Files: `results/e1_*.json` (answer, top 50 at every step), `results/e1_*_step0.npy` (full first-step distribution).
