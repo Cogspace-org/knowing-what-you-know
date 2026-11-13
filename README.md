@@ -2,6 +2,8 @@
 
 The written notes, the sources and the code behind *Knowing What You Know*, a documentary on metacognition from Socrates to neurons to machines, by COGSPACE.
 
+**Watch the film:** https://www.youtube.com/watch?v=D1s6vZ67yGo (52 min, English, subtitles available). Channel: https://www.youtube.com/@cogspace
+
 | | |
 |---|---|
 | [NOTES.md](NOTES.md) | Chapter by chapter: what the film claims, where it comes from, what it simplifies. Corrections at the end. |

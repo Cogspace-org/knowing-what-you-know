@@ -1,6 +1,6 @@
 # Transcript
 
-The narration of *Knowing What You Know*, chapter by chapter, with the start time of each chapter in the film.
+The narration of [*Knowing What You Know*](https://www.youtube.com/watch?v=D1s6vZ67yGo), chapter by chapter, with the start time of each chapter in the film.
 Subtitles with word-level timing: [`knowing_what_you_know_en.srt`](knowing_what_you_know_en.srt).
 
 ## 0:00 Three questions
