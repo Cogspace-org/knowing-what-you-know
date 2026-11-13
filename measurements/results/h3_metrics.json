@@ -1,0 +1,19 @@
+{
+ "model": "meta-llama/Llama-3.1-8B-Instruct",
+ "block": 28,
+ "blocks_scanned": [
+  8,
+  12,
+  16,
+  20,
+  24,
+  28
+ ],
+ "n": 600,
+ "dim": 4096,
+ "accuracy_base": 0.73,
+ "probe_auc": 0.8356023451152828,
+ "entropy_auc": 0.8525001409324088,
+ "max_prob_auc": 0.8246237104684593,
+ "pca3_explained": 0.059878979693177486
+}

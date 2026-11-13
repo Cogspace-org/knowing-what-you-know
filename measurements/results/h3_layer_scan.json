@@ -1,0 +1,26 @@
+{
+ "8": {
+  "probe_auc": 0.713653531766165,
+  "probe_auc_when_output_looks_sure": 0.5988888888888889
+ },
+ "12": {
+  "probe_auc": 0.7394300693387451,
+  "probe_auc_when_output_looks_sure": 0.6502777777777777
+ },
+ "16": {
+  "probe_auc": 0.8052455042561587,
+  "probe_auc_when_output_looks_sure": 0.7044444444444444
+ },
+ "20": {
+  "probe_auc": 0.8090365860533288,
+  "probe_auc_when_output_looks_sure": 0.7427777777777778
+ },
+ "24": {
+  "probe_auc": 0.8036670612774114,
+  "probe_auc_when_output_looks_sure": 0.7472222222222222
+ },
+ "28": {
+  "probe_auc": 0.8356023451152828,
+  "probe_auc_when_output_looks_sure": 0.7805555555555556
+ }
+}

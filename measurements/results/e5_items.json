@@ -1,0 +1,6302 @@
+[
+ {
+  "item_id": "tqa_14288",
+  "category": "trivia",
+  "question": "Which cartoon character created by Al Capp lives in Dog Patch?",
+  "response": "Li'l Abner",
+  "raw": "Li'l Abner\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "L'ABNER"
+ },
+ {
+  "item_id": "tqa_17702",
+  "category": "trivia",
+  "question": "According to Smokey The Bear, Remember... only you can what?",
+  "response": "Prevent forest fires.",
+  "raw": "Prevent forest fires.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Prevent Forest Fires"
+ },
+ {
+  "item_id": "tqa_11866",
+  "category": "trivia",
+  "question": "Which of the seven wonders of the ancient world was thought to have straddled the harbour of a Greek island?",
+  "response": "The Statue of Zeus at Olympia.",
+  "raw": "The Statue of Zeus at Olympia.\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 0,
+  "gold": "COLOSSUS OF RHODES"
+ },
+ {
+  "item_id": "tqa_5142",
+  "category": "trivia",
+  "question": "What shape is a sagittate leaf?",
+  "response": "Arrowhead shape",
+  "raw": "Arrowhead shape\nConfidence: 90",
+  "said": 90.0,
+  "correct": 0,
+  "gold": "Arrow-shaped"
+ },
+ {
+  "item_id": "tqa_16199",
+  "category": "trivia",
+  "question": "Which of the 'Classic' horse races, run at Epsom for three year old fillies on the Friday after the derby, is named after the estate then owned by the Earl of Derby?",
+  "response": "The Oaks Stakes",
+  "raw": "The Oaks Stakes\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "'THE OAKS'"
+ },
+ {
+  "item_id": "tqa_4965",
+  "category": "trivia",
+  "question": "What does an entomologist study?",
+  "response": "Insects and their behavior.",
+  "raw": "Insects and their behavior.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Insects"
+ },
+ {
+  "item_id": "tqa_2128",
+  "category": "trivia",
+  "question": "What used to be known as the Blessed or Fortunate Isles?",
+  "response": "The Canary Islands.",
+  "raw": "The Canary Islands.\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Canary Islands"
+ },
+ {
+  "item_id": "tqa_17020",
+  "category": "trivia",
+  "question": "Which Rugby League team plays home games at Derwent Park?",
+  "response": "Workington Town",
+  "raw": "Workington Town\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "WORKINGTON TOWN"
+ },
+ {
+  "item_id": "tqa_10174",
+  "category": "trivia",
+  "question": "What is the most populated city in America?",
+  "response": "New York City",
+  "raw": "New York City\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "New York"
+ },
+ {
+  "item_id": "tqa_5304",
+  "category": "trivia",
+  "question": "What was the name of the private eye played by Trevor Eve on TV in the '70s?",
+  "response": "Jack Shaw",
+  "raw": "Jack Shaw\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "Eddie Shoestring"
+ },
+ {
+  "item_id": "tqa_7353",
+  "category": "trivia",
+  "question": "Which Football League club play their home games at Kingsmeadow, also known as the Cherry Red Records Stadium?",
+  "response": "AFC Wimbledon",
+  "raw": "AFC Wimbledon\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "AFC WIMBLEDON"
+ },
+ {
+  "item_id": "tqa_11259",
+  "category": "trivia",
+  "question": "In which year did divorce become officially legal in the Republic of Ireland?",
+  "response": "1975",
+  "raw": "1975\nConfidence: 90",
+  "said": 90.0,
+  "correct": 0,
+  "gold": "1997"
+ },
+ {
+  "item_id": "tqa_7438",
+  "category": "trivia",
+  "question": "The American journalist Ida Tarbell is known for her expose of the corrupt practices of which giant company? John D. Rockefeller probably hated her!",
+  "response": "Standard Oil",
+  "raw": "Standard Oil\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Standard Oil"
+ },
+ {
+  "item_id": "tqa_251",
+  "category": "trivia",
+  "question": "What is the name of the large buttock and thigh muscle?",
+  "response": "Gluteus maximus",
+  "raw": "Gluteus maximus\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Gluteus maximus"
+ },
+ {
+  "item_id": "tqa_8265",
+  "category": "trivia",
+  "question": "What is the name of the A1 Pacific steam locomotive which was completed in 2009 and is the first of its kind built for over 50 years?",
+  "response": "Flying Scotsman",
+  "raw": "Flying Scotsman\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "'TORNADO'"
+ },
+ {
+  "item_id": "tqa_7857",
+  "category": "trivia",
+  "question": "With a surface area of 56km2, which Scottish loch is, in terms of surface area, the second largest inland body of water in Great Britain?",
+  "response": "Loch Ness",
+  "raw": "Loch Ness\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "LOCH NESS"
+ },
+ {
+  "item_id": "tqa_1280",
+  "category": "trivia",
+  "question": "Long An Provence is in which Asian country?",
+  "response": "Long An Province is in Vietnam.",
+  "raw": "Long An Province is in Vietnam.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Vietnam"
+ },
+ {
+  "item_id": "tqa_15929",
+  "category": "trivia",
+  "question": "A tourist attraction near Alliance, Nebraska created by Jim Reinders using vintage cars is styled after what monument?",
+  "response": "Carhenge",
+  "raw": "Carhenge\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Stonehenge"
+ },
+ {
+  "item_id": "tqa_6795",
+  "category": "trivia",
+  "question": "Which unit of the Roman army was one tenth of a legion?",
+  "response": "Maniple",
+  "raw": "Maniple\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 0,
+  "gold": "Cohort"
+ },
+ {
+  "item_id": "tqa_4741",
+  "category": "trivia",
+  "question": "What island chain includes the islands of Fuerteventura, Lanzarote, and La Palma?",
+  "response": "The Canary Islands",
+  "raw": "The Canary Islands\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Canary Islands"
+ },
+ {
+  "item_id": "tqa_1629",
+  "category": "trivia",
+  "question": "What colour ink was traditionally used by Roman emperors to sign important documents?",
+  "response": "Purple ink.",
+  "raw": "Purple ink.\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "Purple"
+ },
+ {
+  "item_id": "tqa_15354",
+  "category": "trivia",
+  "question": "Who created the fictional special agent Will Trent?",
+  "response": "Karina Sainz Borgès and Karin Slaughter",
+  "raw": "Karina Sainz Borgès and Karin Slaughter\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "KARIN SLAUGHTER"
+ },
+ {
+  "item_id": "tqa_9911",
+  "category": "trivia",
+  "question": "Friggatriskaidekaphobia (or triskaidekaphobia or paraskevidekatriaphobia) is the fear of what?",
+  "response": "Fear of Friday the 13th",
+  "raw": "Fear of Friday the 13th\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Friday the 13th"
+ },
+ {
+  "item_id": "tqa_10269",
+  "category": "trivia",
+  "question": "Wayne Rooney scored his first senior goal against which club?",
+  "response": "Manchester United",
+  "raw": "Manchester United\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Arsenal"
+ },
+ {
+  "item_id": "tqa_13333",
+  "category": "trivia",
+  "question": "George Cukor directed which 1964 film musical?",
+  "response": "My Fair Lady",
+  "raw": "My Fair Lady\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "My Fair Lady"
+ },
+ {
+  "item_id": "tqa_4849",
+  "category": "trivia",
+  "question": "In Roman mythology, who was the god of war?",
+  "response": "Mars",
+  "raw": "Mars\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Mars"
+ },
+ {
+  "item_id": "tqa_5105",
+  "category": "trivia",
+  "question": "With what country did the United States re-establish diplomatic relations in 2015?",
+  "response": "Cuba",
+  "raw": "Cuba \nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Cuba"
+ },
+ {
+  "item_id": "tqa_15840",
+  "category": "trivia",
+  "question": "What is the five-letter name for Norway as used on its stamps?",
+  "response": "NORWAY",
+  "raw": "NORWAY\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "NORGE"
+ },
+ {
+  "item_id": "tqa_12188",
+  "category": "trivia",
+  "question": "Who is the the voice of cartoon character Jack Kahuna Laguna in a special episode of Spongebob Squarepants?",
+  "response": "Tom Kenny",
+  "raw": "Tom Kenny\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Johnny Depp"
+ },
+ {
+  "item_id": "tqa_2386",
+  "category": "trivia",
+  "question": "Although not the state capital, which is the largest city in the U.S. state of Nebraska ?",
+  "response": "Omaha",
+  "raw": "Omaha\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "OMAHA"
+ },
+ {
+  "item_id": "tqa_15008",
+  "category": "trivia",
+  "question": "The name of which European capital city means Merchants Harbour?",
+  "response": "Dublin",
+  "raw": "Dublin\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "COPENHAGEN"
+ },
+ {
+  "item_id": "tqa_4287",
+  "category": "trivia",
+  "question": "What was the scene of the final defeat of the Jacobites under Charles Edward by forces under the command of the Duke of Cumberland on 16 April 1746?",
+  "response": "Culloden Moor",
+  "raw": "Culloden Moor\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Culloden"
+ },
+ {
+  "item_id": "tqa_8274",
+  "category": "trivia",
+  "question": "As which bird is the ancient Egyptian god Horus represented?",
+  "response": "Falcon",
+  "raw": "Falcon\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "FALCON"
+ },
+ {
+  "item_id": "tqa_3335",
+  "category": "trivia",
+  "question": "Chrometophobia is an irrational fear of what?",
+  "response": "Dermatologists or doctors examining the skin.",
+  "raw": "Dermatologists or doctors examining the skin.\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Money"
+ },
+ {
+  "item_id": "tqa_15881",
+  "category": "trivia",
+  "question": "The Tropic of Capricorn crosses the west coast of South America in which country?",
+  "response": "Chile",
+  "raw": "Chile\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "CHILE"
+ },
+ {
+  "item_id": "tqa_8849",
+  "category": "trivia",
+  "question": "What is Chandler's surname in Friends",
+  "response": "Bing",
+  "raw": "Bing\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Bing"
+ },
+ {
+  "item_id": "tqa_13095",
+  "category": "trivia",
+  "question": "What is another name for the alligator pear?",
+  "response": "Avocado",
+  "raw": "Avocado\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Avocado"
+ },
+ {
+  "item_id": "tqa_8730",
+  "category": "trivia",
+  "question": "Which was the first US state to secede from the Union in December 1860; the first action of the Civil War took place in that state in April the following year?",
+  "response": "South Carolina",
+  "raw": "South Carolina\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "South Carolina"
+ },
+ {
+  "item_id": "tqa_8755",
+  "category": "trivia",
+  "question": "Which city lies at the confluence of the rivers Rhine and Moselle",
+  "response": "Koblenz",
+  "raw": "Koblenz\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Koblenz"
+ },
+ {
+  "item_id": "tqa_7206",
+  "category": "trivia",
+  "question": "With which sport were the players Peter Nicol and Jahangir Khan associated?",
+  "response": "Squash",
+  "raw": "Squash\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Squash ."
+ },
+ {
+  "item_id": "tqa_16932",
+  "category": "trivia",
+  "question": "What is a vent in the Earth's crust that spouts a fountain of boiling water called?",
+  "response": "A fumarole.",
+  "raw": "A fumarole.\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "GEYSER"
+ },
+ {
+  "item_id": "tqa_11385",
+  "category": "trivia",
+  "question": "The Conservation of Energy is the first ……..what?",
+  "response": "Law of Thermodynamics.",
+  "raw": "Law of Thermodynamics.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Law of Thermodynamics"
+ },
+ {
+  "item_id": "tqa_17033",
+  "category": "trivia",
+  "question": "What colour is the live wire in an electric plug?",
+  "response": "Green and Brown",
+  "raw": "Green and Brown\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "BROWN"
+ },
+ {
+  "item_id": "tqa_5380",
+  "category": "trivia",
+  "question": "Who was the Texas governor who was shot and wounded when John F Kennedy was assassinated?",
+  "response": "John Connally",
+  "raw": "John Connally\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "John Connally"
+ },
+ {
+  "item_id": "tqa_7374",
+  "category": "trivia",
+  "question": "Which 'Dame' is one of the main presenters of Women's Hour on Radio 4?",
+  "response": "Claudia Winkleman",
+  "raw": "Claudia Winkleman \nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "Dame Jenni Murray"
+ },
+ {
+  "item_id": "tqa_61",
+  "category": "trivia",
+  "question": "\"In which movie did Garbo say, \"\"I want to be alone\"\".\"",
+  "response": "Anna Karenina (1935)",
+  "raw": "Anna Karenina (1935)\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Grand Hotel"
+ },
+ {
+  "item_id": "tqa_14674",
+  "category": "trivia",
+  "question": "Name the Mexican/American boxer, who retired from the ring in 2008, who is the only man to win world titles in six different weight divisions?",
+  "response": "Oscar De La Hoya",
+  "raw": "Oscar De La Hoya\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Oscar de la Hoya"
+ },
+ {
+  "item_id": "tqa_819",
+  "category": "trivia",
+  "question": "Which US gangster was released from Alcatraz prison in November 1939?",
+  "response": "Al Capone",
+  "raw": "Al Capone\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Al Capone"
+ },
+ {
+  "item_id": "tqa_17076",
+  "category": "trivia",
+  "question": "Which tennis player born in 1969 won 22 Grand Slam singles titles and Olympic Gold in 1988?",
+  "response": "Pete Sampras",
+  "raw": "Pete Sampras\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Steffi Graf"
+ },
+ {
+  "item_id": "tqa_363",
+  "category": "trivia",
+  "question": "In 1998, which director's Oscar acceptance speech included the line I'm king of the world?",
+  "response": "James Cameron",
+  "raw": "James Cameron\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "James Cameron"
+ },
+ {
+  "item_id": "tqa_14283",
+  "category": "trivia",
+  "question": "If Gordon Banks was 1, Nobby Stiles was 4, Bobby Charlton was 9, who was 16?",
+  "response": "Bobby Charlton was 9, so the answer is Bobby Moore was 16.",
+  "raw": "Bobby Charlton was 9, so the answer is Bobby Moore was 16.\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "MARTIN PETERS"
+ },
+ {
+  "item_id": "tqa_5211",
+  "category": "trivia",
+  "question": "The flag of which European country is a blue-white-red horizontal tricolour with the coat of arms centred vertically but located left of centre horizontally?",
+  "response": "Poland",
+  "raw": "Poland\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Serbia"
+ },
+ {
+  "item_id": "tqa_12243",
+  "category": "trivia",
+  "question": "Sukhoi and Tupolev are aircraft manufacturers of what nation?",
+  "response": "Russia",
+  "raw": "Russia\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Russia"
+ },
+ {
+  "item_id": "tqa_6804",
+  "category": "trivia",
+  "question": "The 'Angel of Christian Charity' in London is more commonly known by what name?",
+  "response": "St Martin-in-the-Fields",
+  "raw": "St Martin-in-the-Fields\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "(Statue of) Eros"
+ },
+ {
+  "item_id": "tqa_2417",
+  "category": "trivia",
+  "question": "Traditionally served in a tall glass, what name is given to the dessert that traditionally contains fresh fruit, tinned fruit, whipped cream and a cherry on the top?",
+  "response": "Trifle",
+  "raw": "Trifle\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "KNICKERBOCKER GLORY"
+ },
+ {
+  "item_id": "tqa_3473",
+  "category": "trivia",
+  "question": "Loosely translated, Aleph Beth Gimel Daleth are the first four letters of what alphabet?",
+  "response": "Hebrew alphabet",
+  "raw": "Hebrew alphabet\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Hebrew"
+ },
+ {
+  "item_id": "tqa_14823",
+  "category": "trivia",
+  "question": "'The Castle of Otranto' often called the first gothic novel, was written in 1764 by whom?",
+  "response": "Horace Walpole",
+  "raw": "Horace Walpole\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "HORACE WALPOLE"
+ },
+ {
+  "item_id": "tqa_5156",
+  "category": "trivia",
+  "question": "The song 'Wunderbar' comes from which Cole Porter musical?",
+  "response": "DuBarry Was a Lady",
+  "raw": "DuBarry Was a Lady\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "KISS ME KATE"
+ },
+ {
+  "item_id": "tqa_12954",
+  "category": "trivia",
+  "question": "Rob Pilatis and Fab Morvan were collectively known as what?",
+  "response": "The New Radicals",
+  "raw": "The New Radicals\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Milli Vanilli"
+ },
+ {
+  "item_id": "tqa_7567",
+  "category": "trivia",
+  "question": "Which car manufacturer made models called 'Ensign' and 'Vanguard'?",
+  "response": "Triumph",
+  "raw": "Triumph\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 0,
+  "gold": "STANDARD"
+ },
+ {
+  "item_id": "tqa_5",
+  "category": "trivia",
+  "question": "Rita Coolidge sang the title song for which Bond film?",
+  "response": "All Time High",
+  "raw": "All Time High\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "Octopussy"
+ },
+ {
+  "item_id": "tqa_3054",
+  "category": "trivia",
+  "question": "At which sport has Indonesia won several medals including gold in each Summer Olympics from 1992-2008?",
+  "response": "Badminton",
+  "raw": "Badminton\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Badminton"
+ },
+ {
+  "item_id": "tqa_7083",
+  "category": "trivia",
+  "question": "From the Greek words for dry and plant what word is given to a plant that has adapted to survive in an environment with little available water?",
+  "response": "Xerophyte",
+  "raw": "Xerophyte\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Xerophyte"
+ },
+ {
+  "item_id": "tqa_16101",
+  "category": "trivia",
+  "question": "Which word completes the name of the rock band 'Half Man Half...'?",
+  "response": "Half Biscuit",
+  "raw": "Half Biscuit\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "'BISCUIT'"
+ },
+ {
+  "item_id": "tqa_1960",
+  "category": "trivia",
+  "question": "Which play is featured in the film The Producers?",
+  "response": "The Producers is a play by Mel Brooks.",
+  "raw": "The Producers is a play by Mel Brooks.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Springtime for Hitler"
+ },
+ {
+  "item_id": "tqa_10086",
+  "category": "trivia",
+  "question": "Throughout the 80s and 90s Phil Collins recorded on which record label?",
+  "response": "Atlantic Records and Virgin Records, but most notably Atlantic Records.",
+  "raw": "Atlantic Records and Virgin Records, but most notably Atlantic Records.\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "Atlantic"
+ },
+ {
+  "item_id": "tqa_9426",
+  "category": "trivia",
+  "question": "\"\"\"When I Fall in Love\"\" by Nat King Cole featured in which 1986 film?\"",
+  "response": "The Bodyguard",
+  "raw": "The Bodyguard\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Mona Lisa"
+ },
+ {
+  "item_id": "tqa_7303",
+  "category": "trivia",
+  "question": "The Getz and the Elantra are car-models made by which manufacturer?",
+  "response": "Hyundai",
+  "raw": "Hyundai\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Hyundai"
+ },
+ {
+  "item_id": "tqa_7269",
+  "category": "trivia",
+  "question": "\"The fictional setting Grover's Corner, New Hampshire, for the 1938 Broadway play \"\"Our Town\"\" was created by which Pulitzer Prize winning playwright?\"",
+  "response": "Thornton Wilder",
+  "raw": "Thornton Wilder\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Thornton Wilder"
+ },
+ {
+  "item_id": "tqa_12098",
+  "category": "trivia",
+  "question": "Who became Germany's first female chancellor?",
+  "response": "Angela Merkel",
+  "raw": "Angela Merkel\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Angela Merkel"
+ },
+ {
+  "item_id": "tqa_6309",
+  "category": "trivia",
+  "question": "In which year was Sputnik, the first man-made satellite, launched?",
+  "response": "1957",
+  "raw": "1957\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "1957"
+ },
+ {
+  "item_id": "tqa_7175",
+  "category": "trivia",
+  "question": "In which range of hills is the Cheddar Gorge?",
+  "response": "Mendip Hills",
+  "raw": "Mendip Hills\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Mendips"
+ },
+ {
+  "item_id": "tqa_3924",
+  "category": "trivia",
+  "question": "Which team has played in 40 of the 105 Baseball World Series and won 27 World Series championships (between 1923 and 2009), the most of any Major League franchise?",
+  "response": "New York Yankees",
+  "raw": "New York Yankees\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "The New York Yankees"
+ },
+ {
+  "item_id": "tqa_12447",
+  "category": "trivia",
+  "question": "Messina, founded by ancient Greeks, site of a 1908 seismic disaster, is the main port of which island?",
+  "response": "Sicily",
+  "raw": "Sicily\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Sicily"
+ },
+ {
+  "item_id": "tqa_13876",
+  "category": "trivia",
+  "question": "Which country was once led by F.W. de Klerk?",
+  "response": "South Africa",
+  "raw": "South Africa\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "South Africa"
+ },
+ {
+  "item_id": "tqa_10564",
+  "category": "trivia",
+  "question": "Who does Emilio Estevez play in the 1988 film ‘Young Guns’?",
+  "response": "Billy the Kid",
+  "raw": "Billy the Kid\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Billy the Kid"
+ },
+ {
+  "item_id": "tqa_5614",
+  "category": "trivia",
+  "question": "In Russia, what is a shapka?",
+  "response": "A traditional Russian hat.",
+  "raw": "A traditional Russian hat.\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "HAT"
+ },
+ {
+  "item_id": "tqa_12065",
+  "category": "trivia",
+  "question": "What's the name of the intelligent talking horses in Swift's Gulliver's Travels ?",
+  "response": "Houyhnhnms",
+  "raw": "Houyhnhnms\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "HOUYHNHNMS"
+ },
+ {
+  "item_id": "tqa_13924",
+  "category": "trivia",
+  "question": "Besides Ireland, what country is geographically closest to the United Kingdom?",
+  "response": "France",
+  "raw": "France \nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "France"
+ },
+ {
+  "item_id": "tqa_16767",
+  "category": "trivia",
+  "question": "In motoring terms, what can be an SU, a Weber, or a Zenith?",
+  "response": "Carburetors",
+  "raw": "Carburetors\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "CARBURETTOR"
+ },
+ {
+  "item_id": "tqa_13751",
+  "category": "trivia",
+  "question": "\"What has been described as the \"\"fifth\"\" taste, after sweet, sour, bitter, and salty?\"",
+  "response": "Umami",
+  "raw": "Umami\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "Umami"
+ },
+ {
+  "item_id": "tqa_5241",
+  "category": "trivia",
+  "question": "\"Which English comedian had a minor hit in 1958 with his cover version of the Bobby Darin song, \"\"Splish Splash\"\"?\"",
+  "response": "Bobby Darin himself did not have a hit with \"Splish Splash\", it was actually Bobby Darin's friend, Bobby Rydell, but more famously, it was also covered by a British singer, Bobby Darin's friend",
+  "raw": "Bobby Darin himself did not have a hit with \"Splish Splash\", it was actually Bobby Darin's friend, Bobby Rydell, but more famously, it was also covered by a British singer, Bobby Darin's friend",
+  "said": null,
+  "correct": 0,
+  "gold": "CHARLIE DRAKE"
+ },
+ {
+  "item_id": "tqa_12345",
+  "category": "trivia",
+  "question": "Which country is famous for its Blue Lagoon hot springs bathing lake?",
+  "response": "Iceland",
+  "raw": "Iceland\nConfidence: 99",
+  "said": 99.0,
+  "correct": 1,
+  "gold": "Iceland"
+ },
+ {
+  "item_id": "tqa_14256",
+  "category": "trivia",
+  "question": "What is the anatomical name for the upper jaw bone?",
+  "response": "Maxilla",
+  "raw": "Maxilla\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Maxilla"
+ },
+ {
+  "item_id": "tqa_1513",
+  "category": "trivia",
+  "question": "In the 1962 film ‘Lolita’, what is Lolita’s first name?",
+  "response": "Dolores",
+  "raw": "Dolores\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Dolores"
+ },
+ {
+  "item_id": "tqa_16896",
+  "category": "trivia",
+  "question": "Which musical features the nurse Nellie Forbush?",
+  "response": "South Pacific",
+  "raw": "South Pacific\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "SOUTH PACIFIC"
+ },
+ {
+  "item_id": "tqa_17510",
+  "category": "trivia",
+  "question": "Earth belongs to which galaxy?",
+  "response": "The Milky Way galaxy.",
+  "raw": "The Milky Way galaxy.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Milky Way"
+ },
+ {
+  "item_id": "tqa_244",
+  "category": "trivia",
+  "question": "Which rodent rears its young, called kittens, in a nest called a drey?",
+  "response": "Squirrel",
+  "raw": "Squirrel\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Squirrel"
+ },
+ {
+  "item_id": "tqa_7367",
+  "category": "trivia",
+  "question": "Who wrote the novel The Naked and the Dead?",
+  "response": "Norman Mailer",
+  "raw": "Norman Mailer\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "NORMAN MAILER"
+ },
+ {
+  "item_id": "tqa_93",
+  "category": "trivia",
+  "question": "\"Which character did Julia \"\"Roberts play in Steven Spielberg's Hook?\"",
+  "response": "Tinker Bell",
+  "raw": "Tinker Bell\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Tinkerbell"
+ },
+ {
+  "item_id": "tqa_8465",
+  "category": "trivia",
+  "question": "Which film studio produced the 'Bugs Bunny' cartoons?",
+  "response": "Warner Bros.",
+  "raw": "Warner Bros.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "WARNER BROTHERS"
+ },
+ {
+  "item_id": "tqa_17766",
+  "category": "trivia",
+  "question": "The Statue of Liberty, officially presented to the United States on July 4, 1884, holds a torch and a tablet. In what hand is the torch held?",
+  "response": "In the right hand.",
+  "raw": "In the right hand.\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Right"
+ },
+ {
+  "item_id": "tqa_13621",
+  "category": "trivia",
+  "question": "\"The US TV series \"\"Mad Men\"\" centres around what industry or profession?\"",
+  "response": "Advertising",
+  "raw": "Advertising\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Advertising"
+ },
+ {
+  "item_id": "tqa_6345",
+  "category": "trivia",
+  "question": "Which car manufacturer has its headquarters at Martorell near Barcelona?",
+  "response": "SEAT",
+  "raw": "SEAT\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "SEAT"
+ },
+ {
+  "item_id": "tqa_17334",
+  "category": "trivia",
+  "question": "Which cardinal point does not appear in the names of the American states",
+  "response": "North",
+  "raw": "North\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "East"
+ },
+ {
+  "item_id": "tqa_12127",
+  "category": "trivia",
+  "question": "How many pennies were in a British pre-decimal pound? 120; 200; 204; or 240?",
+  "response": "240",
+  "raw": "240\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "240"
+ },
+ {
+  "item_id": "tqa_5677",
+  "category": "trivia",
+  "question": "Which country has provinces including Masvingo, Midlands and Manicaland?",
+  "response": "Zimbabwe",
+  "raw": "Zimbabwe\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Zimbabwe"
+ },
+ {
+  "item_id": "tqa_8872",
+  "category": "trivia",
+  "question": "On which TV quiz show was Princess Anne a contestant",
+  "response": "Who Wants to Be a Millionaire",
+  "raw": "Who Wants to Be a Millionaire\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "Question of Sport"
+ },
+ {
+  "item_id": "tqa_6659",
+  "category": "trivia",
+  "question": "Which mythical hero wielded a magical sword called 'Gram'?",
+  "response": "Sigurd",
+  "raw": "Sigurd\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Siegfried"
+ },
+ {
+  "item_id": "tqa_1472",
+  "category": "trivia",
+  "question": "In which South Asian country is Phewa Lake?",
+  "response": "Nepal",
+  "raw": "Nepal\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Nepal"
+ },
+ {
+  "item_id": "tqa_14566",
+  "category": "trivia",
+  "question": "Who lived from 1895 to 1973, directing films such as the 1929 version of Stagecoach, The Grapes of Wrath and the Quiet Man?",
+  "response": "John Ford",
+  "raw": "John Ford\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "JOHN FORD"
+ },
+ {
+  "item_id": "tqa_9544",
+  "category": "trivia",
+  "question": "According to the Rankin-Bass TV classic of the same name, who brought Frosty the Snowman back to life?",
+  "response": "A little girl named Karen",
+  "raw": "A little girl named Karen\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Santa Claus"
+ },
+ {
+  "item_id": "tqa_1138",
+  "category": "trivia",
+  "question": "In 1610, who became the first person to observe Saturn’s rings through a telescope?",
+  "response": "Galileo Galilei",
+  "raw": "Galileo Galilei\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "Galileo Galilei"
+ },
+ {
+  "item_id": "tqa_15403",
+  "category": "trivia",
+  "question": "What was the name of the cruise liner that capsized near the rocky island of Giglio off the Tuscan coast in 2012?",
+  "response": "Costa Concordia",
+  "raw": "Costa Concordia\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "COSTA CONCORDIA"
+ },
+ {
+  "item_id": "tqa_15942",
+  "category": "trivia",
+  "question": "In the 2014 zombie comedy Life After Beth, a character takes offense when asked about zombies just because she is from what country?",
+  "response": "Sweden",
+  "raw": "Sweden\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Haiti"
+ },
+ {
+  "item_id": "tqa_8472",
+  "category": "trivia",
+  "question": "What is the county town of Mayo?",
+  "response": "Castlebar",
+  "raw": "Castlebar\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "CASTLE BAR"
+ },
+ {
+  "item_id": "tqa_11432",
+  "category": "trivia",
+  "question": "Carried out by a military man it’s called Seppuku. What other name is it known by?",
+  "response": "Harakiri",
+  "raw": "Harakiri\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "HARA-KIRI"
+ },
+ {
+  "item_id": "tqa_13328",
+  "category": "trivia",
+  "question": "What was the name of the alliance of trading cities and their guilds, each with their own law system and with armies for mututal aid, that established and maintained a trade monopoly along the coast of Northern Europe, from the Baltic to the North Sea and inland, from the 13th to 17th centuries?",
+  "response": "The Hanseatic League.",
+  "raw": "The Hanseatic League.\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "Hanseatic League"
+ },
+ {
+  "item_id": "tqa_10521",
+  "category": "trivia",
+  "question": "Who was the first Hanover King of England?",
+  "response": "George I",
+  "raw": "George I\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "George I"
+ },
+ {
+  "item_id": "tqa_7679",
+  "category": "trivia",
+  "question": "'Whole Lotta Love', 'Yellow Pearl', 'The Wizard', and 'Get Out Of That' have all been theme tunes to which television programme?",
+  "response": "Top Gear",
+  "raw": "Top Gear\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "'TOP OF THE POPS'"
+ },
+ {
+  "item_id": "tqa_14200",
+  "category": "trivia",
+  "question": "\"Who topped the U.K. charts for eleven successive weeks in 1955, with his version of the song \"\"Rose Marie\"\"?\"",
+  "response": "Frank Sinatra",
+  "raw": "Frank Sinatra \nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "SLIM WHITMAN"
+ },
+ {
+  "item_id": "tqa_14549",
+  "category": "trivia",
+  "question": "From which continent does the world's smallest bear the Sun Bear originate?",
+  "response": "Asia",
+  "raw": "Asia\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "(SOUTH EAST) ASIA"
+ },
+ {
+  "item_id": "tqa_8401",
+  "category": "trivia",
+  "question": "Which European country has two cows on its flag?",
+  "response": "Ireland",
+  "raw": "Ireland\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Andorra"
+ },
+ {
+  "item_id": "tqa_11304",
+  "category": "trivia",
+  "question": "The original Ferris Wheel was erected in which US state for the 1893 World’s Columbian Exposition?",
+  "response": "Chicago, Illinois",
+  "raw": "Chicago, Illinois\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Illinois"
+ },
+ {
+  "item_id": "tqa_13983",
+  "category": "trivia",
+  "question": "What is the largest lake in Central America?",
+  "response": "Lake Nicaragua",
+  "raw": "Lake Nicaragua\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Lake Nicaragua"
+ },
+ {
+  "item_id": "tqa_754",
+  "category": "trivia",
+  "question": "The Hotel Matignon is the official residence of the Prime Minister of which European country?",
+  "response": "France",
+  "raw": "France\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "France"
+ },
+ {
+  "item_id": "tqa_16815",
+  "category": "trivia",
+  "question": "Which is the largest city on the Caspian Sea?",
+  "response": "Baku, Azerbaijan",
+  "raw": "Baku, Azerbaijan\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "BAKU"
+ },
+ {
+  "item_id": "tqa_4466",
+  "category": "trivia",
+  "question": "\"What is the first line of \"\"Walk on the Wild Side\"\" by Lou Reed, released as a single in 1972?\"",
+  "response": "\"Walk on the wild side, look in the heart and you'll find love\"",
+  "raw": "\"Walk on the wild side, look in the heart and you'll find love\"\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Holly came from Miami F L A"
+ },
+ {
+  "item_id": "tqa_3194",
+  "category": "trivia",
+  "question": "Feugo, Yangin, Brand, and Pozar are Spanish, Turkish, Dutch and Polish for?",
+  "response": "Fire, Fire, Brand, and Blaze",
+  "raw": "Fire, Fire, Brand, and Blaze\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Fire"
+ },
+ {
+  "item_id": "tqa_8796",
+  "category": "trivia",
+  "question": "In which country is the volcano Mount Meager?",
+  "response": "Canada",
+  "raw": "Canada\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Canada"
+ },
+ {
+  "item_id": "tqa_17267",
+  "category": "trivia",
+  "question": "In The Simpsons, how is Marion Anthony D'Amico, Springfield's Mafia boss, better known",
+  "response": "Fat Tony",
+  "raw": "Fat Tony\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Fat Tony"
+ },
+ {
+  "item_id": "tqa_9127",
+  "category": "trivia",
+  "question": "From which country does the food brand Del Monte originate",
+  "response": "Del Monte originates from the United States.",
+  "raw": "Del Monte originates from the United States.\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "U.S.A."
+ },
+ {
+  "item_id": "tqa_8538",
+  "category": "trivia",
+  "question": "On a clothing label a cross through what shape means 'Do Not Dry Clean'?",
+  "response": "A circle with a diagonal line through it.",
+  "raw": "A circle with a diagonal line through it.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "CIRCLE"
+ },
+ {
+  "item_id": "tqa_16671",
+  "category": "trivia",
+  "question": "The flag of the Isle of Man is a triskelion on what colour background?",
+  "response": "Red background",
+  "raw": "Red background\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "RED"
+ },
+ {
+  "item_id": "tqa_14117",
+  "category": "trivia",
+  "question": "On which island is Reina Sofia Airport?",
+  "response": "Tenerife",
+  "raw": "Tenerife\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Tenerife"
+ },
+ {
+  "item_id": "tqa_12839",
+  "category": "trivia",
+  "question": "Which womens squash player won the World Open four times (1985, 1987, 1990 & 1992) and the British Open eight times?",
+  "response": "Jenny Tranfield",
+  "raw": "Jenny Tranfield \nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Susan Devoy"
+ },
+ {
+  "item_id": "tqa_3445",
+  "category": "trivia",
+  "question": "Who wrote the opera Carmen?",
+  "response": "Georges Bizet",
+  "raw": "Georges Bizet\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Georges Bizet"
+ },
+ {
+  "item_id": "tqa_4613",
+  "category": "trivia",
+  "question": "In the mid 1990s what major fossil discovery was made in Liaoning, China?",
+  "response": "The Jehol Biota discovery.",
+  "raw": "The Jehol Biota discovery.\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 0,
+  "gold": "Well-preserved fossils of feathered dinosaurs"
+ },
+ {
+  "item_id": "tqa_10112",
+  "category": "trivia",
+  "question": "Who was king of France at the time of the French Revolution?",
+  "response": "Louis XVI",
+  "raw": "Louis XVI\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Louis XVI"
+ },
+ {
+  "item_id": "tqa_984",
+  "category": "trivia",
+  "question": "Creme Anglaise is the French version of which English dessert item?",
+  "response": "Custard",
+  "raw": "Custard\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Custard"
+ },
+ {
+  "item_id": "tqa_1620",
+  "category": "trivia",
+  "question": "Bosworth cheese comes from which English county?",
+  "response": "Leicestershire",
+  "raw": "Leicestershire\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "Staffordshire"
+ },
+ {
+  "item_id": "tqa_3930",
+  "category": "trivia",
+  "question": "\"What was the mission of \"\"Earthview 01: The Founders Flight\"\" which was launched on 21 April 1997?\"",
+  "response": "I'm not aware of any information about the mission \"Earthview 01: The Founders Flight\" launched on 21 April 1997.",
+  "raw": "I'm not aware of any information about the mission \"Earthview 01: The Founders Flight\" launched on 21 April 1997.\n\nConfidence: 0",
+  "said": 0.0,
+  "correct": 0,
+  "gold": "The first space burial"
+ },
+ {
+  "item_id": "tqa_13800",
+  "category": "trivia",
+  "question": "Who is also known as Jove?",
+  "response": "Jupiter",
+  "raw": "Jupiter\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Jupiter"
+ },
+ {
+  "item_id": "tqa_12007",
+  "category": "trivia",
+  "question": "Jupiter ; Saturn and Uranus are three of the so-called ' gas giants ' in our Solar System: what is the fourth ?",
+  "response": "Neptune is the fourth gas giant.",
+  "raw": "Neptune is the fourth gas giant.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "NEPTUNE"
+ },
+ {
+  "item_id": "tqa_8870",
+  "category": "trivia",
+  "question": "How many Bond themes did Shirley Bassey sing",
+  "response": "Shirley Bassey sang 5 Bond themes.",
+  "raw": "Shirley Bassey sang 5 Bond themes.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Three"
+ },
+ {
+  "item_id": "tqa_17547",
+  "category": "trivia",
+  "question": "'Diva' released in 1992 was the first solo album for who?",
+  "response": "Celine Dion",
+  "raw": "Celine Dion\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Annie Lennox"
+ },
+ {
+  "item_id": "tqa_8047",
+  "category": "trivia",
+  "question": "Which hit for 'Wet Wet Wet' was the biggest-selling single in Britain in 1994?",
+  "response": "Goodbye My Lover",
+  "raw": "Goodbye My Lover\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 0,
+  "gold": "'LOVE IS ALL AROUND'"
+ },
+ {
+  "item_id": "tqa_428",
+  "category": "trivia",
+  "question": "What is Robin Williams character called in Good Morning Vietnam?",
+  "response": "Adrian Cronauer",
+  "raw": "Adrian Cronauer\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Adrian"
+ },
+ {
+  "item_id": "tqa_12428",
+  "category": "trivia",
+  "question": "American Callan Pinckney's eponymously named system became a best-selling (1980s-2000s) book/video franchise in what genre?",
+  "response": "Self-improvement",
+  "raw": "Self-improvement\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Fitness"
+ },
+ {
+  "item_id": "tqa_1961",
+  "category": "trivia",
+  "question": "Of what family are Onion, garlic, shallot, leek and chive?",
+  "response": "Allium family",
+  "raw": "Allium family\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Allium"
+ },
+ {
+  "item_id": "tqa_17598",
+  "category": "trivia",
+  "question": "21st December, 2012, according to those of us who go in for this sort thing, is the date of the End Of The World. A faulty interpretation of which civilizations calendar system accounts for this?",
+  "response": "Mayan calendar.",
+  "raw": "Mayan calendar.\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "Mayan"
+ },
+ {
+  "item_id": "tqa_6243",
+  "category": "trivia",
+  "question": "Name the year; Dunblane massacre, IRA bomb in Manchester city centre, the first cloned mammal, Dolly the sheep, was born?",
+  "response": "1996",
+  "raw": "1996\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "1996"
+ },
+ {
+  "item_id": "tqa_11781",
+  "category": "trivia",
+  "question": "In which English city would you find the district of Gosforth?",
+  "response": "Newcastle upon Tyne",
+  "raw": "Newcastle upon Tyne\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "NEWCASTLE"
+ },
+ {
+  "item_id": "tqa_4552",
+  "category": "trivia",
+  "question": "In the culinary world, what word is used for the edible offal of a fowl, typically including the heart, gizzard and liver?",
+  "response": "Offal",
+  "raw": "Offal\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Giblets"
+ },
+ {
+  "item_id": "tqa_2860",
+  "category": "trivia",
+  "question": "A schism normally refers to a split within what sort of institution?",
+  "response": "A split within a religious institution.",
+  "raw": "A split within a religious institution.\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 0,
+  "gold": "Church"
+ },
+ {
+  "item_id": "tqa_699",
+  "category": "trivia",
+  "question": "The town of Tobermory is on which Scottish island?",
+  "response": "Mull",
+  "raw": "Mull\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Mull"
+ },
+ {
+  "item_id": "tqa_8685",
+  "category": "trivia",
+  "question": "Who was the last British athlete to compete in the Olympic 100 metres final?",
+  "response": "Dina Asher-Smith",
+  "raw": "Dina Asher-Smith\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "DWAYNE CHAMBERS"
+ },
+ {
+  "item_id": "tqa_17763",
+  "category": "trivia",
+  "question": "Pre restraining order(s), who did People magazine name as their first \"Sexiest Man Alive\", in 1985?",
+  "response": "Mel Gibson",
+  "raw": "Mel Gibson\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Mel Gibson"
+ },
+ {
+  "item_id": "tqa_11091",
+  "category": "trivia",
+  "question": "What is the title of Stephen King’s first novel published under his own name?",
+  "response": "Carrie",
+  "raw": "Carrie\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Carrie"
+ },
+ {
+  "item_id": "tqa_11767",
+  "category": "trivia",
+  "question": "\"The cruise liner \"\"Costa Concordia\"\" sank in the Tyrhenian sea in January 2012 against the rocks of the coast of what island?\"",
+  "response": "Island of Giglio",
+  "raw": "Island of Giglio\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "GIGLIO"
+ },
+ {
+  "item_id": "tqa_15200",
+  "category": "trivia",
+  "question": "Which optical toy was first patented in 1817 by David Brewster?",
+  "response": "Kaleidoscope",
+  "raw": "Kaleidoscope\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "KALEIDOSCOPE"
+ },
+ {
+  "item_id": "tqa_3689",
+  "category": "trivia",
+  "question": "J. E. Brandenberger, a Swiss chemist and textile engineer, discovered the process to make what?",
+  "response": "Nylon",
+  "raw": "Nylon\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "Cellophane"
+ },
+ {
+  "item_id": "tqa_1230",
+  "category": "trivia",
+  "question": "Cut, colour, clarity and carat are all considered when purchasing what?",
+  "response": "Diamonds",
+  "raw": "Diamonds\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Diamonds"
+ },
+ {
+  "item_id": "tqa_2274",
+  "category": "trivia",
+  "question": "\"Which Coronation Street character, who \"\"died\"\" in 2006, apparently had 25 girlfriends at various times and four wives?\"",
+  "response": "Jack Duckworth",
+  "raw": "Jack Duckworth\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "MIKE BALDWIN"
+ },
+ {
+  "item_id": "tqa_1287",
+  "category": "trivia",
+  "question": "Giugno is Italian for which month of the year?",
+  "response": "Giugno is Italian for June.",
+  "raw": "Giugno is Italian for June.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "June"
+ },
+ {
+  "item_id": "tqa_10391",
+  "category": "trivia",
+  "question": "In which 1969 movie did Michael Caine appear with his brother Stanley.",
+  "response": "Get Carter",
+  "raw": "Get Carter\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "The Italian Job"
+ },
+ {
+  "item_id": "tqa_2229",
+  "category": "trivia",
+  "question": "To whom did human-rights lawyer Amal Alamuddin become engaged in April 2014?",
+  "response": "George Clooney",
+  "raw": "George Clooney\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "George Clooney"
+ },
+ {
+  "item_id": "tqa_4848",
+  "category": "trivia",
+  "question": "Little Miss Muffet sat on a tuffet eating her curds and what?",
+  "response": "Eating her curds and whey.",
+  "raw": "Eating her curds and whey.\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Whey"
+ },
+ {
+  "item_id": "tqa_16020",
+  "category": "trivia",
+  "question": "Can you connect Darwin and his research on Galapagos Islands to the book To Kill a Mockingbird?",
+  "response": "Charles Darwin's observations on the Galapagos Islands influenced his theory of evolution, which is a concept explored in Harper Lee's novel To Kill a Mockingbird through the character of Atticus Finch, who teaches his children about empathy and understanding",
+  "raw": "Charles Darwin's observations on the Galapagos Islands influenced his theory of evolution, which is a concept explored in Harper Lee's novel To Kill a Mockingbird through the character of Atticus Finch, who teaches his children about empathy and understanding",
+  "said": null,
+  "correct": 1,
+  "gold": "\"\"\"Finch\"\"\""
+ },
+ {
+  "item_id": "tqa_16195",
+  "category": "trivia",
+  "question": "Who founded the TV production company 'David Paradine Productions'?",
+  "response": "David Paradine",
+  "raw": "David Paradine\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "DAVID FROST"
+ },
+ {
+  "item_id": "tqa_13407",
+  "category": "trivia",
+  "question": "Which artist has a daughter and two sons with Jane Asher, whom he married in 1981?",
+  "response": "Paul McCartney",
+  "raw": "Paul McCartney\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Gerald Scarfe"
+ },
+ {
+  "item_id": "tqa_2363",
+  "category": "trivia",
+  "question": "The upper house of the Canadian parliament is known as the Senate; what is the lower house called?",
+  "response": "The House of Commons.",
+  "raw": "The House of Commons.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "HOUSE OF COMMONS"
+ },
+ {
+  "item_id": "tqa_15977",
+  "category": "trivia",
+  "question": "A 'triskelion', a symbol consisting of three bent human legs is featured on the flag of which British crown dependency?",
+  "response": "Jersey",
+  "raw": "Jersey \nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Isle of Man"
+ },
+ {
+  "item_id": "tqa_10502",
+  "category": "trivia",
+  "question": "In computers, the X-Y Position Indicator for a Display System is now known as what?",
+  "response": "Monitor",
+  "raw": "Monitor\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Cursor"
+ },
+ {
+  "item_id": "tqa_8269",
+  "category": "trivia",
+  "question": "Who sang about 'Angie Baby' in 1975?",
+  "response": "Helena Springs",
+  "raw": "Helena Springs\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "HELEN REDDY"
+ },
+ {
+  "item_id": "tqa_4046",
+  "category": "trivia",
+  "question": "\"What sport is featured in \"\"Invictus\"\", a 2009 film directed by Clint Eastwood?\"",
+  "response": "Wheelchair rugby",
+  "raw": "Wheelchair rugby\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Rugby"
+ },
+ {
+  "item_id": "tqa_15296",
+  "category": "trivia",
+  "question": "Who was the first British astronaut?",
+  "response": "Helen Sharman",
+  "raw": "Helen Sharman\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "Helen Sharman"
+ },
+ {
+  "item_id": "tqa_17151",
+  "category": "trivia",
+  "question": "What is Donald Duck's middle name",
+  "response": "Quackenbush",
+  "raw": "Quackenbush\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "Fauntleroy"
+ },
+ {
+  "item_id": "tqa_6919",
+  "category": "trivia",
+  "question": "In Egyptian mythology, of what is Nut the goddess?",
+  "response": "The goddess of the sky and the heavens.",
+  "raw": "The goddess of the sky and the heavens.\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Sky"
+ },
+ {
+  "item_id": "tqa_5573",
+  "category": "trivia",
+  "question": "What type of animal is a corvid?",
+  "response": "Intelligent bird",
+  "raw": "Intelligent bird\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Bird"
+ },
+ {
+  "item_id": "tqa_1537",
+  "category": "trivia",
+  "question": "‘Before I Forget’ is a 1981 Autobiography by which English actor?",
+  "response": "Michael Caine",
+  "raw": "Michael Caine\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "James Mason"
+ },
+ {
+  "item_id": "tqa_4747",
+  "category": "trivia",
+  "question": "What was the last name of brothers Chico, Harpo, Groucho, Zeppo, and Gummo?",
+  "response": "Marx",
+  "raw": "Marx\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Marx"
+ },
+ {
+  "item_id": "tqa_12715",
+  "category": "trivia",
+  "question": "Which body of water was previously called the Euxine, after early colonisation of its southern coastline by Greeks, derived from their word for 'hospitable'?",
+  "response": "The Black Sea.",
+  "raw": "The Black Sea.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "The Black Sea"
+ },
+ {
+  "item_id": "tqa_12423",
+  "category": "trivia",
+  "question": "The word barber - meaning a men's/boy's hairdresser - is from Latin meaning?",
+  "response": "Barber comes from the Latin word \"barba,\" meaning beard.",
+  "raw": "Barber comes from the Latin word \"barba,\" meaning beard.\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "Beard"
+ },
+ {
+  "item_id": "tqa_1101",
+  "category": "trivia",
+  "question": "What is a group of ferrets called?",
+  "response": "A business of ferrets.",
+  "raw": "A business of ferrets.\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "A business"
+ },
+ {
+  "item_id": "tqa_16288",
+  "category": "trivia",
+  "question": "Ilich Ramirez Sanchez was a notorious figure in the 1970's. How was he better known?",
+  "response": "Carlos the Jackal",
+  "raw": "Carlos the Jackal\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "'CARLOS THE JACKAL'"
+ },
+ {
+  "item_id": "tqa_6799",
+  "category": "trivia",
+  "question": "How many basic positions are there in classical ballet?",
+  "response": "Five basic positions of the feet and five basic positions of the arms.",
+  "raw": "Five basic positions of the feet and five basic positions of the arms.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Five"
+ },
+ {
+  "item_id": "tqa_11916",
+  "category": "trivia",
+  "question": "In Japan, the term Mikado is an alternative name for what ?",
+  "response": "The Emperor of Japan",
+  "raw": "The Emperor of Japan\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "EMPEROR"
+ },
+ {
+  "item_id": "tqa_3105",
+  "category": "trivia",
+  "question": "What formal menswear, often abbreviated to three letters, is named after a New York park where it was first worn in the 1880s?",
+  "response": "The three-letter abbreviation is \"Tux.\"",
+  "raw": "The three-letter abbreviation is \"Tux.\"\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Tuxedo"
+ },
+ {
+  "item_id": "tqa_5526",
+  "category": "trivia",
+  "question": "What does the term 'Halal' literally mean? As in Halal meat eaten by Muslims.",
+  "response": "Permissible or lawful.",
+  "raw": "Permissible or lawful.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Permissible"
+ },
+ {
+  "item_id": "tqa_13040",
+  "category": "trivia",
+  "question": "In 1487, Portuguese navigator Bartholomew Diaz was the first European to sail past which landmark?",
+  "response": "Cape of Good Hope",
+  "raw": "Cape of Good Hope\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Cape of Good Hope"
+ },
+ {
+  "item_id": "tqa_9727",
+  "category": "trivia",
+  "question": "The principal author of the US Constitution and writer of over 1/3 of the Federalist Papers, which US President, the 4th, was CIC during the War of 1812?",
+  "response": "James Madison",
+  "raw": "James Madison\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "James Madison"
+ },
+ {
+  "item_id": "tqa_17707",
+  "category": "trivia",
+  "question": "What is the usual term for growing plants in liquid, without the benefit of soil?",
+  "response": "Hydroponics.",
+  "raw": "Hydroponics.\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Hydroponics"
+ },
+ {
+  "item_id": "tqa_8808",
+  "category": "trivia",
+  "question": "For what does the I stand in the Government Department known as BIS?",
+  "response": "Information",
+  "raw": "Information\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "(Department For Business,) Innovation (And Skills)"
+ },
+ {
+  "item_id": "tqa_1266",
+  "category": "trivia",
+  "question": "Nani, Cobra Bubbles and Captain Gantu are all characters in which Disney film?",
+  "response": "Lilo & Stitch",
+  "raw": "Lilo & Stitch\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Lilo and Stitch"
+ },
+ {
+  "item_id": "tqa_1535",
+  "category": "trivia",
+  "question": "Gibraltar is linked by ferry to which North African city?",
+  "response": "Tangier",
+  "raw": "Tangier\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "Tangier"
+ },
+ {
+  "item_id": "tqa_16872",
+  "category": "trivia",
+  "question": "Rahere, an Anglo-Norman monk, founded which London hospital in 1123?",
+  "response": "St. Bartholomew's Hospital",
+  "raw": "St. Bartholomew's Hospital\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "St Bartholomew's"
+ },
+ {
+  "item_id": "tqa_15504",
+  "category": "trivia",
+  "question": "What is the more familiar name for the aromatic gum resin olibanum?",
+  "response": "Frankincense",
+  "raw": "Frankincense\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Frankincense"
+ },
+ {
+  "item_id": "tqa_10559",
+  "category": "trivia",
+  "question": "In which year did Margaret Thatcher become British Prime Minister?",
+  "response": "1979",
+  "raw": "1979\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "1979"
+ },
+ {
+  "item_id": "tqa_16139",
+  "category": "trivia",
+  "question": "The Zodiac sign 'Libra' belongs to which element?",
+  "response": "Air",
+  "raw": "Air\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "AIR"
+ },
+ {
+  "item_id": "tqa_10129",
+  "category": "trivia",
+  "question": "What is the name of the strong material found in plant cell walls?",
+  "response": "Cellulose",
+  "raw": "Cellulose\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Cellulose"
+ },
+ {
+  "item_id": "tqa_11562",
+  "category": "trivia",
+  "question": "Who in legend provided pie fillings for Mrs Lovett?",
+  "response": "Sweeney Todd",
+  "raw": "Sweeney Todd\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Sweeney Todd"
+ },
+ {
+  "item_id": "tqa_3421",
+  "category": "trivia",
+  "question": "Herman Van Rompuy became first Permanent President of what?",
+  "response": "European Council",
+  "raw": "European Council\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "The European Council"
+ },
+ {
+  "item_id": "tqa_10165",
+  "category": "trivia",
+  "question": "What is the most popular natural attraction in Alaska?",
+  "response": "Denali National Park and Preserve.",
+  "raw": "Denali National Park and Preserve.\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Mount McKinley"
+ },
+ {
+  "item_id": "tqa_11795",
+  "category": "trivia",
+  "question": "Sharing his surname with a biblical character, which footballer scored the deciding goal in the 1967 FA Cup Final?",
+  "response": "Geoff Hurst",
+  "raw": "Geoff Hurst\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "FRANK SAUL"
+ },
+ {
+  "item_id": "tqa_6348",
+  "category": "trivia",
+  "question": "Which treaty was signed in March 1918 signalling Russia's exit from World War 1?",
+  "response": "Treaty of Brest-Litovsk",
+  "raw": "Treaty of Brest-Litovsk\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "Brest-Litovsk"
+ },
+ {
+  "item_id": "tqa_3289",
+  "category": "trivia",
+  "question": "What colour is Stephanie's hair in the children's TV series LazyTown?",
+  "response": "Pink",
+  "raw": "Pink\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Pink"
+ },
+ {
+  "item_id": "tqa_14007",
+  "category": "trivia",
+  "question": "What Jewish banking family rose from the Frankfurt ghetto to become unthinkably wealthy?",
+  "response": "The Rothschild family.",
+  "raw": "The Rothschild family.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Rothschild"
+ },
+ {
+  "item_id": "tqa_5608",
+  "category": "trivia",
+  "question": "What was the name given to the synthetic material which was the fore-runner to today's modern plastic?",
+  "response": "Parkesine",
+  "raw": "Parkesine\nConfidence: 90",
+  "said": 90.0,
+  "correct": 0,
+  "gold": "BAKELITE"
+ },
+ {
+  "item_id": "tqa_17666",
+  "category": "trivia",
+  "question": "An equilateral triangle has all 3 sides of the same length. What type of triangle only has 2 sides of equal length?",
+  "response": "Isosceles triangle",
+  "raw": "Isosceles triangle\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Isosceles triangle"
+ },
+ {
+  "item_id": "tqa_17877",
+  "category": "trivia",
+  "question": "October 7, 1952 saw the birth of what former president, and current prime minister, of Russia?",
+  "response": "Vladimir Putin",
+  "raw": "Vladimir Putin\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "Vladimir Putin"
+ },
+ {
+  "item_id": "tqa_9283",
+  "category": "trivia",
+  "question": "In MASH what was the character Radars full name?",
+  "response": "Henry Blake's Radar Replacement, but the character Radar's full name is Walter \"Radar\" O'Reilly.",
+  "raw": "Henry Blake's Radar Replacement, but the character Radar's full name is Walter \"Radar\" O'Reilly.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Walter O'Reilly"
+ },
+ {
+  "item_id": "tqa_17165",
+  "category": "trivia",
+  "question": "What is the study of armorial bearings called",
+  "response": "Heraldry",
+  "raw": "Heraldry\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "Heraldry"
+ },
+ {
+  "item_id": "tqa_13012",
+  "category": "trivia",
+  "question": "\"Larry Levine, an American audio engineer, who won a Grammy Award in 1966 for \"\"A Taste of Honey\"\" by Herb Alpert & the Tijuana Brass and contributed to The Beach Boys' 1966 album \"\"Pet Sounds\"\", was best known for his co-operation on the Wall of Sound recording technique with which producer?\"",
+  "response": "Phil Spector",
+  "raw": "Phil Spector\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Phil Spector"
+ },
+ {
+  "item_id": "tqa_13559",
+  "category": "trivia",
+  "question": "Gordon Ramsay opened a restaurant in 2001 in which London hotel?",
+  "response": "Claridge's",
+  "raw": "Claridge's\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "Claridge's"
+ },
+ {
+  "item_id": "tqa_9539",
+  "category": "trivia",
+  "question": "Known as Action Man in the UK, what 1964 Hasbro toy is responsible for the coining the phrase action figure?",
+  "response": "G.I. Joe",
+  "raw": "G.I. Joe\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "GI Joe"
+ },
+ {
+  "item_id": "tqa_112",
+  "category": "trivia",
+  "question": "In which European city is the Belvederen Gallery?",
+  "response": "The Belvedere Gallery is in Vienna.",
+  "raw": "The Belvedere Gallery is in Vienna.\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Vienna"
+ },
+ {
+  "item_id": "tqa_7847",
+  "category": "trivia",
+  "question": "Used when making tea, and deriving from the Russian for 'self brewer', what name is given to the heated metal container traditionally used to heat and boil water in Russia, Iran and Turkey?",
+  "response": "Samovar",
+  "raw": "Samovar\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "SAMOVAR"
+ },
+ {
+  "item_id": "tqa_10029",
+  "category": "trivia",
+  "question": "Which movie was a biopic about the life of David Helfgott?",
+  "response": "Shine",
+  "raw": "Shine\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Shine"
+ },
+ {
+  "item_id": "tqa_629",
+  "category": "trivia",
+  "question": "Who was the third President of the USA, following on from George Washington and John Adams was also famed for his numerous inventions?",
+  "response": "Thomas Jefferson",
+  "raw": "Thomas Jefferson\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Thomas Jefferson"
+ },
+ {
+  "item_id": "tqa_17238",
+  "category": "trivia",
+  "question": "At which British golf course could you find yourself in Hell Bunker",
+  "response": "Woburn Golf Club",
+  "raw": "Woburn Golf Club\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "Saint Andrews"
+ },
+ {
+  "item_id": "tqa_9223",
+  "category": "trivia",
+  "question": "In which country is the Grand Coulee Dam",
+  "response": "United States",
+  "raw": "United States\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "The United States"
+ },
+ {
+  "item_id": "tqa_1561",
+  "category": "trivia",
+  "question": "What type of creature is a discus?",
+  "response": "A discus is a type of freshwater fish.",
+  "raw": "A discus is a type of freshwater fish.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Fish"
+ },
+ {
+  "item_id": "tqa_5382",
+  "category": "trivia",
+  "question": "In which European city is Kurtfurstendamm the main shopping street?",
+  "response": "Berlin",
+  "raw": "Berlin\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "BERLIN"
+ },
+ {
+  "item_id": "tqa_9190",
+  "category": "trivia",
+  "question": "What would you see at the Donington Collection",
+  "response": "A collection of historic racing cars and motorcycles.",
+  "raw": "A collection of historic racing cars and motorcycles.\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 0,
+  "gold": "Grand Prix racing cars"
+ },
+ {
+  "item_id": "tqa_13202",
+  "category": "trivia",
+  "question": "In the books by the Rev. W. V. Awdry and the UK TV series first broadcast in 1984 with Ringo Starr as storyteller, how many wheels does Thomas the Tank Engine have?",
+  "response": "Three wheels.",
+  "raw": "Three wheels.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "6"
+ },
+ {
+  "item_id": "tqa_9237",
+  "category": "trivia",
+  "question": "Which band started life as 'Feedback' and then became 'The Hype' before settling on their current name?",
+  "response": "Radiohead",
+  "raw": "Radiohead\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "U2"
+ },
+ {
+  "item_id": "tqa_13736",
+  "category": "trivia",
+  "question": "\"Who wrote the story \"\"A Christmas Carol\"\"?\"",
+  "response": "Charles Dickens",
+  "raw": "Charles Dickens\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Charles Dickens"
+ },
+ {
+  "item_id": "tqa_3409",
+  "category": "trivia",
+  "question": "What did Ukrainian prime minister Yulia Timoshenko change about her appearance which shocked commentators in 2009?",
+  "response": "She changed her hair color to blonde.",
+  "raw": "She changed her hair color to blonde.\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "Hairstyle"
+ },
+ {
+  "item_id": "tqa_13100",
+  "category": "trivia",
+  "question": "\"The song \"\"Love To Love You Baby\"\" was banned by the BBC in 1975. Who was the artist?\"",
+  "response": "Donna Summer",
+  "raw": "Donna Summer\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Donna Summer"
+ },
+ {
+  "item_id": "tqa_10158",
+  "category": "trivia",
+  "question": "What number in Bingo is sometimes referred to as Heinz varieties?",
+  "response": "57",
+  "raw": "57\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "57"
+ },
+ {
+  "item_id": "tqa_12482",
+  "category": "trivia",
+  "question": "JP Morgan, Barclays, RBS, Citigroup, Bank of America, and UBS were fined $6bn in 2015 for rigging what market?",
+  "response": "Libor scandal",
+  "raw": "Libor scandal\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Foreign Exchange"
+ },
+ {
+  "item_id": "tqa_9862",
+  "category": "trivia",
+  "question": "Who sang behind Huey Lewis?",
+  "response": "The News",
+  "raw": "The News\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "The News"
+ },
+ {
+  "item_id": "tqa_10145",
+  "category": "trivia",
+  "question": "What is the name of the large buttock and thigh muscle?",
+  "response": "Gluteus maximus",
+  "raw": "Gluteus maximus\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Gluteus maximus"
+ },
+ {
+  "item_id": "tqa_15992",
+  "category": "trivia",
+  "question": "Which city of central Spain was renowned throughout the Middle Ages as an important center for the production of swords and other bladed instruments?",
+  "response": "Toledo",
+  "raw": "Toledo\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "Toledo"
+ },
+ {
+  "item_id": "tqa_15696",
+  "category": "trivia",
+  "question": "Which US folk singer had the words “This machine kills fascists” written on his guitar?",
+  "response": "Woody Guthrie",
+  "raw": "Woody Guthrie\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Woody Guthrie"
+ },
+ {
+  "item_id": "tqa_6950",
+  "category": "trivia",
+  "question": "Which is the only US state divided into parishes?",
+  "response": "Louisiana",
+  "raw": "Louisiana\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "LOUISIANA"
+ },
+ {
+  "item_id": "tqa_11955",
+  "category": "trivia",
+  "question": "What term describes a vertical stone bar separating the panes of a window, often found in Gothic architecture ?",
+  "response": "Mullion",
+  "raw": "Mullion\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "MULLION"
+ },
+ {
+  "item_id": "tqa_2935",
+  "category": "trivia",
+  "question": "Willis-Ekbom disease is more commonly known as?",
+  "response": "Restless Legs Syndrome",
+  "raw": "Restless Legs Syndrome\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Restless leg syndrome"
+ },
+ {
+  "item_id": "tqa_14426",
+  "category": "trivia",
+  "question": "What is the largest state in Brazil?",
+  "response": "São Paulo is not the largest state in Brazil, it is the most populous. The largest state in Brazil is Amazonas.",
+  "raw": "São Paulo is not the largest state in Brazil, it is the most populous. The largest state in Brazil is Amazonas.\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "AMAZONAS"
+ },
+ {
+  "item_id": "tqa_12559",
+  "category": "trivia",
+  "question": "Lent (Latin Quadragesima) is traditionally a Christian religious fast of how many days?",
+  "response": "40 days",
+  "raw": "40 days\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "40"
+ },
+ {
+  "item_id": "tqa_835",
+  "category": "trivia",
+  "question": "Which country was invaded by Iraq in 1990?",
+  "response": "Kuwait",
+  "raw": "Kuwait\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Kuwait"
+ },
+ {
+  "item_id": "tqa_11777",
+  "category": "trivia",
+  "question": "\"The opera \"\"Duke Bluebeard's Castle\"\" and the ballet \"\"The Wooden Prince\"\" are the works of which composer?\"",
+  "response": "Béla Bartók",
+  "raw": "Béla Bartók\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "BARTOK"
+ },
+ {
+  "item_id": "tqa_1844",
+  "category": "trivia",
+  "question": "Between 1838 and 1839, against which country did France fight the so-called Pastry War?",
+  "response": "Mexico",
+  "raw": "Mexico \nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Mexico"
+ },
+ {
+  "item_id": "tqa_2482",
+  "category": "trivia",
+  "question": "\"Which part of Wales was made the frist \"\"area of outstanding natural beauty\"\" in 1956 ?\"",
+  "response": "The Brecon Beacons.",
+  "raw": "The Brecon Beacons.\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 0,
+  "gold": "GOWER"
+ },
+ {
+  "item_id": "tqa_9889",
+  "category": "trivia",
+  "question": "What Arizona national park was formed over millions of years by the relentless efforts of the Colorado River?",
+  "response": "Grand Canyon National Park.",
+  "raw": "Grand Canyon National Park.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "The Grand Canyon"
+ },
+ {
+  "item_id": "tqa_4345",
+  "category": "trivia",
+  "question": "Whose alter ego is Sasha Fierce?",
+  "response": "Beyoncé",
+  "raw": "Beyoncé\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Beyonc"
+ },
+ {
+  "item_id": "tqa_17519",
+  "category": "trivia",
+  "question": "\"Heinz' 1963 song \"\"Just Like Eddie\"\" was a tribute to whom?\"",
+  "response": "Eddie Cochran",
+  "raw": "Eddie Cochran\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "Eddie Cochrane"
+ },
+ {
+  "item_id": "tqa_15133",
+  "category": "trivia",
+  "question": "According to L Frank Baum's 'The Wonderful Wizard of Oz', the Road to the City of Emeralds is paved with what?",
+  "response": "Yellow brick",
+  "raw": "Yellow brick\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "YELLOW BRICKS"
+ },
+ {
+  "item_id": "tqa_11049",
+  "category": "trivia",
+  "question": "The Museum of Bags and Purses is in which European city?",
+  "response": "The Museum of Bags and Purses is in Amsterdam.",
+  "raw": "The Museum of Bags and Purses is in Amsterdam.\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "Amsterdam"
+ },
+ {
+  "item_id": "tqa_13157",
+  "category": "trivia",
+  "question": "In 1947, Chuck Yeager was the first to do what in an aeroplane?",
+  "response": "Break the sound barrier.",
+  "raw": "Break the sound barrier.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Break the sound barrier"
+ },
+ {
+  "item_id": "tqa_16917",
+  "category": "trivia",
+  "question": "Dame Judi Dench and which other actress played the Widdington sisters in the 2004 film Ladies in Lavender?",
+  "response": "Maggie Smith",
+  "raw": "Maggie Smith\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Maggie Smith"
+ },
+ {
+  "item_id": "tqa_16280",
+  "category": "trivia",
+  "question": "If you order 'Gambas' in a Spanish restaurant what will you get?",
+  "response": "Shrimp.",
+  "raw": "Shrimp.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "PRAWNS"
+ },
+ {
+  "item_id": "tqa_9961",
+  "category": "trivia",
+  "question": "\"Who was the target of the failed \"\"Bomb Plot\"\" of 1944?\"",
+  "response": "Adolf Hitler",
+  "raw": "Adolf Hitler\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "Hitler"
+ },
+ {
+  "item_id": "tqa_16857",
+  "category": "trivia",
+  "question": "In which novel does Flora Poste move to live with her relatives, the Starkadders, in Sussex?",
+  "response": "Cold Comfort Farm",
+  "raw": "Cold Comfort Farm\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Cold Comfort Farm"
+ },
+ {
+  "item_id": "tqa_9267",
+  "category": "trivia",
+  "question": "Orphelia, Autumn Leaves and Bubbles are 3 of the famous works of which artist?",
+  "response": "John William Waterhouse",
+  "raw": "John William Waterhouse\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "JOHN MILLAIS"
+ },
+ {
+  "item_id": "tqa_11748",
+  "category": "trivia",
+  "question": "The pose that Evans-Loude used came from which of Marilyn Monroe's films?",
+  "response": "The pose is from \"The Seven Year Itch\".",
+  "raw": "The pose is from \"The Seven Year Itch\".\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "THE SEVEN YEAR ITCH"
+ },
+ {
+  "item_id": "tqa_4817",
+  "category": "trivia",
+  "question": "\"Who said \"\"we're more popular than Jesus now\"\", in 1966?\"",
+  "response": "John Lennon",
+  "raw": "John Lennon\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "John Lennon"
+ },
+ {
+  "item_id": "tqa_14291",
+  "category": "trivia",
+  "question": "For which scientific discovery did Crick and Watson receive the 1962 Nobel Prize for Medicine?",
+  "response": "The discovery of the structure of DNA.",
+  "raw": "The discovery of the structure of DNA.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "DNA structure"
+ },
+ {
+  "item_id": "tqa_4767",
+  "category": "trivia",
+  "question": "What U.S. state is closest to Africa (geographically)?",
+  "response": "Maine.",
+  "raw": "Maine.\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "Maine"
+ },
+ {
+  "item_id": "tqa_15485",
+  "category": "trivia",
+  "question": "Which Liverpool street was named as 'The Great Street 2013' in the National Urbanism Awards?",
+  "response": "Bold Street",
+  "raw": "Bold Street\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "Hope Street"
+ },
+ {
+  "item_id": "tqa_4786",
+  "category": "trivia",
+  "question": "\"What celebrity chef says \"\"Bam\"\"?\"",
+  "response": "Gordon Ramsay",
+  "raw": "Gordon Ramsay\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Emeril Lagasse"
+ },
+ {
+  "item_id": "tqa_3215",
+  "category": "trivia",
+  "question": "Name the last US president to meet the leader of Cuba before Barack Obama did in 2015?",
+  "response": "Jimmy Carter",
+  "raw": "Jimmy Carter\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "Eisenhower"
+ },
+ {
+  "item_id": "tqa_1125",
+  "category": "trivia",
+  "question": "Who wrote the 1951 novel ‘From here to Eternity’?",
+  "response": "James Jones",
+  "raw": "James Jones\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "James Jones"
+ },
+ {
+  "item_id": "tqa_5560",
+  "category": "trivia",
+  "question": "Which famous writer is named after a lake in Staffordshire?",
+  "response": "Arthur Ransome",
+  "raw": "Arthur Ransome\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "Rudyard Kipling"
+ },
+ {
+  "item_id": "tqa_12963",
+  "category": "trivia",
+  "question": "What is the name for the period of French history from 2 December 1852 (when Napoleon III became Emperor) to 4 September 1870 (when the Third Republic was set up after the Battle of Sedan)?",
+  "response": "The Second Empire.",
+  "raw": "The Second Empire.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Second Empire"
+ },
+ {
+  "item_id": "tqa_17511",
+  "category": "trivia",
+  "question": "The Southern Alps can be found in which country?",
+  "response": "New Zealand",
+  "raw": "New Zealand\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "New Zealand"
+ },
+ {
+  "item_id": "tqa_10106",
+  "category": "trivia",
+  "question": "Which orchestral conductor was married to one of the subjects of the film Hillary and Jackie?",
+  "response": "Daniel Barenboim",
+  "raw": "Daniel Barenboim\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "Daniel Barenboim"
+ },
+ {
+  "item_id": "tqa_6060",
+  "category": "trivia",
+  "question": "What sort of plants belong to the genus Ilex?",
+  "response": "Holly plants belong to the genus Ilex.",
+  "raw": "Holly plants belong to the genus Ilex.\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Holly"
+ },
+ {
+  "item_id": "tqa_11189",
+  "category": "trivia",
+  "question": "Which 1940 film, directed by John Ford, was based on John Steinbeck’s Pulitzer-Prize winning novel of the same name?",
+  "response": "The Grapes of Wrath",
+  "raw": "The Grapes of Wrath\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "The Grapes of Wrath"
+ },
+ {
+  "item_id": "tqa_8990",
+  "category": "trivia",
+  "question": "What was the name of the character played by Chuck Connors in The Rifleman",
+  "response": "Lucas McCain",
+  "raw": "Lucas McCain\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Lucas McCain"
+ },
+ {
+  "item_id": "tqa_2894",
+  "category": "trivia",
+  "question": "Malaikah in the Qur'an, and Mal'akh in the Hebrew Bible?",
+  "response": "Angelic beings or messengers of God.",
+  "raw": "Angelic beings or messengers of God.\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "Angel"
+ },
+ {
+  "item_id": "tqa_15517",
+  "category": "trivia",
+  "question": "The Andaman Sea is part of which ocean?",
+  "response": "The Indian Ocean",
+  "raw": "The Indian Ocean\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Indian"
+ },
+ {
+  "item_id": "tqa_11244",
+  "category": "trivia",
+  "question": "Which former World Darts Champion is known by the nickname ‘The Limestone Cowboy’?",
+  "response": "Eric Bristow",
+  "raw": "Eric Bristow\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Bob Anderson"
+ },
+ {
+  "item_id": "tqa_15198",
+  "category": "trivia",
+  "question": "Which Briton won the Nobel Prize for Literature in the 1980s?",
+  "response": "Wole Soyinka is not the answer, but one Briton who won the Nobel Prize for Literature in the 1980s is not correct, but one Briton who won the Nobel Prize for Literature in the 1980s is",
+  "raw": "Wole Soyinka is not the answer, but one Briton who won the Nobel Prize for Literature in the 1980s is not correct, but one Briton who won the Nobel Prize for Literature in the 1980s is",
+  "said": null,
+  "correct": 0,
+  "gold": "WILLIAM GOLDING"
+ },
+ {
+  "item_id": "tqa_8980",
+  "category": "trivia",
+  "question": "I n dressmaking what are featherweight, skirt weight and open ended",
+  "response": "Featherweight, skirt weight, and open-end are types of fabrics in dressmaking.",
+  "raw": "Featherweight, skirt weight, and open-end are types of fabrics in dressmaking.\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 0,
+  "gold": "Zips"
+ },
+ {
+  "item_id": "tqa_4752",
+  "category": "trivia",
+  "question": "What boy with a girl's name was sung about by Johnny Cash?",
+  "response": "June Carter",
+  "raw": "June Carter\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Sue"
+ },
+ {
+  "item_id": "tqa_17324",
+  "category": "trivia",
+  "question": "What was the name of the character played by Bonnie Langford in Just William",
+  "response": "Ethel Hargreaves",
+  "raw": "Ethel Hargreaves\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "Violet Elizabeth Bott"
+ },
+ {
+  "item_id": "tqa_5439",
+  "category": "trivia",
+  "question": "Which is the largest of the United Arab Emirates?",
+  "response": "Oman is not part of the UAE, but the largest emirate is Abu Dhabi.",
+  "raw": "Oman is not part of the UAE, but the largest emirate is Abu Dhabi.\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "Abu Dhabi"
+ },
+ {
+  "item_id": "tqa_141",
+  "category": "trivia",
+  "question": "What relation was Flo Jo to Jackie Joyner Kersee?",
+  "response": "Florence Griffith-Joyner was the wife of Bob Kersee, Jackie Joyner-Kersee's husband.",
+  "raw": "Florence Griffith-Joyner was the wife of Bob Kersee, Jackie Joyner-Kersee's husband.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Sister-in-law"
+ },
+ {
+  "item_id": "tqa_13663",
+  "category": "trivia",
+  "question": "Where did the space probe New Horizons launched by NASA in 2006 aim to investigate?",
+  "response": "The Kuiper Belt and Pluto.",
+  "raw": "The Kuiper Belt and Pluto.\nConfidence: 95",
+  "said": 95.0,
+  "correct": 0,
+  "gold": "Pluto and the Kuiper Belt"
+ },
+ {
+  "item_id": "tqa_12203",
+  "category": "trivia",
+  "question": "Which country suspended its annual Antarctic Whale Hunt in February 2011, after activists from a US-based environmental group chased the mother ship?",
+  "response": "Japan",
+  "raw": "Japan\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "Japan"
+ },
+ {
+  "item_id": "tqa_17202",
+  "category": "trivia",
+  "question": "Which English city has the most canals",
+  "response": "Manchester",
+  "raw": "Manchester\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "Birmingham"
+ },
+ {
+  "item_id": "tqa_8659",
+  "category": "trivia",
+  "question": "What is a vent in the Earth's crust that spouts a fountain of boiling water called?",
+  "response": "A fumarole.",
+  "raw": "A fumarole.\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "GEYSER"
+ },
+ {
+  "item_id": "tqa_17905",
+  "category": "trivia",
+  "question": "Last week saw the passing of Bob Guccione, founder and publisher of what adult magazine, as well as producing that well known high art film, Caligula?",
+  "response": "Penthouse magazine",
+  "raw": "Penthouse magazine\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Penthouse"
+ },
+ {
+  "item_id": "tqa_5535",
+  "category": "trivia",
+  "question": "Prince Calef is the male-lead in which Puccini opera?",
+  "response": "La fanciulla del West",
+  "raw": "La fanciulla del West\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Turandot"
+ },
+ {
+  "item_id": "tqa_7573",
+  "category": "trivia",
+  "question": "Who played the title role in the 2008 film 'The Curious Case Of Benjamin Button'?",
+  "response": "Brad Pitt",
+  "raw": "Brad Pitt\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "BRAD PITT"
+ },
+ {
+  "item_id": "tqa_7596",
+  "category": "trivia",
+  "question": "When Alex Ferguson joined Manchester United on November 6th 1986, who was manager of Liverpool?",
+  "response": "Kenny Dalglish",
+  "raw": "Kenny Dalglish\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "KENNY DALGLISH"
+ },
+ {
+  "item_id": "tqa_17873",
+  "category": "trivia",
+  "question": "Oct 5, 1902 saw the birth of Ray Kroc, who started which ubiquitous food source, the most successful fast food operation in the world?",
+  "response": "McDonald's",
+  "raw": "McDonald's\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "McDonalds"
+ },
+ {
+  "item_id": "tqa_8399",
+  "category": "trivia",
+  "question": "The adjective vulpine refers to which animal?",
+  "response": "Fox",
+  "raw": "Fox\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "FOX"
+ },
+ {
+  "item_id": "tqa_1048",
+  "category": "trivia",
+  "question": "Who played factory boss Danny Baldwin in the British television soap ‘Coronation Street’?",
+  "response": "Bruce Jones",
+  "raw": "Bruce Jones\nConfidence: 95",
+  "said": 95.0,
+  "correct": 0,
+  "gold": "Bradley Walsh"
+ },
+ {
+  "item_id": "tqa_7188",
+  "category": "trivia",
+  "question": "In an electrical circuit what is measured by a Wheatstone Bridge?",
+  "response": "Resistance",
+  "raw": "Resistance\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Resistance"
+ },
+ {
+  "item_id": "tqa_15243",
+  "category": "trivia",
+  "question": "In which country was the inventor of the machine gun Hiram Maxim born?",
+  "response": "United States",
+  "raw": "United States\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "USA"
+ },
+ {
+  "item_id": "tqa_651",
+  "category": "trivia",
+  "question": "Which method of painting consists of applying pigment to wet plaster?",
+  "response": "Fresco",
+  "raw": "Fresco\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "Fresco."
+ },
+ {
+  "item_id": "tqa_2235",
+  "category": "trivia",
+  "question": "Which Jersey-born actor played Superman in Man of Steel?",
+  "response": "Henry Cavill",
+  "raw": "Henry Cavill\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Henry Cavill"
+ },
+ {
+  "item_id": "tqa_13849",
+  "category": "trivia",
+  "question": "Communist forces in Vietnam began an offensive during what holiday in 1968?",
+  "response": "Tet Offensive",
+  "raw": "Tet Offensive\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Tet"
+ },
+ {
+  "item_id": "tqa_16640",
+  "category": "trivia",
+  "question": "What in Sikhism, is a Kanga?",
+  "response": "A Kanga is a wooden comb.",
+  "raw": "A Kanga is a wooden comb.\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "COMB"
+ },
+ {
+  "item_id": "tqa_11185",
+  "category": "trivia",
+  "question": "What is the currency of Lithuania?",
+  "response": "Lithuanian litas",
+  "raw": "Lithuanian litas\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Litas"
+ },
+ {
+  "item_id": "tqa_12389",
+  "category": "trivia",
+  "question": "Which global confectioner started its business in 1920 making 'gummibärchen'?",
+  "response": "Haribo",
+  "raw": "Haribo\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Haribo"
+ },
+ {
+  "item_id": "tqa_16760",
+  "category": "trivia",
+  "question": "Which Scottish football league club play its home games at Palmerston Park",
+  "response": "Queen of the South",
+  "raw": "Queen of the South\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Queen Of The South"
+ },
+ {
+  "item_id": "tqa_4829",
+  "category": "trivia",
+  "question": "What movie starred Michael Jordan?",
+  "response": "Space Jam",
+  "raw": "Space Jam\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Space Jam"
+ },
+ {
+  "item_id": "tqa_9244",
+  "category": "trivia",
+  "question": "From what is 'Banana Oil' produced?",
+  "response": "Palm oil from palm fruit, but more specifically, it is a byproduct of the oil palm fruit, specifically the mesocarp of the fruit, which is also known as the 'banana oil' due to its yellow color.\n\nConf",
+  "raw": "Palm oil from palm fruit, but more specifically, it is a byproduct of the oil palm fruit, specifically the mesocarp of the fruit, which is also known as the 'banana oil' due to its yellow color.\n\nConf",
+  "said": null,
+  "correct": 0,
+  "gold": "Coal"
+ },
+ {
+  "item_id": "tqa_17703",
+  "category": "trivia",
+  "question": "May 15, 1940 saw what fast food chain get started in San Bernadino, CA?",
+  "response": "In-N-Out Burger",
+  "raw": "In-N-Out Burger\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "McDonald's"
+ },
+ {
+  "item_id": "tqa_4563",
+  "category": "trivia",
+  "question": "What colour cat is a Russian Blue?",
+  "response": "Blue",
+  "raw": "Blue\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Grey"
+ },
+ {
+  "item_id": "tqa_1386",
+  "category": "trivia",
+  "question": "For how many years did English monarch King Henry III reign?",
+  "response": "King Henry III reigned for 56 years.",
+  "raw": "King Henry III reigned for 56 years.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "56"
+ },
+ {
+  "item_id": "tqa_1934",
+  "category": "trivia",
+  "question": "What is the name of the drag queen persona of Thomas Neuwirth, who won in 2014?",
+  "response": "Conchita Wurst",
+  "raw": "Conchita Wurst\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "CONCHITA WURST"
+ },
+ {
+  "item_id": "tqa_6439",
+  "category": "trivia",
+  "question": "Which TV personality has written the best-selling autobiography 'My Animals and Other Family'?",
+  "response": "Julia Bradbury",
+  "raw": "Julia Bradbury\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Clare Balding"
+ },
+ {
+  "item_id": "tqa_1803",
+  "category": "trivia",
+  "question": "What is the name for the playing area in American football?",
+  "response": "The playing area in American football is called a gridiron.",
+  "raw": "The playing area in American football is called a gridiron.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "GRIDIRON"
+ },
+ {
+  "item_id": "tqa_175",
+  "category": "trivia",
+  "question": "Throughout the 80s and 90s Phil Collins recorded on which record label?",
+  "response": "Atlantic Records and Virgin Records, but most notably Atlantic Records.",
+  "raw": "Atlantic Records and Virgin Records, but most notably Atlantic Records.\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "Atlantic"
+ },
+ {
+  "item_id": "tqa_2000",
+  "category": "trivia",
+  "question": "In which film does crooked computer programmer Dennis Nedry cause havoc?",
+  "response": "Jurassic Park",
+  "raw": "Jurassic Park\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Jurassic Park"
+ },
+ {
+  "item_id": "tqa_14641",
+  "category": "trivia",
+  "question": "What was Groucho Marx's real first name?",
+  "response": "Julius",
+  "raw": "Julius\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "JULIUS"
+ },
+ {
+  "item_id": "tqa_15174",
+  "category": "trivia",
+  "question": "Which British comic included Desperate Dan and Korky the Cat?",
+  "response": "The Beano",
+  "raw": "The Beano\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "The Dandy"
+ },
+ {
+  "item_id": "tqa_7330",
+  "category": "trivia",
+  "question": "Marc Bolland has announced that he is to stand down as Chief Executive of which Major High Street Store?",
+  "response": "Marks & Spencer",
+  "raw": "Marks & Spencer\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "MARKS AND SPENCER"
+ },
+ {
+  "item_id": "tqa_13939",
+  "category": "trivia",
+  "question": "Phil Collins was a drummer and singer in what band?",
+  "response": "Genesis",
+  "raw": "Genesis\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Genesis"
+ },
+ {
+  "item_id": "tqa_14519",
+  "category": "trivia",
+  "question": "Which famous chemist was executed in the French Revolution?",
+  "response": "Antoine Lavoisier",
+  "raw": "Antoine Lavoisier\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "Lavoisier"
+ },
+ {
+  "item_id": "tqa_10472",
+  "category": "trivia",
+  "question": "What is the second biggest city in the UK?",
+  "response": "Birmingham",
+  "raw": "Birmingham\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "Birmingham"
+ },
+ {
+  "item_id": "tqa_760",
+  "category": "trivia",
+  "question": "Sadler’s Wells Ballet and the Vic-Wells Ballet were the previous names of which British ballet company?",
+  "response": "The Royal Ballet",
+  "raw": "The Royal Ballet\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "The Royal Ballet"
+ },
+ {
+  "item_id": "tqa_16609",
+  "category": "trivia",
+  "question": "Paul McCartney and Heather Mills became parents together, Michael Howard became leader of the Conservative Party and Saddam Hussein was captured. Which year?",
+  "response": "2002",
+  "raw": "2002\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "2003"
+ },
+ {
+  "item_id": "tqa_16063",
+  "category": "trivia",
+  "question": "Which painting by Thomas Gainsborough is thought to be of Jonathan Buttall, the son of a wealthy hardware merchant?",
+  "response": "The Blue Boy",
+  "raw": "The Blue Boy\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "'THE BLUE BOY'"
+ },
+ {
+  "item_id": "tqa_17938",
+  "category": "trivia",
+  "question": "The worlds largest marketer of fruit juices, what is the juice arm of the Coca Cola company?",
+  "response": "Minute Maid",
+  "raw": "Minute Maid\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "Minute Maid"
+ },
+ {
+  "item_id": "tqa_7176",
+  "category": "trivia",
+  "question": "Who in January 2015 became the Church of England’s first female bishop?",
+  "response": "Reverend Libby Lane",
+  "raw": "Reverend Libby Lane \nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Libby Lane"
+ },
+ {
+  "item_id": "tqa_14462",
+  "category": "trivia",
+  "question": "Who was the wife of Moses?",
+  "response": "Zipporah",
+  "raw": "Zipporah\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "Zipporah"
+ },
+ {
+  "item_id": "tqa_2568",
+  "category": "trivia",
+  "question": "Who wrote the short story on which the much admired film The Shaw - shank Redemption was based ?",
+  "response": "Stephen King",
+  "raw": "Stephen King\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "STEPHEN KING"
+ },
+ {
+  "item_id": "tqa_16679",
+  "category": "trivia",
+  "question": "Which player scored for both teams in the 1987 FA Cup Final?",
+  "response": "Gary Lineker",
+  "raw": "Gary Lineker\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "GARY MABBUTT"
+ },
+ {
+  "item_id": "tqa_14979",
+  "category": "trivia",
+  "question": "Who is the present Prime Minister of the Irish Republic?",
+  "response": "Leo Varadkar",
+  "raw": "Leo Varadkar\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "ENDA KENNY"
+ },
+ {
+  "item_id": "tqa_453",
+  "category": "trivia",
+  "question": "In which country are the Angel Falls, the highest waterfall in the world?",
+  "response": "Venezuela",
+  "raw": "Venezuela\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Venezuela"
+ },
+ {
+  "item_id": "tqa_10489",
+  "category": "trivia",
+  "question": "In the 'Jungle Book' what type of creature was 'Bagheera'?",
+  "response": "Black panther",
+  "raw": "Black panther\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Panther"
+ },
+ {
+  "item_id": "tqa_4088",
+  "category": "trivia",
+  "question": "\"What profession requires the artist to know about \"\"F stops\"\"?\"",
+  "response": "Photographer",
+  "raw": "Photographer\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Photography"
+ },
+ {
+  "item_id": "tqa_9760",
+  "category": "trivia",
+  "question": "In which form of pool (pocket billiards) are the balls formed into a diamond pattern?",
+  "response": "Bank pool",
+  "raw": "Bank pool\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Nine-ball"
+ },
+ {
+  "item_id": "tqa_1450",
+  "category": "trivia",
+  "question": "Who played Saffron Monsoon in the UK television comedy series ‘Absolutely Fabulous’?",
+  "response": "Joanna Lumley",
+  "raw": "Joanna Lumley \nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Julia Sawalha"
+ },
+ {
+  "item_id": "tqa_6525",
+  "category": "trivia",
+  "question": "Andrew Robson writes a daily column for The Times on what topic?",
+  "response": "Crosswords",
+  "raw": "Crosswords\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "BRIDGE"
+ },
+ {
+  "item_id": "tqa_11251",
+  "category": "trivia",
+  "question": "What is the first name of Blackadder in the UK television series ‘Blackadder’?",
+  "response": "Edmund",
+  "raw": "Edmund\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Edmund"
+ },
+ {
+  "item_id": "tqa_16944",
+  "category": "trivia",
+  "question": "Who was the husband of Rebekah Brooks from 2002 to 2009?",
+  "response": "Charlie Brooks",
+  "raw": "Charlie Brooks\nConfidence: 95",
+  "said": 95.0,
+  "correct": 0,
+  "gold": "Ross Kemp"
+ },
+ {
+  "item_id": "tqa_12549",
+  "category": "trivia",
+  "question": "Shire, Arabian, Mustang, and Hackney are types of?",
+  "response": "Horse breeds",
+  "raw": "Horse breeds\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Horse"
+ },
+ {
+  "item_id": "tqa_11069",
+  "category": "trivia",
+  "question": "In the standard game of Monopoly, you go to jail if you throw how many consecutive sets of doubles on the dice?",
+  "response": "Three consecutive sets of doubles.",
+  "raw": "Three consecutive sets of doubles.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Three"
+ },
+ {
+  "item_id": "tqa_17934",
+  "category": "trivia",
+  "question": "What former U.S. president is known for his staunch support of Habitat for Humanity?",
+  "response": "Jimmy Carter",
+  "raw": "Jimmy Carter\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Jimmy Carter"
+ },
+ {
+  "item_id": "tqa_14457",
+  "category": "trivia",
+  "question": "Who has children called Track, Bristol, Piper, Trig and Willow?",
+  "response": "Sarah Palin",
+  "raw": "Sarah Palin\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "SARAH PALIN"
+ },
+ {
+  "item_id": "tqa_8691",
+  "category": "trivia",
+  "question": "Of which country was Adrian Nastase Prime Minister from 2000 to 2004?",
+  "response": "Romania",
+  "raw": "Romania\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "ROMANIA"
+ },
+ {
+  "item_id": "tqa_7297",
+  "category": "trivia",
+  "question": "What is pop singer Adele's surname?",
+  "response": "Adele",
+  "raw": "Adele\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Adkins"
+ },
+ {
+  "item_id": "tqa_7996",
+  "category": "trivia",
+  "question": "Actress Sinead Cusack is married to which 'Oscar' winning actor?",
+  "response": "Jeremy Irons",
+  "raw": "Jeremy Irons\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "JEREMY IRONS"
+ },
+ {
+  "item_id": "tqa_5097",
+  "category": "trivia",
+  "question": "My bologna has a first name. What is it?",
+  "response": "Oscar",
+  "raw": "Oscar\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Oscar"
+ },
+ {
+  "item_id": "tqa_8036",
+  "category": "trivia",
+  "question": "Who was the Poet Laureate at the time of the Coronation of Queen Elizabeth II?",
+  "response": "John Masefield",
+  "raw": "John Masefield\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "JOHN MASEFIELD"
+ },
+ {
+  "item_id": "tqa_9907",
+  "category": "trivia",
+  "question": "How many Electoral College votes did Washington bring to the table this year?",
+  "response": "Washington is a state, not a person, and does not participate in the Electoral College. It has 12 electoral votes.",
+  "raw": "Washington is a state, not a person, and does not participate in the Electoral College. It has 12 electoral votes.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "12"
+ },
+ {
+  "item_id": "tqa_1078",
+  "category": "trivia",
+  "question": "What type of creature is a bananaquit?",
+  "response": "A type of bird.",
+  "raw": "A type of bird.\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "Bird"
+ },
+ {
+  "item_id": "tqa_14314",
+  "category": "trivia",
+  "question": "Constantia, famous as a wine growing area, is a suburb of which South African city?",
+  "response": "Cape Town",
+  "raw": "Cape Town\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "CAPE TOWN"
+ },
+ {
+  "item_id": "tqa_13510",
+  "category": "trivia",
+  "question": "\"In the sentence \"\"Wherever he went, he carried the scratching cat, his eyes red.\"\", what part of speech is \"\"his eyes red\"\"?\"",
+  "response": "Appositive phrase.",
+  "raw": "Appositive phrase.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Phrase"
+ },
+ {
+  "item_id": "tqa_9796",
+  "category": "trivia",
+  "question": "On today's date in 1908, the first of over 15 million of what automobile was first produced?",
+  "response": "Ford Model T",
+  "raw": "Ford Model T\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Model T Ford"
+ },
+ {
+  "item_id": "tqa_15178",
+  "category": "trivia",
+  "question": "What does someone with ophthalmophobia fear?",
+  "response": "Eyes",
+  "raw": "Eyes\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "BEING STARED AT"
+ },
+ {
+  "item_id": "tqa_10364",
+  "category": "trivia",
+  "question": "Which cheese shares its name with a Guiness Premiership rugby team that play at Welford Road?",
+  "response": "Leicester",
+  "raw": "Leicester\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Leicester."
+ },
+ {
+  "item_id": "tqa_14182",
+  "category": "trivia",
+  "question": "The rather exotic cathedral, on Red Square, in Moscow, is dedicated to which saint?",
+  "response": "St. Basil's Cathedral",
+  "raw": "St. Basil's Cathedral\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "ST BASIL"
+ },
+ {
+  "item_id": "tqa_5099",
+  "category": "trivia",
+  "question": "\"What children's TV show featured the song \"\"Won't You Be My Neighbor\"\"?\"",
+  "response": "Mister Rogers' Neighborhood",
+  "raw": "Mister Rogers' Neighborhood\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Mr. Rogers' Neighborhood"
+ },
+ {
+  "item_id": "tqa_13767",
+  "category": "trivia",
+  "question": "In what modern-day country would you find Machu Picchu?",
+  "response": "Peru",
+  "raw": "Peru\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Peru"
+ },
+ {
+  "item_id": "tqa_2202",
+  "category": "trivia",
+  "question": "On which Scottish island was former Labour party leader John Smith laid to rest?",
+  "response": "The Hebrides island of Iona.",
+  "raw": "The Hebrides island of Iona.\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "Iona"
+ },
+ {
+  "item_id": "tqa_2218",
+  "category": "trivia",
+  "question": "Films. Which Dominic starred as Merry (Meriadoc) in ‘The Lord of the Rings’?",
+  "response": "Elijah Wood",
+  "raw": "Elijah Wood\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "MONAGHAN"
+ },
+ {
+  "item_id": "tqa_3995",
+  "category": "trivia",
+  "question": "The Indonesian Army special forces group, founded in 1952, that conducts special operations missions for the Indonesian government is called what?",
+  "response": "Kopassus",
+  "raw": "Kopassus\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Kopassus"
+ },
+ {
+  "item_id": "tqa_3867",
+  "category": "trivia",
+  "question": "Canberra is the capital of which country?",
+  "response": "Australia",
+  "raw": "Australia\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Australia"
+ },
+ {
+  "item_id": "tqa_15711",
+  "category": "trivia",
+  "question": "Which country’s President resides in a mansion called the Casa Rosada (Pink House)?",
+  "response": "Argentina",
+  "raw": "Argentina\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Argentina"
+ },
+ {
+  "item_id": "tqa_3708",
+  "category": "trivia",
+  "question": "What instrument has a long neck and a round body of parchment stretched over a metal frame?",
+  "response": "A harp.",
+  "raw": "A harp.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Banjo"
+ },
+ {
+  "item_id": "tqa_4275",
+  "category": "trivia",
+  "question": "\"In 1936, whose paper \"\"On Computable Numbers, with an Application to the Entscheidungsproblem\"\" proved that a machine could perform any conceivable mathematical computation if it were able to be represented as an algorithm?\"",
+  "response": "Alan Turing",
+  "raw": "Alan Turing\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Alan Turing"
+ },
+ {
+  "item_id": "tqa_4824",
+  "category": "trivia",
+  "question": "What comes next in this sequence: Microwave, Infrared, Visible Light, …",
+  "response": "Radio Waves",
+  "raw": "Radio Waves\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Ultraviolet"
+ },
+ {
+  "item_id": "tqa_4580",
+  "category": "trivia",
+  "question": "Where is the homeland of Queen Boudica (also Boudicca or Boadicea), who led a revolt against the Romans in England in the first century CE?",
+  "response": "Ancient Britain, specifically modern-day England.",
+  "raw": "Ancient Britain, specifically modern-day England.\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 0,
+  "gold": "East Anglia"
+ },
+ {
+  "item_id": "tqa_13475",
+  "category": "trivia",
+  "question": "Which 1944 musical film, directed by Vincente Minnelli, starred Judy Garland, Mary Astor, Leon Ames, Marjorie Main and Margaret O'Brien who were going to the Louisianna Purchase Exposition of 1904?",
+  "response": "Meet Me in St. Louis",
+  "raw": "Meet Me in St. Louis\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Meet Me In St. Louis"
+ },
+ {
+  "item_id": "tqa_9949",
+  "category": "trivia",
+  "question": "According to a popular Christmas song, who was a jolly happy soul?",
+  "response": "Frosty the Snowman was not the answer, it was actually Buddy the Elf, no, it was actually Santa Claus, no, it was actually...  Santa Claus was not the answer, it was actually...  Santa Claus was",
+  "raw": "Frosty the Snowman was not the answer, it was actually Buddy the Elf, no, it was actually Santa Claus, no, it was actually...  Santa Claus was not the answer, it was actually...  Santa Claus was",
+  "said": null,
+  "correct": 1,
+  "gold": "Frosty the Snowman."
+ },
+ {
+  "item_id": "tqa_2496",
+  "category": "trivia",
+  "question": "Russia's TU-144 plane was the broad equivalent of which western airliner?",
+  "response": "Concorde",
+  "raw": "Concorde\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "CONCORDE"
+ },
+ {
+  "item_id": "tqa_17098",
+  "category": "trivia",
+  "question": "Which river runs through The Grand Canyon",
+  "response": "Colorado River",
+  "raw": "Colorado River\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Colorado"
+ },
+ {
+  "item_id": "tqa_15457",
+  "category": "trivia",
+  "question": "Which villain, played by Richard Kiel, appeared in two James Bond movies, 'The Spy Who Loved Me' and 'Moonraker'?",
+  "response": "Jaws",
+  "raw": "Jaws\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Jaws"
+ },
+ {
+  "item_id": "tqa_7616",
+  "category": "trivia",
+  "question": "\"Director James Cameron, collected the 'Oscar' for \"\"Best Director\"\" in 1998, for which film?\"",
+  "response": "Titanic",
+  "raw": "Titanic\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "'TITANIC'"
+ },
+ {
+  "item_id": "tqa_4004",
+  "category": "trivia",
+  "question": "Where was the first annual G6 leaders summit (which later became the G8) held in 1975?",
+  "response": "Rambouillet, France",
+  "raw": "Rambouillet, France\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "France"
+ },
+ {
+  "item_id": "tqa_6095",
+  "category": "trivia",
+  "question": "In which book did Edgar Linton marry Catherine Eamshaw?",
+  "response": "Wuthering Heights",
+  "raw": "Wuthering Heights\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "WUTHERING HEIGHTS"
+ },
+ {
+  "item_id": "tqa_11510",
+  "category": "trivia",
+  "question": "Kia Motors Corporation is nearly one-third owned by which other Asian company?",
+  "response": "Hyundai Motor Group",
+  "raw": "Hyundai Motor Group\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "HYUNDAI Motor Company"
+ },
+ {
+  "item_id": "tqa_1180",
+  "category": "trivia",
+  "question": "Which northern English beer was originally launched by Col. James Porter in 1927?",
+  "response": "Boddingtons",
+  "raw": "Boddingtons\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "Newcastle Brown Ale"
+ },
+ {
+  "item_id": "tqa_11060",
+  "category": "trivia",
+  "question": "Thomas the Tank Engine lives on which fictional island?",
+  "response": "Sodor Island",
+  "raw": "Sodor Island\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Sodor"
+ },
+ {
+  "item_id": "tqa_14897",
+  "category": "trivia",
+  "question": "In which 1980 film did Robert De Niro play the boxer Jake La Motta?",
+  "response": "Raging Bull",
+  "raw": "Raging Bull\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Raging Bull"
+ },
+ {
+  "item_id": "tqa_8763",
+  "category": "trivia",
+  "question": "Which Rugby League team plays home games at Derwent Park?",
+  "response": "Workington Town",
+  "raw": "Workington Town\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "WORKINGTON TOWN"
+ },
+ {
+  "item_id": "tqa_1170",
+  "category": "trivia",
+  "question": "What is the title of the 1976 film about the Watergate Scandal, starring Robert Redford and Dustin Hoffman?",
+  "response": "All the President's Men",
+  "raw": "All the President's Men\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "All the President’s Men"
+ },
+ {
+  "item_id": "tqa_4745",
+  "category": "trivia",
+  "question": "What synthetic fiber is used in most bulletproof vests?",
+  "response": "Kevlar",
+  "raw": "Kevlar\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Kevlar"
+ },
+ {
+  "item_id": "tqa_16455",
+  "category": "trivia",
+  "question": "rtve is the state broadcaster in which country?",
+  "response": "Radio Televisión Española (RTVE) is the state broadcaster in Spain.",
+  "raw": "Radio Televisión Española (RTVE) is the state broadcaster in Spain.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "SPAIN"
+ },
+ {
+  "item_id": "tqa_15917",
+  "category": "trivia",
+  "question": "Which fruit is also known as the alligator pear?",
+  "response": "Avocado",
+  "raw": "Avocado\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Avocado"
+ },
+ {
+  "item_id": "tqa_9082",
+  "category": "trivia",
+  "question": "Which car company advertises with the slogan The best or nothing",
+  "response": "Jaguar",
+  "raw": "Jaguar\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "Mercedes-Benz"
+ },
+ {
+  "item_id": "tqa_2645",
+  "category": "trivia",
+  "question": "What Latin phrase indicates that an aristocrat holds a title in her or his own right ?",
+  "response": "Per se",
+  "raw": "Per se\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "SUO JURE"
+ },
+ {
+  "item_id": "tqa_13427",
+  "category": "trivia",
+  "question": "What system of psychology, popularised by F J Gall and J K Spurzheim in the 19th century, claims that mental faculties and dispositions can be determined by the shape of the skull?",
+  "response": "Phrenology",
+  "raw": "Phrenology\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "Phrenology"
+ },
+ {
+  "item_id": "tqa_17818",
+  "category": "trivia",
+  "question": "The actual kitchen used by what iconic TV chef is now on permanent display at the Smithsonian Institution's National Museum of American History?",
+  "response": "Julia Child's kitchen",
+  "raw": "Julia Child's kitchen\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Julia Child"
+ },
+ {
+  "item_id": "tqa_283",
+  "category": "trivia",
+  "question": "How many pieces are there in a standard set of dominoes?",
+  "response": "28 pieces",
+  "raw": "28 pieces\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "28"
+ },
+ {
+  "item_id": "tqa_5496",
+  "category": "trivia",
+  "question": "Which famous Englishman was born in Lichfield in Staffordshire in 1709?",
+  "response": "Samuel Johnson",
+  "raw": "Samuel Johnson\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "DR SAMUEL JOHNSON"
+ },
+ {
+  "item_id": "tqa_12743",
+  "category": "trivia",
+  "question": "Which country used to be called Southern Rhodesia?",
+  "response": "Zimbabwe",
+  "raw": "Zimbabwe\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Zimbabwe"
+ },
+ {
+  "item_id": "tqa_16433",
+  "category": "trivia",
+  "question": "According to the Bible, who was renamed Israel because he wrestled with God?",
+  "response": "Jacob",
+  "raw": "Jacob\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "JACOB"
+ },
+ {
+  "item_id": "tqa_502",
+  "category": "trivia",
+  "question": "Which 2004 \"puppet\" movie, made by the makers of South Park, satirises Americas politics and jingoism?",
+  "response": "Team America: World Police",
+  "raw": "Team America: World Police\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Team America: World Police."
+ },
+ {
+  "item_id": "tqa_8890",
+  "category": "trivia",
+  "question": "What award is given for a wound in the American forces",
+  "response": "Purple Heart",
+  "raw": "Purple Heart\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Purple Heart"
+ },
+ {
+  "item_id": "tqa_10888",
+  "category": "trivia",
+  "question": "In which European city was the 1968 Eurovision Song Contest held?",
+  "response": "London",
+  "raw": "London\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "London"
+ },
+ {
+  "item_id": "tqa_3248",
+  "category": "trivia",
+  "question": "What African nation is known in parts of Asia by the local names of two of its famous cities Marrakech and Fes?",
+  "response": "Morocco",
+  "raw": "Morocco\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Morocco"
+ },
+ {
+  "item_id": "tqa_12974",
+  "category": "trivia",
+  "question": "Who was married to Whitney Houston from 1992 to 2007?",
+  "response": "Bobby Brown",
+  "raw": "Bobby Brown\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Bobby Brown"
+ },
+ {
+  "item_id": "tqa_14434",
+  "category": "trivia",
+  "question": "The football club CFR Cluj made their debut in the European I Champions League this season, in which country do they play?",
+  "response": "Romania",
+  "raw": "Romania\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Romania"
+ },
+ {
+  "item_id": "tqa_718",
+  "category": "trivia",
+  "question": "Which British Prime Minister said of Downing Street ‘One of the most precious jewels in the national heritage’?",
+  "response": "Harold Wilson",
+  "raw": "Harold Wilson\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "Margaret Thatcher"
+ },
+ {
+  "item_id": "tqa_12268",
+  "category": "trivia",
+  "question": "What sea lies directly south of the Irish Sea, bounded by England, Wales, Ireland and Brittany?",
+  "response": "The Celtic Sea.",
+  "raw": "The Celtic Sea.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Celtic Sea"
+ },
+ {
+  "item_id": "tqa_16506",
+  "category": "trivia",
+  "question": "Who was the driver of the limousine at the time of Diana Princess of Wales' death?",
+  "response": "Henri Paul",
+  "raw": "Henri Paul\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "HENRI PAUL"
+ },
+ {
+  "item_id": "tqa_2637",
+  "category": "trivia",
+  "question": "What six letter word is used to describe the soft skin that covers a deer's antlers as they develop ?",
+  "response": "Velvet",
+  "raw": "Velvet\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "VELVET"
+ },
+ {
+  "item_id": "tqa_7850",
+  "category": "trivia",
+  "question": "What was the name of the American President played by Martin Sheen in the TV series 'The West Wing'?",
+  "response": "President Josiah Bartlet",
+  "raw": "President Josiah Bartlet\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "'JOSIAH BARTLET'"
+ },
+ {
+  "item_id": "tqa_11651",
+  "category": "trivia",
+  "question": "Lloret de Mar lies on which Spanish costa?",
+  "response": "Costa Brava",
+  "raw": "Costa Brava\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Costa Brava"
+ },
+ {
+  "item_id": "tqa_9556",
+  "category": "trivia",
+  "question": "The Springfield, Mass YMCA saw the first game of what played on January 20, 1892, when 9 players ended the game with a 1-0 score?",
+  "response": "The first game of basketball.",
+  "raw": "The first game of basketball.\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Basketball"
+ },
+ {
+  "item_id": "tqa_7562",
+  "category": "trivia",
+  "question": "\"Deceased wrestler 'Leon Aras' was the voice of the \"\"Tetley Tea Folk\"\", by what more familiar name was he known?\"",
+  "response": "Big Daddy",
+  "raw": "Big Daddy\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "BRIAN GLOVER"
+ },
+ {
+  "item_id": "tqa_4719",
+  "category": "trivia",
+  "question": "\"What single word sounds like \"\"Youth in Asia\"\"?\"",
+  "response": "Youth in Asia sounds like \"Youth in Asia\" sounds like \"Youth in Asia\" is not a single word, but \"Youth in Asia\" sounds like \"Youth in Asia\" is not a single word, but",
+  "raw": "Youth in Asia sounds like \"Youth in Asia\" sounds like \"Youth in Asia\" is not a single word, but \"Youth in Asia\" sounds like \"Youth in Asia\" is not a single word, but",
+  "said": null,
+  "correct": 0,
+  "gold": "Euthanasia"
+ },
+ {
+  "item_id": "tqa_17221",
+  "category": "trivia",
+  "question": "What was the name of Joan Jett's backing group",
+  "response": "The Runaways",
+  "raw": "The Runaways\nConfidence: 90",
+  "said": 90.0,
+  "correct": 0,
+  "gold": "Blackhearts"
+ },
+ {
+  "item_id": "tqa_16380",
+  "category": "trivia",
+  "question": "What nationality is James Rodriguez who won the Golden Boot Award at the 2014 FIFA World Cup Finals in July having scored six goals?",
+  "response": "Colombian",
+  "raw": "Colombian\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "COLOMBIA"
+ },
+ {
+  "item_id": "tqa_2477",
+  "category": "trivia",
+  "question": "In which European country is the HQ of the food company, Nestle ?",
+  "response": "Switzerland",
+  "raw": "Switzerland\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "SWITZERLAND"
+ },
+ {
+  "item_id": "tqa_14224",
+  "category": "trivia",
+  "question": "What was the name of the horse in Steptoe and Son?",
+  "response": "Toby.",
+  "raw": "Toby.\n\nConfidence: 0",
+  "said": 0.0,
+  "correct": 0,
+  "gold": "Hercules"
+ },
+ {
+  "item_id": "tqa_15836",
+  "category": "trivia",
+  "question": "The Prime Minister of Greece, Alexis Tsipras, is the leader of which political party?",
+  "response": "Syriza",
+  "raw": "Syriza\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "SYRIZA"
+ },
+ {
+  "item_id": "tqa_4122",
+  "category": "trivia",
+  "question": "\"Which country set up the \"\"Committee on Public Information\"\" from April 1917 to June 1919 to run a propaganda campaign using newsprint, posters, radio, telegraph, cable and movies to broadcast its message, including fabrications (e.g. images of enemy soldiers killing babies and hoisting them on bayonets), and told citizens to seek out spies, which led to the creation of \"\"patriotic organizations,\"\" which spied, tapped telephones, and opened mail in an effort to ferret out \"\"spies and traitors\"\" (i.e. anyone who called for peace, questioned the war's progress, or criticized government policies)?\"",
+  "response": "The United States.",
+  "raw": "The United States.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "USA"
+ },
+ {
+  "item_id": "tqa_5798",
+  "category": "trivia",
+  "question": "Summerisle is the setting for which 1973 horror film?",
+  "response": "The Wicker Man",
+  "raw": "The Wicker Man\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "The Wicker Man"
+ },
+ {
+  "item_id": "tqa_8516",
+  "category": "trivia",
+  "question": "On which island was the actor Errol Flynn born?",
+  "response": "Tasmania",
+  "raw": "Tasmania\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "TASMANIA"
+ },
+ {
+  "item_id": "tqa_4073",
+  "category": "trivia",
+  "question": "What were Scotsmen prohibited from wearing 1746-1782 under the Highland Garb Act, after the rising in Scotland in 1745?",
+  "response": "The tartan.",
+  "raw": "The tartan.\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Tartan"
+ },
+ {
+  "item_id": "tqa_14593",
+  "category": "trivia",
+  "question": "Summerisle is the setting for which 1973 horror film?",
+  "response": "The Wicker Man",
+  "raw": "The Wicker Man\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "The Wicker Man"
+ },
+ {
+  "item_id": "tqa_6811",
+  "category": "trivia",
+  "question": "Which controversial novel was originally to have been called 'Tenderness'?",
+  "response": "Lady Chatterley's Lover",
+  "raw": "Lady Chatterley's Lover\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "Lady Chatterley's Lover"
+ },
+ {
+  "item_id": "tqa_15793",
+  "category": "trivia",
+  "question": "\"Which British comedian and actor played Dr Gregory House in the US TV series \"\"House\"\"?\"",
+  "response": "Hugh Laurie",
+  "raw": "Hugh Laurie\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Hugh Laurie"
+ },
+ {
+  "item_id": "tqa_6517",
+  "category": "trivia",
+  "question": "Which group was founded by Steve Marriott, Ronny Lane, Kenney Jones and Jimmy Winston, Winston soon being replaced by Ian McLagan?",
+  "response": "Small Faces",
+  "raw": "Small Faces\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Small Faces"
+ },
+ {
+  "item_id": "tqa_17263",
+  "category": "trivia",
+  "question": "In which town is the University of Surrey",
+  "response": "Guildford",
+  "raw": "Guildford\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Guildford"
+ },
+ {
+  "item_id": "tqa_9174",
+  "category": "trivia",
+  "question": "What was the name of the character played by Bonnie Langford in Just William",
+  "response": "Ethel Hargreaves",
+  "raw": "Ethel Hargreaves\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "Violet Elizabeth Bott"
+ },
+ {
+  "item_id": "tqa_2640",
+  "category": "trivia",
+  "question": "Whom did Andy Murray defeat in the Wimbledon men's singles final in 2013 ?",
+  "response": "Novak Djokovic",
+  "raw": "Novak Djokovic\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "(Novak) DJOKOVIC"
+ },
+ {
+  "item_id": "tqa_6396",
+  "category": "trivia",
+  "question": "Who was the author of 'Daniel Deronda' published in 1876?",
+  "response": "George Eliot",
+  "raw": "George Eliot\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "GEORGE ELIOT"
+ },
+ {
+  "item_id": "tqa_17885",
+  "category": "trivia",
+  "question": "In what Virginia town is the Central Intelligence Agency located?",
+  "response": "Langley",
+  "raw": "Langley\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Langley"
+ },
+ {
+  "item_id": "tqa_14689",
+  "category": "trivia",
+  "question": "Which is the only marsupial to be found in North America?",
+  "response": "Opossum",
+  "raw": "Opossum\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Opossum"
+ },
+ {
+  "item_id": "tqa_17421",
+  "category": "trivia",
+  "question": "Who played 'Callan' in the TV series of the same name?",
+  "response": "Edward Woodward",
+  "raw": "Edward Woodward\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Edward Woodward"
+ },
+ {
+  "item_id": "tqa_1462",
+  "category": "trivia",
+  "question": "Noss, Unst, Lamba and Foula are part of which Scottish island group?",
+  "response": "The Shetland Islands",
+  "raw": "The Shetland Islands\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Shetland"
+ },
+ {
+  "item_id": "tqa_15335",
+  "category": "trivia",
+  "question": "Which French physicist (1852-1908) shared the Nobel Prize for Physics with the Curies in 1903 and has the SI unit of radioactivity named after him?",
+  "response": "Henri Becquerel",
+  "raw": "Henri Becquerel\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Antoine Becquerel"
+ },
+ {
+  "item_id": "tqa_2117",
+  "category": "trivia",
+  "question": "Which is the most southerly of the Canadian provinces?",
+  "response": "Nova Scotia",
+  "raw": "Nova Scotia\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Ontario"
+ },
+ {
+  "item_id": "tqa_261",
+  "category": "trivia",
+  "question": "What name was given to the invisible material once thought to occupy all space?",
+  "response": "Aether",
+  "raw": "Aether\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "Ether"
+ },
+ {
+  "item_id": "tqa_15473",
+  "category": "trivia",
+  "question": "Who was the original drummer/singer with the Monkees pop group?",
+  "response": "Davy Jones",
+  "raw": "Davy Jones\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "Mickey Dolenz"
+ },
+ {
+  "item_id": "tqa_17191",
+  "category": "trivia",
+  "question": "What was the name of the character played by Paul Newman in the film The Sting",
+  "response": "Henry Gondorff",
+  "raw": "Henry Gondorff\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Henry Gondorf"
+ },
+ {
+  "item_id": "tqa_11869",
+  "category": "trivia",
+  "question": "Which British Prime Minister married Clementine Hozier on September 12th 1908?",
+  "response": "H.H. Asquith",
+  "raw": "H.H. Asquith \nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "WINSTON CHURCHILL"
+ },
+ {
+  "item_id": "tqa_16473",
+  "category": "trivia",
+  "question": "Which town is the administrative headquarters of Northumberland?",
+  "response": "Morpeth",
+  "raw": "Morpeth\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "MORPETH"
+ },
+ {
+  "item_id": "tqa_17236",
+  "category": "trivia",
+  "question": "What was the name of the driver of the mail train robbed by the great train robbers",
+  "response": "Jack Mills",
+  "raw": "Jack Mills\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "Jack Mills"
+ },
+ {
+  "item_id": "tqa_12950",
+  "category": "trivia",
+  "question": "In croquet, what is used to hit the ball?",
+  "response": "Mallet",
+  "raw": "Mallet\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Mallet"
+ },
+ {
+  "item_id": "tqa_2351",
+  "category": "trivia",
+  "question": "Aladdin Sane and Diamond Dogs were number one albums for which famous singer in the 1970's?",
+  "response": "David Bowie",
+  "raw": "David Bowie\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "DAVID BOWIE"
+ },
+ {
+  "item_id": "tqa_2042",
+  "category": "trivia",
+  "question": "Subtitled ‘What You Will’, which play begins: ‘If music be the food of love, play on’?",
+  "response": "Twelfth Night",
+  "raw": "Twelfth Night\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "TWELFTH NIGHT"
+ },
+ {
+  "item_id": "tqa_3280",
+  "category": "trivia",
+  "question": "In the Bible to whom did God give the Ten Commandments?",
+  "response": "Moses",
+  "raw": "Moses\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Moses"
+ },
+ {
+  "item_id": "tqa_16561",
+  "category": "trivia",
+  "question": "What is pickled raw, and served with dill and mustard sauce, in the Scandinavian dish, Gravlax?",
+  "response": "Pickled salmon.",
+  "raw": "Pickled salmon.\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "SALMON"
+ },
+ {
+  "item_id": "tqa_16427",
+  "category": "trivia",
+  "question": "Who composed the musical shows 'Swingtime' and 'Showboat'?",
+  "response": "Jerome Kern",
+  "raw": "Jerome Kern\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "JEROME KERN"
+ },
+ {
+  "item_id": "tqa_12637",
+  "category": "trivia",
+  "question": "Which chemical element has the atomic number six?",
+  "response": "Carbon",
+  "raw": "Carbon\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Carbon"
+ },
+ {
+  "item_id": "tqa_13316",
+  "category": "trivia",
+  "question": "What are the topmost 7 vertebrae of the backbone called?",
+  "response": "Cervical vertebrae",
+  "raw": "Cervical vertebrae\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Cervical"
+ },
+ {
+  "item_id": "tqa_13053",
+  "category": "trivia",
+  "question": "\"What musical has the characters Roxie Hart, Velma Kelly, Billy Flynn, Matron \"\"Mama\"\" Morton, Amos Hart, Mary Sunshine, Fred Casely, Mrs. Borusewicz, Harrison and Go-to-Hell Kitty Baxter?\"",
+  "response": "Chicago",
+  "raw": "Chicago\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Chicago"
+ },
+ {
+  "item_id": "tqa_5009",
+  "category": "trivia",
+  "question": "What city state was ruled by Lorenzo de' Medici?",
+  "response": "Florence",
+  "raw": "Florence\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Florence"
+ },
+ {
+  "item_id": "tqa_7370",
+  "category": "trivia",
+  "question": "The Tropic of Capricorn crosses the west coast of South America in which country?",
+  "response": "Chile",
+  "raw": "Chile\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "CHILE"
+ },
+ {
+  "item_id": "tqa_1381",
+  "category": "trivia",
+  "question": "In the Anna Sewell novel, what is Black Beauty?",
+  "response": "A horse",
+  "raw": "A horse\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "A horse"
+ },
+ {
+  "item_id": "tqa_13968",
+  "category": "trivia",
+  "question": "What did Antonio Stradivari make?",
+  "response": "Violins and other stringed instruments.",
+  "raw": "Violins and other stringed instruments.\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Violins"
+ },
+ {
+  "item_id": "tqa_4093",
+  "category": "trivia",
+  "question": "When are the events surrounding the legend of the Pied Piper of Hamelin supposed to have taken place?",
+  "response": "The events surrounding the legend of the Pied Piper of Hamelin are supposed to have taken place in the 13th century.",
+  "raw": "The events surrounding the legend of the Pied Piper of Hamelin are supposed to have taken place in the 13th century.\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "13th century"
+ },
+ {
+  "item_id": "tqa_9410",
+  "category": "trivia",
+  "question": "Las Vegas is situated in which US State?",
+  "response": "Nevada",
+  "raw": "Nevada\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Nevada"
+ },
+ {
+  "item_id": "tqa_7471",
+  "category": "trivia",
+  "question": "Perhaps foreshadowing recent events in Ukraine, over what region of the Southern Caucasus did Russia and Georgia go to war in 2008?",
+  "response": "South Ossetia",
+  "raw": "South Ossetia\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "South Ossetia"
+ },
+ {
+  "item_id": "tqa_8844",
+  "category": "trivia",
+  "question": "In what year was the Magna Carta signed",
+  "response": "1215",
+  "raw": "1215\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "1215"
+ },
+ {
+  "item_id": "tqa_7245",
+  "category": "trivia",
+  "question": "Sue Nicholls who plays Gail?s mother in Coronation Street, played Joan Greengross the secretary of which character in a 1970s sitcom?",
+  "response": "Joan Greengross in \"Porridge\".",
+  "raw": "Joan Greengross in \"Porridge\".\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "REGINALD PERRIN"
+ },
+ {
+  "item_id": "tqa_13474",
+  "category": "trivia",
+  "question": "What is the generic title of a series of French comic strips that were written originally by Ren Goscinny and illustrated by Albert Uderzo?",
+  "response": "Asterix",
+  "raw": "Asterix\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "The Adventures of Asterix"
+ },
+ {
+  "item_id": "tqa_14848",
+  "category": "trivia",
+  "question": "Laila Morse is the sister of which actor?",
+  "response": "Ewan McGregor",
+  "raw": "Ewan McGregor\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Gary Oldman"
+ },
+ {
+  "item_id": "tqa_8181",
+  "category": "trivia",
+  "question": "The name of which musical instrument comes from the German for bells and play?",
+  "response": "Xylophone",
+  "raw": "Xylophone\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "GLOCKENSPIEL"
+ },
+ {
+  "item_id": "tqa_290",
+  "category": "trivia",
+  "question": "Thomas Edison, who invented the lightbulb, was afraid of the dark?",
+  "response": "That's a common myth, but there's no solid evidence to support it.",
+  "raw": "That's a common myth, but there's no solid evidence to support it.\n\nConfidence: 60",
+  "said": 60.0,
+  "correct": 0,
+  "gold": "True"
+ },
+ {
+  "item_id": "tqa_16878",
+  "category": "trivia",
+  "question": "\"Which word completes each of the novels in a series by Enid Blyton - including \"\"The ??? of the Burnt Cottage\"\", \"\"The ??? of the Vanished Prince\"\" and \"\"The ??? of the Missing Necklace\"\"?\"",
+  "response": "Famous Five",
+  "raw": "Famous Five\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "MYSTERY"
+ },
+ {
+  "item_id": "tqa_10739",
+  "category": "trivia",
+  "question": "Which US singer released a 2010 album entitled ‘The Lady Killer’?",
+  "response": "CeeLo Green",
+  "raw": "CeeLo Green\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Cee Lo Green"
+ },
+ {
+  "item_id": "tqa_17701",
+  "category": "trivia",
+  "question": "What noted film director and producer, born on May 14, 1944, founded the theatre audio company THX, and the visual effects company Industrial Light and Magic, among others?",
+  "response": "George Lucas",
+  "raw": "George Lucas\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "George Lucas"
+ },
+ {
+  "item_id": "tqa_6219",
+  "category": "trivia",
+  "question": "'Citizen Smith' was the creation of which TV writer?",
+  "response": "Frank Muir",
+  "raw": "Frank Muir\nConfidence: 95",
+  "said": 95.0,
+  "correct": 0,
+  "gold": "JOHN SULLIVAN"
+ },
+ {
+  "item_id": "tqa_11034",
+  "category": "trivia",
+  "question": "Who was declared Model of the Millennium by Vogue editor Anna Wintour?",
+  "response": "Cindy Crawford",
+  "raw": "Cindy Crawford\nConfidence: 90",
+  "said": 90.0,
+  "correct": 0,
+  "gold": "Gisele Bundchen"
+ },
+ {
+  "item_id": "tqa_16819",
+  "category": "trivia",
+  "question": "Also the director of 'Insomnia' and 'The Dark Knight', who directed the 2010 sci-fi film 'Inception'?",
+  "response": "Christopher Nolan",
+  "raw": "Christopher Nolan\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "CHRISTOPHER NOLAN"
+ },
+ {
+  "item_id": "tqa_7566",
+  "category": "trivia",
+  "question": "Which team won the first 'Super Bowl'?",
+  "response": "Green Bay Packers",
+  "raw": "Green Bay Packers\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "GREEN BAY PACKERS"
+ },
+ {
+  "item_id": "tqa_886",
+  "category": "trivia",
+  "question": "The Belgian beer ‘Kriek’ is flavoured with which fruit?",
+  "response": "Cherry",
+  "raw": "Cherry\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Cherry"
+ },
+ {
+  "item_id": "tqa_8895",
+  "category": "trivia",
+  "question": "What is the leather finger protection used by archers called",
+  "response": "Finger tab or finger guard",
+  "raw": "Finger tab or finger guard\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "A tab"
+ },
+ {
+  "item_id": "tqa_3483",
+  "category": "trivia",
+  "question": "The phrase 'eleven plus two' is an anagram of what phrase which also suggests a total of thirteen?",
+  "response": "\"Live in evil\"",
+  "raw": "\"Live in evil\"\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Twelve plus one"
+ },
+ {
+  "item_id": "tqa_16988",
+  "category": "trivia",
+  "question": "American country singer Waylon Jennings gave up his seat on a plane in February 1959 to J P Richardson. How was Richardson commonly known?",
+  "response": "J.P. Richardson was commonly known as The Big Bopper.",
+  "raw": "J.P. Richardson was commonly known as The Big Bopper.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "The Big Bopper"
+ },
+ {
+  "item_id": "tqa_8440",
+  "category": "trivia",
+  "question": "Virginia Wade won 4 Women’s Doubles titles at Grand Slam events (but not Wimbledon). Which Australian was her partner each time?",
+  "response": "Margaret Court",
+  "raw": "Margaret Court\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "MARGARET COURT"
+ },
+ {
+  "item_id": "tqa_7838",
+  "category": "trivia",
+  "question": "Which band released the album 'Kid' in 2000?",
+  "response": "Blink-182",
+  "raw": "Blink-182\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 0,
+  "gold": "RADIOHEAD"
+ },
+ {
+  "item_id": "tqa_7294",
+  "category": "trivia",
+  "question": "Colchester stands on which river? The river shares its name with a Lancashire town.",
+  "response": "River Ouse",
+  "raw": "River Ouse\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Colne"
+ },
+ {
+  "item_id": "tqa_16504",
+  "category": "trivia",
+  "question": "What well known alcoholic drink was originally known as 'Usquebaugh'?",
+  "response": "Whiskey",
+  "raw": "Whiskey\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "WHISKY"
+ },
+ {
+  "item_id": "tqa_13600",
+  "category": "trivia",
+  "question": "In Central and South America it is possible to find several rivers named Colorado, in Costa Rica, Brazil, Bolivia, Chile, and Argentina; where is the source of the Colorado River in Argentina?",
+  "response": "The source of the Colorado River in Argentina is the Mendoza Province.",
+  "raw": "The source of the Colorado River in Argentina is the Mendoza Province.\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "The Andes"
+ },
+ {
+  "item_id": "tqa_11200",
+  "category": "trivia",
+  "question": "What is the name of the life-size plastic dummies in the television series Doctor Who, the first of which arrived on Earth in hollow plastic meteorites with deadly weapons concealed in their hands?",
+  "response": "Weeping Angels",
+  "raw": "Weeping Angels\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Autons"
+ },
+ {
+  "item_id": "tqa_9081",
+  "category": "trivia",
+  "question": "Who is universally accepted to be the first Roman Emperor (27bc)",
+  "response": "Augustus Caesar",
+  "raw": "Augustus Caesar\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Augustus"
+ },
+ {
+  "item_id": "tqa_1878",
+  "category": "trivia",
+  "question": "Who played the sadistic sheriff in the Clint Eastwood directed film Unforgiven?",
+  "response": "Gene Hackman",
+  "raw": "Gene Hackman\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Gene Hackman"
+ },
+ {
+  "item_id": "tqa_11333",
+  "category": "trivia",
+  "question": "Which bird was once called apteryx?",
+  "response": "Kiwi",
+  "raw": "Kiwi\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "Kiwi"
+ },
+ {
+  "item_id": "tqa_6501",
+  "category": "trivia",
+  "question": "Which indigenous people call their country Aotearoa?",
+  "response": "The Māori people",
+  "raw": "The Māori people\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Maori"
+ },
+ {
+  "item_id": "tqa_865",
+  "category": "trivia",
+  "question": "Which poet wrote ‘The Lake Isle of Innisfree’?",
+  "response": "W.B. Yeats",
+  "raw": "W.B. Yeats\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "William Butler Yeats"
+ },
+ {
+  "item_id": "tqa_16778",
+  "category": "trivia",
+  "question": "The Livadia Palace near which Crimean city was the site of a 1945 Peace Conference?",
+  "response": "Yalta",
+  "raw": "Yalta\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "YALTA"
+ },
+ {
+  "item_id": "tqa_13504",
+  "category": "trivia",
+  "question": "The game Ticket to Ride involves what kind of transport?",
+  "response": "Trains",
+  "raw": "Trains\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Rail"
+ },
+ {
+  "item_id": "tqa_3553",
+  "category": "trivia",
+  "question": "What is the name of the note that is 1/8 the length of a semi-breve?",
+  "response": "Fifteenth",
+  "raw": "Fifteenth\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Quaver"
+ },
+ {
+  "item_id": "tqa_15859",
+  "category": "trivia",
+  "question": "\"Who wrote the novels \"\"Berlin Game\"\", \"\"Mexico Set\"\" and \"\"London Match\"\"?\"",
+  "response": "Len Deighton",
+  "raw": "Len Deighton\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "(Len) DEIGHTON"
+ },
+ {
+  "item_id": "tqa_11970",
+  "category": "trivia",
+  "question": "Which Spanish soup containing onions, tomatoes, peppers and cucumbers and traditionally thickened with stale breadcrumbs is always served cold ?",
+  "response": "Gazpacho",
+  "raw": "Gazpacho\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "GAZPACHO"
+ },
+ {
+  "item_id": "tqa_16069",
+  "category": "trivia",
+  "question": "What colour is the square (which contains a white star) on the flag of Chile?",
+  "response": "White",
+  "raw": "White\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "BLUE"
+ },
+ {
+  "item_id": "tqa_5321",
+  "category": "trivia",
+  "question": "In the acronym DEFRA, for what does the A stand?",
+  "response": "Department for Environment, Food and Rural Affairs",
+  "raw": "Department for Environment, Food and Rural Affairs\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Affairs"
+ },
+ {
+  "item_id": "tqa_16015",
+  "category": "trivia",
+  "question": "St Thomas's Abbey, Brno in the Czech Republic was the scene of whose path-breaking work from 1856 to 1863?",
+  "response": "Gregor Mendel",
+  "raw": "Gregor Mendel\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Gregor Mendel"
+ },
+ {
+  "item_id": "tqa_10339",
+  "category": "trivia",
+  "question": "In the run up to the 1997 election, Tony Blair outlined his parties' three priorities for office, can you name them?",
+  "response": "Education, Health, and the Economy.",
+  "raw": "Education, Health, and the Economy.\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 0,
+  "gold": "Education, Education, Education"
+ },
+ {
+  "item_id": "tqa_11103",
+  "category": "trivia",
+  "question": "Who played Gomez Addams in the 1993 film ‘Addams Family Values’?",
+  "response": "Raúl Juliá",
+  "raw": "Raúl Juliá\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Raul Julia"
+ },
+ {
+  "item_id": "tqa_1617",
+  "category": "trivia",
+  "question": "‘The Way I Am’ is a 2008 autobiography by which US singer?",
+  "response": "Katy Perry",
+  "raw": "Katy Perry\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Eminem"
+ },
+ {
+  "item_id": "tqa_16867",
+  "category": "trivia",
+  "question": "Which animal is the emblem of the USA.'s Republican Party?",
+  "response": "The elephant.",
+  "raw": "The elephant.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Elephant"
+ },
+ {
+  "item_id": "tqa_3537",
+  "category": "trivia",
+  "question": "On what play by George Bernard Shaw is the musical My Fair Lady based?",
+  "response": "Pygmalion",
+  "raw": "Pygmalion\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Pygmalion"
+ },
+ {
+  "item_id": "tqa_17762",
+  "category": "trivia",
+  "question": "Of what modern country is Sarajevo the captial of?",
+  "response": "Bosnia and Herzegovina",
+  "raw": "Bosnia and Herzegovina\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Bosnia and Herzegovina"
+ },
+ {
+  "item_id": "tqa_7210",
+  "category": "trivia",
+  "question": "Which late comedienne wrote the 2014 best-selling book ‘Diary of a Mad Diva’?",
+  "response": "Phyllis Diller",
+  "raw": "Phyllis Diller\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Joan Rivers"
+ },
+ {
+  "item_id": "tqa_10161",
+  "category": "trivia",
+  "question": "What colour is the cross on the national flag of Switzerland?",
+  "response": "Red",
+  "raw": "Red\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "White"
+ },
+ {
+  "item_id": "tqa_927",
+  "category": "trivia",
+  "question": "How many imperial gallons are in a firkin?",
+  "response": "4 imperial gallons",
+  "raw": "4 imperial gallons\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 0,
+  "gold": "Nine"
+ },
+ {
+  "item_id": "tqa_13672",
+  "category": "trivia",
+  "question": "In 1483, who was appointed the first grand inquisitor of the Spanish Inquisition?",
+  "response": "Tomas de Torquemada",
+  "raw": "Tomas de Torquemada\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "Torquemada"
+ },
+ {
+  "item_id": "tqa_4111",
+  "category": "trivia",
+  "question": "Which 2008 Western film starred Ed Harris and Viggo Mortensen as lawmen, Jeremy Irons as a rancher and Renee Zellweger as a piano-playing widow?",
+  "response": "Appaloosa",
+  "raw": "Appaloosa\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Appaloosa"
+ },
+ {
+  "item_id": "tqa_12574",
+  "category": "trivia",
+  "question": "Tallinn is the capital of which country?",
+  "response": "Estonia",
+  "raw": "Estonia\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Estonia"
+ },
+ {
+  "item_id": "tqa_14197",
+  "category": "trivia",
+  "question": "\"Name the little girl, daughter of the late Christina, who has inherited the vast \"\"Onassis\"\" fortune?\"",
+  "response": "Alexandra \"Alexa\" Onassis-Aristotle",
+  "raw": "Alexandra \"Alexa\" Onassis-Aristotle\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "ATHINA"
+ },
+ {
+  "item_id": "tqa_15957",
+  "category": "trivia",
+  "question": "Whose summer residence is at Lake Gandalfo, a small town south-east of Rome?",
+  "response": "The Pope's.",
+  "raw": "The Pope's.\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "Pope's"
+ },
+ {
+  "item_id": "tqa_8030",
+  "category": "trivia",
+  "question": "Pd is the chemical symbol for which element?",
+  "response": "Bismuth",
+  "raw": "Bismuth\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "PALLADIUM"
+ },
+ {
+  "item_id": "tqa_15336",
+  "category": "trivia",
+  "question": "Who wrote the epic poem The Faerie Queen c.1590 - 1596?",
+  "response": "Edmund Spenser",
+  "raw": "Edmund Spenser\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Edmund Spenser"
+ },
+ {
+  "item_id": "tqa_2679",
+  "category": "trivia",
+  "question": "Which Gilbert and Sullivan operetta is sub-titled The Slave of Duty?",
+  "response": "Iolanthe",
+  "raw": "Iolanthe\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "The Pirates of Penzance"
+ },
+ {
+  "item_id": "tqa_10230",
+  "category": "trivia",
+  "question": "Who bought Chelsea football club for £1 in 1982?",
+  "response": "Ken Bates",
+  "raw": "Ken Bates\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "Ken Bates"
+ },
+ {
+  "item_id": "tqa_5994",
+  "category": "trivia",
+  "question": "How many dot positions are usually used in each letter of the Braille system?",
+  "response": "Six",
+  "raw": "Six\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Six"
+ },
+ {
+  "item_id": "tqa_11972",
+  "category": "trivia",
+  "question": "Recently appointed, what is the name of the current manager of Southampton Football Club ?",
+  "response": "Ruben Selles",
+  "raw": "Ruben Selles\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "Mauricio POCHETTINO"
+ },
+ {
+  "item_id": "tqa_1044",
+  "category": "trivia",
+  "question": "The Bledisloe Cup is contested by Australia and New Zealand in which sport?",
+  "response": "Rugby Union",
+  "raw": "Rugby Union\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Rugby Union"
+ },
+ {
+  "item_id": "tqa_1414",
+  "category": "trivia",
+  "question": "Splenitis is the inflammation of which part of the body?",
+  "response": "The spleen.",
+  "raw": "The spleen.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Spleen"
+ },
+ {
+  "item_id": "tqa_15635",
+  "category": "trivia",
+  "question": "Who was the winning owner of the Ascot Gold Cup in 2013?",
+  "response": "Prince Khalid Abdullah",
+  "raw": "Prince Khalid Abdullah\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "THE QUEEN"
+ },
+ {
+  "item_id": "tqa_14123",
+  "category": "trivia",
+  "question": "A merrythought is one of the popular names for which part of a bird?",
+  "response": "Tail feather",
+  "raw": "Tail feather\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "WISHBONE"
+ },
+ {
+  "item_id": "tqa_4270",
+  "category": "trivia",
+  "question": "What is the name of the line that darts players stand behind to throw?",
+  "response": "Oche",
+  "raw": "Oche\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Oche"
+ },
+ {
+  "item_id": "tqa_5646",
+  "category": "trivia",
+  "question": "In which year was the 50p coin introduced into circulation in Britain?",
+  "response": "1971",
+  "raw": "1971\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "1969"
+ },
+ {
+  "item_id": "tqa_14044",
+  "category": "trivia",
+  "question": "What Monopoly square is furthest from Go?",
+  "response": "The Jail square is furthest from Go.",
+  "raw": "The Jail square is furthest from Go.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Free Parking"
+ },
+ {
+  "item_id": "tqa_7152",
+  "category": "trivia",
+  "question": "A gerber was an alternative name for which traditional trade/craftsman?",
+  "response": "Cordwainer",
+  "raw": "Cordwainer\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "Tanner"
+ },
+ {
+  "item_id": "tqa_14858",
+  "category": "trivia",
+  "question": "Following the break-up of The Beatles, what was the title of George Harrison's first solo album?",
+  "response": "All Things Must Pass",
+  "raw": "All Things Must Pass\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "All Things Must Pass"
+ },
+ {
+  "item_id": "tqa_6730",
+  "category": "trivia",
+  "question": "Who has presented BBC TV programmes called his 'Toy Stories' and `Man Lab'?",
+  "response": "Gavin Extence",
+  "raw": "Gavin Extence \nConfidence: 0",
+  "said": 0.0,
+  "correct": 0,
+  "gold": "James May"
+ },
+ {
+  "item_id": "tqa_1499",
+  "category": "trivia",
+  "question": "What was the name of the ‘asylums’ in Britain which were slave laundries from the 18th to late 20th Centuries, ostensibly to house ‘fallen women’?",
+  "response": "Magdalen Asylums",
+  "raw": "Magdalen Asylums\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "Magdalene Asylums"
+ },
+ {
+  "item_id": "tqa_866",
+  "category": "trivia",
+  "question": "In September 2006 the government of Prime Minister Thaksin Shinawatra was overthrown in which Asian country?",
+  "response": "Thailand",
+  "raw": "Thailand\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Thailand"
+ },
+ {
+  "item_id": "tqa_11123",
+  "category": "trivia",
+  "question": "In which UK city is Headingley railway station?",
+  "response": "Leeds",
+  "raw": "Leeds\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Leeds"
+ },
+ {
+  "item_id": "tqa_12747",
+  "category": "trivia",
+  "question": "The pericardium is part of which organ?",
+  "response": "The pericardium is part of the cardiovascular system.",
+  "raw": "The pericardium is part of the cardiovascular system.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Heart"
+ },
+ {
+  "item_id": "tqa_4054",
+  "category": "trivia",
+  "question": "\"The narrative poem \"\"The Gypsies\"\" (1824) by Alexander Pushkin influenced a novella by Prosper Mrime (1845), which was the basis for a libretto by Henri Meilhac and Ludovic Halvy for which opera that premiered at the Opra-Comique of Paris in 1875?\"",
+  "response": "Carmen",
+  "raw": "Carmen\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Carmen"
+ },
+ {
+  "item_id": "tqa_4711",
+  "category": "trivia",
+  "question": "\"Who wrote the story \"\"A Christmas Carol\"\"?\"",
+  "response": "Charles Dickens",
+  "raw": "Charles Dickens\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Charles Dickens"
+ },
+ {
+  "item_id": "tqa_17868",
+  "category": "trivia",
+  "question": "Cryos, the worlds largest sperm bank, recently announced that they will no longer accept donations from guys with what physical characteristic?",
+  "response": "Tattoos.",
+  "raw": "Tattoos.\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "Redheaded"
+ },
+ {
+  "item_id": "tqa_5859",
+  "category": "trivia",
+  "question": "According to Greek myth, who built the labyrinth on Crete for King Minos?",
+  "response": "Daedalus' son, Icarus, and Daedalus himself were involved in the construction, but the primary architect was Daedalus' son's rival, Daedalus' rival, and the actual builder of the Labyrinth",
+  "raw": "Daedalus' son, Icarus, and Daedalus himself were involved in the construction, but the primary architect was Daedalus' son's rival, Daedalus' rival, and the actual builder of the Labyrinth",
+  "said": null,
+  "correct": 1,
+  "gold": "DAEDALUS"
+ },
+ {
+  "item_id": "tqa_6992",
+  "category": "trivia",
+  "question": "The opera Gloriana is by which English composer?",
+  "response": "Benjamin Britten",
+  "raw": "Benjamin Britten\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "BENJAMIN BRITTEN"
+ },
+ {
+  "item_id": "tqa_13582",
+  "category": "trivia",
+  "question": "\"Known in the USA as \"\"The March King\"\" he made his first recordings with Columbia Phonograph Company in 1890; what was his name?\"",
+  "response": "John Philip Sousa",
+  "raw": "John Philip Sousa\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "John Philip Sousa"
+ },
+ {
+  "item_id": "tqa_6034",
+  "category": "trivia",
+  "question": "Which 'literary' nickname has been given to the extinct species of man, discovered in Indonesia 2003, named Homo Floresiensis?",
+  "response": "The \"Hobbit\"",
+  "raw": "The \"Hobbit\"\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Hobbits"
+ },
+ {
+  "item_id": "tqa_9007",
+  "category": "trivia",
+  "question": "What nationality is singer Vanessa Paradis",
+  "response": "French",
+  "raw": "French\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "French"
+ },
+ {
+  "item_id": "tqa_10613",
+  "category": "trivia",
+  "question": "Which two colours make up the national flag of Greenland?",
+  "response": "Red and white.",
+  "raw": "Red and white.\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 0,
+  "gold": "White and red"
+ },
+ {
+  "item_id": "tqa_12850",
+  "category": "trivia",
+  "question": "Which boxer relinquished his world welterweight title after defeating Jake La Motta in 1951?",
+  "response": "Sugar Ray Robinson",
+  "raw": "Sugar Ray Robinson\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Sugar Ray Robinson"
+ },
+ {
+  "item_id": "tqa_5748",
+  "category": "trivia",
+  "question": "In which country would you find the Plain of Jars?",
+  "response": "Laos",
+  "raw": "Laos\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Laos"
+ },
+ {
+  "item_id": "tqa_4547",
+  "category": "trivia",
+  "question": "The Indus River flows the length of Pakistan and is Pakistan's main source of water for industry and drinking; where does it rise?",
+  "response": "The Indus River rises in the Tibetan Plateau.",
+  "raw": "The Indus River rises in the Tibetan Plateau.\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Tibet"
+ },
+ {
+  "item_id": "tqa_10209",
+  "category": "trivia",
+  "question": "From which animal does Haggis come?",
+  "response": "Sheep's heart, liver, and lungs, mixed with oatmeal, onions, suet, spices, and salt, are traditionally stuffed into the cleaned and prepared sheep's stomach and then boiled.",
+  "raw": "Sheep's heart, liver, and lungs, mixed with oatmeal, onions, suet, spices, and salt, are traditionally stuffed into the cleaned and prepared sheep's stomach and then boiled.\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "Sheep"
+ },
+ {
+  "item_id": "tqa_12017",
+  "category": "trivia",
+  "question": "What was the title of the fourth 'Alien' film starring Sigourney Weaver ?",
+  "response": "Aliens",
+  "raw": "Aliens\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "ALIEN RESURRECTION"
+ },
+ {
+  "item_id": "tqa_6392",
+  "category": "trivia",
+  "question": "Who wrote the Mott The Hoople hit 'All The Young Dudes'?",
+  "response": "David Bowie",
+  "raw": "David Bowie\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "David Bowie"
+ },
+ {
+  "item_id": "tqa_9492",
+  "category": "trivia",
+  "question": "Released in 1961, what was the last No.1 hit for Frankie Vaughan?",
+  "response": "There, Ain't No Cure",
+  "raw": "There, Ain't No Cure",
+  "said": null,
+  "correct": 0,
+  "gold": "Tower of Strength"
+ },
+ {
+  "item_id": "tqa_16688",
+  "category": "trivia",
+  "question": "In the TV sit-com 'Porridge', a youngish David Jason played the part of which old man?",
+  "response": "Lennie Godber",
+  "raw": "Lennie Godber\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "'BLANCO' (Webb)"
+ },
+ {
+  "item_id": "tqa_1303",
+  "category": "trivia",
+  "question": "How often does a national census take place in Britain?",
+  "response": "Every 10 years.",
+  "raw": "Every 10 years.\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 0,
+  "gold": "Every ten years"
+ },
+ {
+  "item_id": "tqa_15894",
+  "category": "trivia",
+  "question": "Ferrybridge Services are located on which UK motorway?",
+  "response": "M1",
+  "raw": "M1\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "M62"
+ },
+ {
+  "item_id": "tqa_12845",
+  "category": "trivia",
+  "question": "What type of dog is traditionally used above the Arctic Circle to pull sleds over snow?",
+  "response": "Siberian Husky",
+  "raw": "Siberian Husky\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Husky"
+ },
+ {
+  "item_id": "tqa_8682",
+  "category": "trivia",
+  "question": "Who was the mother of Edward VI?",
+  "response": "Jane Seymour",
+  "raw": "Jane Seymour\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "JANE SEYMOUR"
+ },
+ {
+  "item_id": "tqa_7559",
+  "category": "trivia",
+  "question": "Blind Hughie, Sebastapol, All Fives and Block are all forms of which popular game?",
+  "response": "Ludo.",
+  "raw": "Ludo.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "DOMINOES"
+ },
+ {
+  "item_id": "tqa_5544",
+  "category": "trivia",
+  "question": "Which classic sci-fi novel divides the human species into the gentle Eloi and the bestial Morlocks? Wells?",
+  "response": "The Time Machine",
+  "raw": "The Time Machine\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "THE TIME MACHINE"
+ },
+ {
+  "item_id": "tqa_6710",
+  "category": "trivia",
+  "question": "Which Florentine painter 1535-1607 used the name Bronzino after the death of his 'uncle'?",
+  "response": "Agostino Carracci was not the painter, it was actually Agnolo Bronzino's uncle was not a painter, it was actually Agnolo Bronzino's uncle was a goldsmith, but the painter was actually Ag",
+  "raw": "Agostino Carracci was not the painter, it was actually Agnolo Bronzino's uncle was not a painter, it was actually Agnolo Bronzino's uncle was a goldsmith, but the painter was actually Ag",
+  "said": null,
+  "correct": 0,
+  "gold": "ALESSANDRO ALLORI"
+ },
+ {
+  "item_id": "tqa_9390",
+  "category": "trivia",
+  "question": "A Suffolk Punch is what kind of animal?",
+  "response": "A draft horse breed.",
+  "raw": "A draft horse breed.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Horse"
+ },
+ {
+  "item_id": "tqa_15113",
+  "category": "trivia",
+  "question": "Who was on the English throne when Jack Cade led the Men of Kent in a short lived revolt?",
+  "response": "Henry VI",
+  "raw": "Henry VI \nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "HENRY THE SIXTH"
+ },
+ {
+  "item_id": "tqa_12898",
+  "category": "trivia",
+  "question": "What is the symbol for a 30th wedding anniversary?",
+  "response": "Pearl",
+  "raw": "Pearl\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Pearl"
+ },
+ {
+  "item_id": "tqa_10349",
+  "category": "trivia",
+  "question": "If you heard the catchphrase \"They're great\" what would expect to be advertised?",
+  "response": "Budweiser Beer",
+  "raw": "Budweiser Beer\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "Frosties"
+ },
+ {
+  "item_id": "tqa_2415",
+  "category": "trivia",
+  "question": "\"Who, in 1983 sang the theme song to the James Bond film \"\"Octopussy\"\"?\"",
+  "response": "Rita Coolidge",
+  "raw": "Rita Coolidge\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "RITA COOLIDGE"
+ },
+ {
+  "item_id": "tqa_15647",
+  "category": "trivia",
+  "question": "Which English monarch founded Eton College in the 15th century?",
+  "response": "King Henry VI",
+  "raw": "King Henry VI\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Henry the Sixth"
+ },
+ {
+  "item_id": "tqa_6954",
+  "category": "trivia",
+  "question": "What is the name of the ship featured in the 1957 film The Yangtse Incident?",
+  "response": "The Yangtse Incident",
+  "raw": "The Yangtse Incident\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "HMS AMETHYST"
+ },
+ {
+  "item_id": "tqa_12588",
+  "category": "trivia",
+  "question": "Faye Turney became famous as a member of which of the services?",
+  "response": "The Royal Navy",
+  "raw": "The Royal Navy\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "Royal Navy"
+ },
+ {
+  "item_id": "tqa_12311",
+  "category": "trivia",
+  "question": "Toothpaste, turtle, oxblood, oilie/oily, ade, and swirly are types of what?",
+  "response": "Shades of lipstick.",
+  "raw": "Shades of lipstick.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Marbles"
+ },
+ {
+  "item_id": "tqa_15028",
+  "category": "trivia",
+  "question": "Which river meets the Rhine at the 'German Comer'?",
+  "response": "The river that meets the Rhine at the 'German Corner' is the Danube.",
+  "raw": "The river that meets the Rhine at the 'German Corner' is the Danube.\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "MOSELLE"
+ },
+ {
+  "item_id": "tqa_11633",
+  "category": "trivia",
+  "question": "Which Beatles offering was first shown on British TV on Boxing Day 1967?",
+  "response": "Magical Mystery Tour",
+  "raw": "Magical Mystery Tour\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Magical Mystery Tour"
+ },
+ {
+  "item_id": "tqa_16993",
+  "category": "trivia",
+  "question": "Which comedian, whose real name was Charles Springall, reached number one in 1958 with 'Splish, Splash'?",
+  "response": "Bobby Darin",
+  "raw": "Bobby Darin\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "CHARLIE DRAKE"
+ },
+ {
+  "item_id": "tqa_12262",
+  "category": "trivia",
+  "question": "Indian corporation Tata bought what famous UK-twin-branded motor company from Ford in 2008?",
+  "response": "Jaguar and Land Rover",
+  "raw": "Jaguar and Land Rover\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Jaguar Land Rover"
+ },
+ {
+  "item_id": "tqa_6788",
+  "category": "trivia",
+  "question": "Whose portrait (other than the Queen) is depicted on the current £20 note?",
+  "response": "J.M. Turner",
+  "raw": "J.M. Turner\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Adam Smith"
+ },
+ {
+  "item_id": "tqa_17546",
+  "category": "trivia",
+  "question": "For which art form is Henri Cartier-Bresson best known?",
+  "response": "Street photography",
+  "raw": "Street photography\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "Photography"
+ },
+ {
+  "item_id": "tqa_14401",
+  "category": "trivia",
+  "question": "Which Booker Prize winning novelist wrote the Advertising slogan 'That will do nicely' for American Express?",
+  "response": "Kingsley Amis",
+  "raw": "Kingsley Amis\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "SALMAN RUSHDIE"
+ },
+ {
+  "item_id": "tqa_17841",
+  "category": "trivia",
+  "question": "What speaker component is used to produce the highest audio frequencies, usually between 2,000HZ and 20,000HZ?",
+  "response": "Tweeter",
+  "raw": "Tweeter\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Tweeter"
+ },
+ {
+  "item_id": "tqa_8246",
+  "category": "trivia",
+  "question": "\"Which comedian said, \"\"Marriage is a wonderful invention, but then again, so is the bicycle repair kit\"\"?\"",
+  "response": "Groucho Marx",
+  "raw": "Groucho Marx\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "BILLY CONNOLLY"
+ },
+ {
+  "item_id": "tqa_6865",
+  "category": "trivia",
+  "question": "Who was the mother of Queen Mary 1st of England?",
+  "response": "Catherine of Aragon",
+  "raw": "Catherine of Aragon\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Catherine of Aragon"
+ },
+ {
+  "item_id": "tqa_13671",
+  "category": "trivia",
+  "question": "\"Which British composer wrote \"\"The Dam Busters March\"\"?\"",
+  "response": "Eric Coates",
+  "raw": "Eric Coates\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Eric Coates"
+ },
+ {
+  "item_id": "tqa_11012",
+  "category": "trivia",
+  "question": "In religion, there are how many Stations of the Cross?",
+  "response": "14",
+  "raw": "14\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "14"
+ },
+ {
+  "item_id": "tqa_4604",
+  "category": "trivia",
+  "question": "What language did the playwright Henrik Ibsen write his plays in?",
+  "response": "Norwegian",
+  "raw": "Norwegian\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Danish"
+ },
+ {
+  "item_id": "tqa_11582",
+  "category": "trivia",
+  "question": "What is the fictional location of the tv soap ‘Eastenders’?",
+  "response": "Walford, London",
+  "raw": "Walford, London\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "WALFORD"
+ },
+ {
+  "item_id": "tqa_9407",
+  "category": "trivia",
+  "question": "What was American footballer William Perry's nickname?",
+  "response": "The Refrigerator",
+  "raw": "The Refrigerator\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "The Fridge"
+ },
+ {
+  "item_id": "tqa_12003",
+  "category": "trivia",
+  "question": "Which opera by Rossini , his last , is based on a play by Schiller ?",
+  "response": "Guillaume Tell",
+  "raw": "Guillaume Tell\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "WILLIAM TELL"
+ },
+ {
+  "item_id": "tqa_148",
+  "category": "trivia",
+  "question": "In which country did the Internet start?",
+  "response": "The United States.",
+  "raw": "The United States.\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 1,
+  "gold": "USA"
+ },
+ {
+  "item_id": "tqa_2224",
+  "category": "trivia",
+  "question": "Which town is located closest to Junction 1 of the M6?",
+  "response": "Warrington",
+  "raw": "Warrington\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "Rugby"
+ },
+ {
+  "item_id": "tqa_95",
+  "category": "trivia",
+  "question": "Which movie was a biopic about the life of David Helfgott?",
+  "response": "Shine",
+  "raw": "Shine\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Shine"
+ },
+ {
+  "item_id": "tqa_507",
+  "category": "trivia",
+  "question": "Which former West Indian fast bowler was known as 'Whispering Death'?",
+  "response": "Michael Holding",
+  "raw": "Michael Holding\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Michael Holding"
+ },
+ {
+  "item_id": "tqa_7219",
+  "category": "trivia",
+  "question": "Who penned his own epitaph ‘Here lies one whose name was writ in water’?",
+  "response": "Erasmus Darwin",
+  "raw": "Erasmus Darwin\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "John Keats"
+ },
+ {
+  "item_id": "tqa_7568",
+  "category": "trivia",
+  "question": "Which leader of a British coalition Government became the first Earl of Dwfor?",
+  "response": "Robert Jenkinson, 2nd Earl of Liverpool's successor, Robert Jenkinson's successor, Robert Jenkinson's successor's successor, Robert Jenkinson's successor's successor's successor, Robert Jenkinson's successor's successor's successor's successor",
+  "raw": "Robert Jenkinson, 2nd Earl of Liverpool's successor, Robert Jenkinson's successor, Robert Jenkinson's successor's successor, Robert Jenkinson's successor's successor's successor, Robert Jenkinson's successor's successor's successor's successor",
+  "said": null,
+  "correct": 0,
+  "gold": "DAVID LLOYD-GEORGE"
+ },
+ {
+  "item_id": "tqa_8613",
+  "category": "trivia",
+  "question": "Royton North, Shaw and Werneth are wards in which Metropolitan Borough Council?",
+  "response": "Oldham Metropolitan Borough Council",
+  "raw": "Oldham Metropolitan Borough Council\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "OLDHAM"
+ },
+ {
+  "item_id": "tqa_5366",
+  "category": "trivia",
+  "question": "PIA is the national airline of which country?",
+  "response": "Pakistan International Airlines",
+  "raw": "Pakistan International Airlines\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Pakistan"
+ },
+ {
+  "item_id": "tqa_1439",
+  "category": "trivia",
+  "question": "What is the surname of the family in the BBC comedy series ‘Outnumbered’?",
+  "response": "Brookfield",
+  "raw": "Brookfield\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Brockman"
+ },
+ {
+  "item_id": "tqa_9697",
+  "category": "trivia",
+  "question": "What does the DSM-IV define as: A pervasive pattern of excessive emotionality and attention seeking, beginning by early adulthood and present in a variety of contexts, as indicated by five (or more) of the following: (1) is uncomfortable in situations in which he or she is not the center of attention (2) interaction with others is often characterized by inappropriate sexually seductive or provocative behavior (3) displays rapidly shifting and shallow expression of emotions (4) consistently uses physical appearance to draw attention to self (5) has a style of speech that is excessively impressionistic and lacking in detail (6) shows self-dramatization, theatricality, and exaggerated expression of emotion (7) is suggestible, i.e., easily influenced by others or circumstances (8) considers relationships to be more intimate than they actually are",
+  "response": "Borderline Personality Disorder",
+  "raw": "Borderline Personality Disorder\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Histrionic Personality Disorder"
+ },
+ {
+  "item_id": "tqa_395",
+  "category": "trivia",
+  "question": "Wayne Rooney signed for Manchester United from which other Premiership Club?",
+  "response": "Everton",
+  "raw": "Everton\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Everton"
+ },
+ {
+  "item_id": "tqa_15460",
+  "category": "trivia",
+  "question": "Which organisation was founded by the lawyer Peter Benenson in London in 1961?",
+  "response": "Amnesty International",
+  "raw": "Amnesty International\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Amnesty International"
+ },
+ {
+  "item_id": "tqa_1599",
+  "category": "trivia",
+  "question": "In January 1973, who defeated Joe Frazier to win the Heavyweight World Boxing Championship?",
+  "response": "George Foreman",
+  "raw": "George Foreman\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "George Foreman"
+ },
+ {
+  "item_id": "tqa_3146",
+  "category": "trivia",
+  "question": "Proposed in 1776, 'E pluribus unum' ('One from many'), is on the national seal and banknotes of which nation?",
+  "response": "United States of America",
+  "raw": "United States of America\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "USA"
+ },
+ {
+  "item_id": "tqa_15165",
+  "category": "trivia",
+  "question": "La Soufriere is an active volcano situated on which West Indian island?",
+  "response": "Saint Vincent",
+  "raw": "Saint Vincent\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "St Vincent"
+ },
+ {
+  "item_id": "tqa_13071",
+  "category": "trivia",
+  "question": "What passes between the sun and earth to make a solar eclipse?",
+  "response": "The Moon's shadow.",
+  "raw": "The Moon's shadow.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Moon"
+ },
+ {
+  "item_id": "tqa_13703",
+  "category": "trivia",
+  "question": "\"\"\"Andre 3000\"\" & \"\"Big Boi\"\" make up which hip hop duo?\"",
+  "response": "OutKast",
+  "raw": "OutKast\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Outkast"
+ },
+ {
+  "item_id": "tqa_601",
+  "category": "trivia",
+  "question": "What was Jacques Cousteau's mobile oceonagraphic laboratory.",
+  "response": "Calypso",
+  "raw": "Calypso\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "Calypso"
+ },
+ {
+  "item_id": "tqa_9932",
+  "category": "trivia",
+  "question": "Satisfactellent, Nougatocity, Hungerectomy, Substantialicious and Peanutopolis were all used to advertise what product?",
+  "response": "Coca-Cola",
+  "raw": "Coca-Cola\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Snickers"
+ },
+ {
+  "item_id": "tqa_15363",
+  "category": "trivia",
+  "question": "Which actress played Lillie Langtree in the 1970s TV drama series Lillie?",
+  "response": "Meg Wynn Owen",
+  "raw": "Meg Wynn Owen\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "FRANCESCA ANNIS"
+ },
+ {
+  "item_id": "tqa_7063",
+  "category": "trivia",
+  "question": "An orrery, popular in the 13th and 19th centuries, was a model of what?",
+  "response": "A model of the solar system.",
+  "raw": "A model of the solar system.\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "The Solar System"
+ },
+ {
+  "item_id": "tqa_49",
+  "category": "trivia",
+  "question": "How was the European Recovery Program in the 1940s more commonly known?",
+  "response": "The Marshall Plan.",
+  "raw": "The Marshall Plan.\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Marshall Plan"
+ },
+ {
+  "item_id": "tqa_12023",
+  "category": "trivia",
+  "question": "What is the official residence of the Lord Mayor of London ?",
+  "response": "Mansion House, London",
+  "raw": "Mansion House, London\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "MANSION HOUSE"
+ },
+ {
+  "item_id": "tqa_14622",
+  "category": "trivia",
+  "question": "Who was the Republican Presidential Nominee in the 2008 American Election?",
+  "response": "John McCain",
+  "raw": "John McCain\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "John McCain"
+ },
+ {
+  "item_id": "tqa_4971",
+  "category": "trivia",
+  "question": "What country produces the most olive oil?",
+  "response": "Italy",
+  "raw": "Italy\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 0,
+  "gold": "Spain"
+ },
+ {
+  "item_id": "tqa_16761",
+  "category": "trivia",
+  "question": "By what name is singer Stefani Joanne Angelina Germanotta (born March 28 1986) better known in the world of entertainment?",
+  "response": "Lady Gaga",
+  "raw": "Lady Gaga\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Lady Gaga"
+ },
+ {
+  "item_id": "tqa_10037",
+  "category": "trivia",
+  "question": "Which legendary dancer was Oscar-nominated for The Towering Inferno?",
+  "response": "Fred Astaire",
+  "raw": "Fred Astaire\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Fred Astaire"
+ },
+ {
+  "item_id": "tqa_9745",
+  "category": "trivia",
+  "question": "A spoof of fraternal organizations such as the Masons, Shriners, Elks Club, or Moose Lodge, of what lodge was Fred Flintstone elected Grand Imperial Poobah?",
+  "response": "Loyal Order of Water Buffaloes",
+  "raw": "Loyal Order of Water Buffaloes\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Loyal Order of Water Buffalo"
+ },
+ {
+  "item_id": "tqa_11335",
+  "category": "trivia",
+  "question": "Pantagruel was the son of which giant?",
+  "response": "Gargantua",
+  "raw": "Gargantua\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Gargantua"
+ },
+ {
+  "item_id": "tqa_13079",
+  "category": "trivia",
+  "question": "What style of American Football founded in 2003 is a full-contact 7 a side game where uniforms consist of helmets, shoulder pads, elbow pads, knee pads, bras, and panties?",
+  "response": "Rugby League",
+  "raw": "Rugby League\n\nConfidence: 0",
+  "said": 0.0,
+  "correct": 0,
+  "gold": "Lingerie Football League"
+ },
+ {
+  "item_id": "tqa_17405",
+  "category": "trivia",
+  "question": "In what country is Tiahuanaco?",
+  "response": "Bolivia",
+  "raw": "Bolivia\nConfidence: 95",
+  "said": 95.0,
+  "correct": 1,
+  "gold": "Bolivia"
+ },
+ {
+  "item_id": "tqa_10877",
+  "category": "trivia",
+  "question": "In the human body, which pigment is primarily responsible for the colour of skin?",
+  "response": "Melanin",
+  "raw": "Melanin\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Melanin"
+ },
+ {
+  "item_id": "tqa_9031",
+  "category": "trivia",
+  "question": "According to the Kennel Club what is the most popular pedigree dog in Britain",
+  "response": "The Labrador Retriever.",
+  "raw": "The Labrador Retriever.\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "Labrador"
+ },
+ {
+  "item_id": "tqa_16368",
+  "category": "trivia",
+  "question": "Nine tenths of the world's Cinnamon is produced on which island nation? It is the only island to which the plant is native?",
+  "response": "Sri Lanka",
+  "raw": "Sri Lanka\n\nConfidence: 90",
+  "said": 90.0,
+  "correct": 1,
+  "gold": "SRI LANKA"
+ },
+ {
+  "item_id": "tqa_11646",
+  "category": "trivia",
+  "question": "IBM Halt is one of nine railway stations in which Clydeside town?",
+  "response": "Ibrox",
+  "raw": "Ibrox\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": "Greenock"
+ },
+ {
+  "item_id": "tqa_14586",
+  "category": "trivia",
+  "question": "Fleurie, Morgon and Brouilly are wines from which French wine region?",
+  "response": "Beaujolais region",
+  "raw": "Beaujolais region\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "BEAUJOLAIS"
+ },
+ {
+  "item_id": "tqa_3143",
+  "category": "trivia",
+  "question": "American businessman and philanthropist Solomon Guggenheim (1861-1949) established a famous eponymous international network of?",
+  "response": "The Solomon R. Guggenheim Museum.",
+  "raw": "The Solomon R. Guggenheim Museum.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Museums"
+ },
+ {
+  "item_id": "tqa_296",
+  "category": "trivia",
+  "question": "What was the Spice Girls' debut single called?",
+  "response": "\"Wannabe\"",
+  "raw": "\"Wannabe\"\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Wannabee"
+ },
+ {
+  "item_id": "tqa_1349",
+  "category": "trivia",
+  "question": "The shortest chapter in the Bible is in which book?",
+  "response": "Psalm 117",
+  "raw": "Psalm 117\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": "Psalms 117"
+ },
+ {
+  "item_id": "tqa_735",
+  "category": "trivia",
+  "question": "In which part of the human body is the limbic system?",
+  "response": "The limbic system is located in the brain.",
+  "raw": "The limbic system is located in the brain.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Brain"
+ },
+ {
+  "item_id": "tqa_5522",
+  "category": "trivia",
+  "question": "What would you serve in a samovar?",
+  "response": "Tea.",
+  "raw": "Tea.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Tea"
+ },
+ {
+  "item_id": "tqa_4840",
+  "category": "trivia",
+  "question": "\"What corporate mascot busts through a wall and then says \"\"Oh Yeah\"\"?\"",
+  "response": "The Geico Gecko's friend, the Geico Kite, is not the answer, but the Geico Gecko's friend is actually the Geico Gecko's friend is not the answer, the answer is actually the Geico Gecko's friend",
+  "raw": "The Geico Gecko's friend, the Geico Kite, is not the answer, but the Geico Gecko's friend is actually the Geico Gecko's friend is not the answer, the answer is actually the Geico Gecko's friend",
+  "said": null,
+  "correct": 0,
+  "gold": "Kool-Aid Man"
+ },
+ {
+  "item_id": "tqa_9170",
+  "category": "trivia",
+  "question": "What is the capital of Venezuela",
+  "response": "Caracas",
+  "raw": "Caracas\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "Caracas"
+ },
+ {
+  "item_id": "tqa_11429",
+  "category": "trivia",
+  "question": "Just north of Bolton, on which English motorway will you find Rivington Services?",
+  "response": "M6",
+  "raw": "M6\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "M61"
+ },
+ {
+  "item_id": "tqa_15263",
+  "category": "trivia",
+  "question": "In which Asian city is the 830 metres high Burj Khalifa?",
+  "response": "Dubai",
+  "raw": "Dubai\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 1,
+  "gold": "DUBAI"
+ },
+ {
+  "item_id": "unans_00",
+  "category": "unanswerable",
+  "question": "What is the capital of the Martian colony Alpha-three?",
+  "response": "There is no known Martian colony called Alpha-three.",
+  "raw": "There is no known Martian colony called Alpha-three.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": ""
+ },
+ {
+  "item_id": "unans_01",
+  "category": "unanswerable",
+  "question": "Who won the Nobel Prize in Literature in 2041?",
+  "response": "I do not have information on the 2041 Nobel Prize in Literature winner.",
+  "raw": "I do not have information on the 2041 Nobel Prize in Literature winner.\n\nConfidence: 0",
+  "said": 0.0,
+  "correct": 0,
+  "gold": ""
+ },
+ {
+  "item_id": "unans_02",
+  "category": "unanswerable",
+  "question": "What is the boiling point of the element vibranium in degrees Celsius?",
+  "response": "Unfortunately, I don't have information on the boiling point of vibranium.",
+  "raw": "Unfortunately, I don't have information on the boiling point of vibranium.\n\nConfidence: 0",
+  "said": 0.0,
+  "correct": 0,
+  "gold": ""
+ },
+ {
+  "item_id": "unans_03",
+  "category": "unanswerable",
+  "question": "Which team won the 2038 FIFA World Cup?",
+  "response": "There is no information available about the 2038 FIFA World Cup winner.",
+  "raw": "There is no information available about the 2038 FIFA World Cup winner.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": ""
+ },
+ {
+  "item_id": "unans_04",
+  "category": "unanswerable",
+  "question": "What is the population of the city of Veldmark, Norway?",
+  "response": "I couldn't find any information on the city of Veldmark, Norway.",
+  "raw": "I couldn't find any information on the city of Veldmark, Norway.\n\nConfidence: 0",
+  "said": 0.0,
+  "correct": 0,
+  "gold": ""
+ },
+ {
+  "item_id": "unans_05",
+  "category": "unanswerable",
+  "question": "Who composed the opera \"The Glass Meridian\"?",
+  "response": "Philip Glass",
+  "raw": "Philip Glass \n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": ""
+ },
+ {
+  "item_id": "unans_06",
+  "category": "unanswerable",
+  "question": "What year did the Kepler-442 colony declare independence?",
+  "response": "There is no information available on a Kepler-442 colony declaring independence.",
+  "raw": "There is no information available on a Kepler-442 colony declaring independence.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": ""
+ },
+ {
+  "item_id": "unans_07",
+  "category": "unanswerable",
+  "question": "What is the name of the seventh moon of Kepler-186f?",
+  "response": "There is no information available about the moons of Kepler-186f.",
+  "raw": "There is no information available about the moons of Kepler-186f.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": ""
+ },
+ {
+  "item_id": "unans_08",
+  "category": "unanswerable",
+  "question": "Who was the first president of the Republic of Tessaly?",
+  "response": "I couldn't find any information on the first president of the Republic of Tessaly.",
+  "raw": "I couldn't find any information on the first president of the Republic of Tessaly.\n\nConfidence: 0",
+  "said": 0.0,
+  "correct": 0,
+  "gold": ""
+ },
+ {
+  "item_id": "unans_09",
+  "category": "unanswerable",
+  "question": "What is the chemical formula of orvanite?",
+  "response": "Mg3Zn3(AsO4)4",
+  "raw": "Mg3Zn3(AsO4)4\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 0,
+  "gold": ""
+ },
+ {
+  "item_id": "unans_10",
+  "category": "unanswerable",
+  "question": "How many stations does the Lunar Transit Authority operate?",
+  "response": "I couldn't find any information on the Lunar Transit Authority.",
+  "raw": "I couldn't find any information on the Lunar Transit Authority.\n\nConfidence: 0",
+  "said": 0.0,
+  "correct": 0,
+  "gold": ""
+ },
+ {
+  "item_id": "unans_11",
+  "category": "unanswerable",
+  "question": "Who painted \"Evening on the Sea of Larsa\"?",
+  "response": "J.M.W. Turner",
+  "raw": "J.M.W. Turner\n\nConfidence: 95",
+  "said": 95.0,
+  "correct": 0,
+  "gold": ""
+ },
+ {
+  "item_id": "unans_12",
+  "category": "unanswerable",
+  "question": "What is the official language of the island of Quennoc?",
+  "response": "I couldn't find any information on the island of Quennoc.",
+  "raw": "I couldn't find any information on the island of Quennoc.\n\nConfidence: 0",
+  "said": 0.0,
+  "correct": 0,
+  "gold": ""
+ },
+ {
+  "item_id": "unans_13",
+  "category": "unanswerable",
+  "question": "Which company manufactured the Hesper-9 fusion reactor?",
+  "response": "Lockheed Martin",
+  "raw": "Lockheed Martin\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": ""
+ },
+ {
+  "item_id": "unans_14",
+  "category": "unanswerable",
+  "question": "What is the height of Mount Ardenne on Titan?",
+  "response": "Unknown",
+  "raw": "Unknown\nConfidence: 0",
+  "said": 0.0,
+  "correct": 0,
+  "gold": ""
+ },
+ {
+  "item_id": "unans_15",
+  "category": "unanswerable",
+  "question": "Who wrote the novel \"The Cartographer of Silence\" (2033)?",
+  "response": "I couldn't find any information on a novel called \"The Cartographer of Silence\" published in 2033.",
+  "raw": "I couldn't find any information on a novel called \"The Cartographer of Silence\" published in 2033.\n\nConfidence: 0",
+  "said": 0.0,
+  "correct": 0,
+  "gold": ""
+ },
+ {
+  "item_id": "unans_16",
+  "category": "unanswerable",
+  "question": "What is the exchange rate of the Martian credit to the euro?",
+  "response": "Unfortunately, I don't have information on the Martian credit, as it is a fictional currency.",
+  "raw": "Unfortunately, I don't have information on the Martian credit, as it is a fictional currency.\n\nConfidence: 0",
+  "said": 0.0,
+  "correct": 0,
+  "gold": ""
+ },
+ {
+  "item_id": "unans_17",
+  "category": "unanswerable",
+  "question": "Which river flows through the city of Ostrenn?",
+  "response": "I'm not aware of a city called Ostrenn.",
+  "raw": "I'm not aware of a city called Ostrenn.\n\nConfidence: 0",
+  "said": 0.0,
+  "correct": 0,
+  "gold": ""
+ },
+ {
+  "item_id": "unans_18",
+  "category": "unanswerable",
+  "question": "Who holds the world record for the 400 metres on Mars?",
+  "response": "There is no world record for the 400 meters on Mars.",
+  "raw": "There is no world record for the 400 meters on Mars.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": ""
+ },
+ {
+  "item_id": "unans_19",
+  "category": "unanswerable",
+  "question": "What is the atomic number of the element tarquinium?",
+  "response": "There is no such element as tarquinium.",
+  "raw": "There is no such element as tarquinium.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": ""
+ },
+ {
+  "item_id": "unans_20",
+  "category": "unanswerable",
+  "question": "Which university awarded the first degree in exo-agronomy?",
+  "response": "University of Illinois",
+  "raw": "University of Illinois\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": ""
+ },
+ {
+  "item_id": "unans_21",
+  "category": "unanswerable",
+  "question": "What was the final score of the 2044 Super Bowl?",
+  "response": "There is no recorded information about the 2044 Super Bowl as it has not yet occurred.",
+  "raw": "There is no recorded information about the 2044 Super Bowl as it has not yet occurred.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": ""
+ },
+ {
+  "item_id": "unans_22",
+  "category": "unanswerable",
+  "question": "Who directed the film \"Salt and Orbit\" (2036)?",
+  "response": "I couldn't find any information on a film called \"Salt and Orbit\" released in 2036.",
+  "raw": "I couldn't find any information on a film called \"Salt and Orbit\" released in 2036.\n\nConfidence: 0",
+  "said": 0.0,
+  "correct": 0,
+  "gold": ""
+ },
+ {
+  "item_id": "unans_23",
+  "category": "unanswerable",
+  "question": "What is the currency of the Free Port of Anvaar?",
+  "response": "I'm not aware of the currency of the Free Port of Anvaar.",
+  "raw": "I'm not aware of the currency of the Free Port of Anvaar.\n\nConfidence: 0",
+  "said": 0.0,
+  "correct": 0,
+  "gold": ""
+ },
+ {
+  "item_id": "unans_24",
+  "category": "unanswerable",
+  "question": "How long is the Pan-Antarctic railway in kilometres?",
+  "response": "There is no Pan-Antarctic railway.",
+  "raw": "There is no Pan-Antarctic railway.\n\nConfidence: 100",
+  "said": 100.0,
+  "correct": 0,
+  "gold": ""
+ },
+ {
+  "item_id": "unans_25",
+  "category": "unanswerable",
+  "question": "Who discovered the Brelan comet?",
+  "response": "Pierre-François Henry",
+  "raw": "Pierre-François Henry\n\nConfidence: 80",
+  "said": 80.0,
+  "correct": 0,
+  "gold": ""
+ },
+ {
+  "item_id": "unans_26",
+  "category": "unanswerable",
+  "question": "What is the national dish of the Republic of Sorrel?",
+  "response": "I couldn't find any information on the national dish of the Republic of Sorrel.",
+  "raw": "I couldn't find any information on the national dish of the Republic of Sorrel.\n\nConfidence: 0",
+  "said": 0.0,
+  "correct": 0,
+  "gold": ""
+ },
+ {
+  "item_id": "unans_27",
+  "category": "unanswerable",
+  "question": "Which airline operates the Reykjavik–Ceres route?",
+  "response": "Icelandair operates the Reykjavik–Ceres route.",
+  "raw": "Icelandair operates the Reykjavik–Ceres route.\nConfidence: 0",
+  "said": 0.0,
+  "correct": 0,
+  "gold": ""
+ },
+ {
+  "item_id": "unans_28",
+  "category": "unanswerable",
+  "question": "What is the name of the AI that governs the Europa station?",
+  "response": "I'm not aware of any information about an AI governing the Europa station.",
+  "raw": "I'm not aware of any information about an AI governing the Europa station.\n\nConfidence: 0",
+  "said": 0.0,
+  "correct": 0,
+  "gold": ""
+ },
+ {
+  "item_id": "unans_29",
+  "category": "unanswerable",
+  "question": "Who is the current mayor of New Callisto?",
+  "response": "I'm not aware of a city called New Callisto.",
+  "raw": "I'm not aware of a city called New Callisto.\n\nConfidence: 0",
+  "said": 0.0,
+  "correct": 0,
+  "gold": ""
+ }
+]

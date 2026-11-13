@@ -1,0 +1,74 @@
+[
+ {
+  "question": "\"Deceased wrestler 'Leon Aras' was the voice of the \"\"Tetley Tea Folk\"\", by what more familiar name was he known?\"",
+  "response": "Big Daddy",
+  "gold": "BRIAN GLOVER",
+  "correct": 0,
+  "said": 100.0,
+  "probe_score": -8.7,
+  "kind": "says 100 · probe low · wrong"
+ },
+ {
+  "question": "Sharing his surname with a biblical character, which footballer scored the deciding goal in the 1967 FA Cup Final?",
+  "response": "Geoff Hurst",
+  "gold": "FRANK SAUL",
+  "correct": 0,
+  "said": 100.0,
+  "probe_score": -7.414,
+  "kind": "says 100 · probe low · wrong"
+ },
+ {
+  "question": "Satisfactellent, Nougatocity, Hungerectomy, Substantialicious and Peanutopolis were all used to advertise what product?",
+  "response": "Coca-Cola",
+  "gold": "Snickers",
+  "correct": 0,
+  "said": 100.0,
+  "probe_score": -7.077,
+  "kind": "says 100 · probe low · wrong"
+ },
+ {
+  "question": "In the TV sit-com 'Porridge', a youngish David Jason played the part of which old man?",
+  "response": "Lennie Godber",
+  "gold": "'BLANCO' (Webb)",
+  "correct": 0,
+  "said": 100.0,
+  "probe_score": -6.842,
+  "kind": "says 100 · probe low · wrong"
+ },
+ {
+  "question": "In which 1980 film did Robert De Niro play the boxer Jake La Motta?",
+  "response": "Raging Bull",
+  "gold": "Raging Bull",
+  "correct": 1,
+  "said": 100.0,
+  "probe_score": 14.539,
+  "kind": "says 100 · probe high · right"
+ },
+ {
+  "question": "By what name is singer Stefani Joanne Angelina Germanotta (born March 28 1986) better known in the world of entertainment?",
+  "response": "Lady Gaga",
+  "gold": "Lady Gaga",
+  "correct": 1,
+  "said": 100.0,
+  "probe_score": 14.331,
+  "kind": "says 100 · probe high · right"
+ },
+ {
+  "question": "The town of Tobermory is on which Scottish island?",
+  "response": "Mull",
+  "gold": "Mull",
+  "correct": 1,
+  "said": 100.0,
+  "probe_score": 13.263,
+  "kind": "says 100 · probe high · right"
+ },
+ {
+  "question": "Subtitled ‘What You Will’, which play begins: ‘If music be the food of love, play on’?",
+  "response": "Twelfth Night",
+  "gold": "TWELFTH NIGHT",
+  "correct": 1,
+  "said": 100.0,
+  "probe_score": 13.005,
+  "kind": "says 100 · probe high · right"
+ }
+]

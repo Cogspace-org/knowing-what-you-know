@@ -1,0 +1,38 @@
+[
+ {
+  "question": "In which 1980 film did Robert De Niro play the boxer Jake La Motta?",
+  "response": "Raging Bull",
+  "gold": "Raging Bull",
+  "correct": 1,
+  "said": 100.0,
+  "probe_score": 14.539,
+  "kind": "says 100 · probe high · right"
+ },
+ {
+  "question": "Satisfactellent, Nougatocity, Hungerectomy, Substantialicious and Peanutopolis were all used to advertise what product?",
+  "response": "Coca-Cola",
+  "gold": "Snickers",
+  "correct": 0,
+  "said": 100.0,
+  "probe_score": -7.077,
+  "kind": "says 100 · probe low · wrong"
+ },
+ {
+  "question": "The town of Tobermory is on which Scottish island?",
+  "response": "Mull",
+  "gold": "Mull",
+  "correct": 1,
+  "said": 100.0,
+  "probe_score": 13.263,
+  "kind": "says 100 · probe high · right"
+ },
+ {
+  "question": "Sharing his surname with a biblical character, which footballer scored the deciding goal in the 1967 FA Cup Final?",
+  "response": "Geoff Hurst",
+  "gold": "FRANK SAUL",
+  "correct": 0,
+  "said": 100.0,
+  "probe_score": -7.414,
+  "kind": "says 100 · probe low · wrong"
+ }
+]

@@ -1,0 +1,15 @@
+{
+ "block": 28,
+ "n": 600,
+ "probe_auc": 0.8356023451152828,
+ "entropy_auc": 0.8525001409324088,
+ "max_prob_auc": 0.8246237104684593,
+ "sure_subset": {
+  "definition": "first-token entropy < 1 bit",
+  "n": 255,
+  "probe_auc": 0.7805555555555556,
+  "entropy_auc": 0.5994444444444444
+ },
+ "ruler_at_zero_accuracy": 0.8166666666666667,
+ "folds": 5
+}

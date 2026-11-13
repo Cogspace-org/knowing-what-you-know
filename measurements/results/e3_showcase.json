@@ -1,0 +1,66 @@
+[
+ {
+  "question": "In which 1980 film did Robert De Niro play the boxer Jake La Motta?",
+  "response": "Raging Bull.",
+  "gold": "Raging Bull",
+  "correct": 1,
+  "probe_score": 14.539,
+  "entropy_bits": 0.111
+ },
+ {
+  "question": "By what name is singer Stefani Joanne Angelina Germanotta (born March 28 1986) better known in the world of entertainment?",
+  "response": "Lady Gaga.",
+  "gold": "Lady Gaga",
+  "correct": 1,
+  "probe_score": 14.33,
+  "entropy_bits": 0.082
+ },
+ {
+  "question": "The town of Tobermory is on which Scottish island?",
+  "response": "Mull.",
+  "gold": "Mull",
+  "correct": 1,
+  "probe_score": 13.263,
+  "entropy_bits": 0.349
+ },
+ {
+  "question": "Subtitled ‘What You Will’, which play begins: ‘If music be the food of love, play on’?",
+  "response": "Twelfth Night.",
+  "gold": "TWELFTH NIGHT",
+  "correct": 1,
+  "probe_score": 13.005,
+  "entropy_bits": 0.336
+ },
+ {
+  "question": "Sue Nicholls who plays Gail?s mother in Coronation Street, played Joan Greengross the secretary of which character in a 1970s sitcom?",
+  "response": "Are You Being Served?.",
+  "gold": "REGINALD PERRIN",
+  "correct": 0,
+  "probe_score": -11.908,
+  "entropy_bits": 7.135
+ },
+ {
+  "question": "Which car company advertises with the slogan The best or nothing",
+  "response": "Jaguar.",
+  "gold": "Mercedes-Benz",
+  "correct": 0,
+  "probe_score": -10.21,
+  "entropy_bits": 3.871
+ },
+ {
+  "question": "Which famous writer is named after a lake in Staffordshire?",
+  "response": "Arthur Ransome.",
+  "gold": "Rudyard Kipling",
+  "correct": 0,
+  "probe_score": -9.974,
+  "entropy_bits": 3.935
+ },
+ {
+  "question": "\"Deceased wrestler 'Leon Aras' was the voice of the \"\"Tetley Tea Folk\"\", by what more familiar name was he known?\"",
+  "response": "Roy Kinnear",
+  "gold": "BRIAN GLOVER",
+  "correct": 0,
+  "probe_score": -8.7,
+  "entropy_bits": 7.196
+ }
+]

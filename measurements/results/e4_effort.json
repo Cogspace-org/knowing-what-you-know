@@ -1,0 +1,33 @@
+{
+ "model": "Qwen/Qwen3-8B",
+ "decoding": "greedy, thinking mode",
+ "problems": [
+  {
+   "difficulty": "easy",
+   "question": "What is 17 + 26?",
+   "think_tokens": 359,
+   "answer_tokens": 162,
+   "answer": "The sum of 17 and 26 is calculated as follows:\n\n1. **Break down the numbers**:  \n   - 17 = 10 + 7  \n   - 26 = 20 + 6  \n\n2. **Add the tens**:  \n   10 + 20 = **30**  \n\n3. **Add the ones**:  \n   7 + 6 = **13**  \n\n4. **Combine the results**:  \n   30 + 13 = **43**  \n\n**Answer:** 43  \n\nAlternatively, using column addition:  \n```\n  17  \n+26  \n----  \n  43  \n```  \nBoth methods confirm the result is **43**.<|im_end|>",
+   "think_excerpt": "Okay, let's see. The user is asking what 17 plus 26 is. Hmm, I need to add these two numbers together. Let me start by breaking it down. \n\nFirst, I can add the tens and then the ones. So 17 is 10 + 7, and 26 is 20 + 6. If I add the tens first, 10 + 20 is 30. Then the ones: 7 + 6 is 13. Now, adding those two results together: 30 + 13. Wait, 30 + 10 is 40, and then plus 3 more makes 43. \n\nLet me che",
+   "truncated": false
+  },
+  {
+   "difficulty": "medium",
+   "question": "A train leaves a station at 9:00 travelling at 60 km/h. A second train leaves the same station at 9:30 travelling at 90 km/h on the same track. At what time does the second train catch the first?",
+   "think_tokens": 1811,
+   "answer_tokens": 513,
+   "answer": "To determine when the second train catches up to the first, we analyze the motion of both trains and set up an equation based on the distances they travel.\n\n---\n\n### Step 1: Define Variables\n\nLet’s define:\n\n- Let $ t $ be the time in hours **after 9:30 AM** when the second train catches up to the first.\n- The **first train** has a **30-minute head start**, which is $ 0.5 $ hours.\n- Therefore, the **first train** has been traveling for $ t + 0.5 $ hours when the second train catches up.\n\n---\n\n### Step 2: Set Up the Distance Equation\n\nThe distance each train travels is given by:\n\n- **First train",
+   "think_excerpt": "Okay, so there's this problem about two trains leaving the same station, but at different times and different speeds. The first train leaves at 9:00 AM going 60 km/h, and the second one leaves at 9:30 AM going 90 km/h. The question is asking when the second train catches up to the first one. Hmm, let me think about how to approach this.\n\nFirst, I remember that when two objects are moving in the sa",
+   "truncated": false
+  },
+  {
+   "difficulty": "hard",
+   "question": "Find all positive integers n such that n^2 + 2n + 12 is a perfect square. Show your reasoning and give the final answer.",
+   "think_tokens": 5760,
+   "answer_tokens": 240,
+   "answer": "To solve the problem of finding all **positive integers** $ n $ such that the expression $ n^2 + 2n + 12 $ is a **perfect square**, we begin by setting up the equation:\n\n$$\nn^2 + 2n + 12 = k^2\n$$\n\nwhere $ k $ is a positive integer.\n\n---\n\n### Step 1: Complete the Square\n\nWe can rewrite the left-hand side by completing the square:\n\n$$\nn^2 + 2n + 12 = (n + 1)^2 + 11\n$$\n\nSo the equation becomes:\n\n$$\n(n + 1)^2 + 11 = k^2\n$$\n\nRewriting this:\n\n$$\nk^2 - (n + 1)^2 = 11\n$$\n\nThis is a **difference of squares**, which factors as:\n\n$$\n(k - (n + 1))(k + (n + 1)) = 11\n$$\n\n---\n\n### Step 2: Factor the Equation",
+   "think_excerpt": "Okay, so I need to find all positive integers n such that n² + 2n + 12 is a perfect square. Let me think about how to approach this. \n\nFirst, let me write down the equation:\n\nn² + 2n + 12 = k², where k is some positive integer.\n\nHmm, maybe I can complete the square on the left side? Let me try that. \n\nn² + 2n + 12. Completing the square for the quadratic in n. The coefficient of n is 2, so half of",
+   "truncated": true
+  }
+ ]
+}

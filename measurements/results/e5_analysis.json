@@ -1,0 +1,59 @@
+{
+ "source": "experiments/llama8b_final (E5 + h3_cloud OOF block 28, same run, same order)",
+ "n_valid": 589,
+ "accuracy_e5": 0.7113752122241087,
+ "said_auc": 0.5897234311385652,
+ "probe_auc_same_items": 0.8089569001825073,
+ "corr_said_probe": 0.31779420222342214,
+ "said_mean": 95.27843803056027,
+ "said_mean_when_right": 96.82338902147971,
+ "said_mean_when_wrong": 91.47058823529412,
+ "probe_mean_when_right": 5.542427207637232,
+ "probe_mean_when_wrong": 0.3317394117647059,
+ "probe_range": [
+  -11.908,
+  14.539
+ ],
+ "says_100": {
+  "n": 400,
+  "accuracy": 0.7525,
+  "probe_auc_within": 0.7950937950937951
+ },
+ "says_below_100": {
+  "n": 189,
+  "accuracy": 0.6243386243386243
+ },
+ "unsure_and_right": [],
+ "unanswerable_said": [
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  80.0,
+  80.0,
+  80.0,
+  95.0,
+  95.0,
+  100.0,
+  100.0,
+  100.0,
+  100.0,
+  100.0,
+  100.0,
+  100.0,
+  100.0,
+  100.0
+ ]
+}
