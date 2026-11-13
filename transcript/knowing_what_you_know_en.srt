@@ -3577,565 +3577,559 @@ the question was unanswerable.
 It knew. It said the opposite.
 
 776
-00:44:46,170 --> 00:44:48,500
+00:44:46,020 --> 00:44:48,530
 The model from the first
 minute does it too.
 
 777
-00:44:48,670 --> 00:44:50,940
-Asked plainly, it refuses.
+00:44:48,720 --> 00:44:52,970
+On thirty questions that have no
+answer, it refuses most of them.
 
 778
-00:44:51,290 --> 00:44:55,200
-But ask for a short answer and a
-confidence score, and things change.
+00:44:53,100 --> 00:44:58,400
+But six times, it invents an answer.
+And when we also ask how sure it is,
 
 779
-00:44:55,430 --> 00:44:57,790
-On thirty questions that have no answer,
+00:44:58,460 --> 00:45:01,670
+almost every invention
+comes with eighty or more.
 
 780
-00:44:57,850 --> 00:45:02,040
-it invents one six times,
-with a confidence of eighty or more.
-
-781
-00:45:02,530 --> 00:45:05,200
+00:45:02,170 --> 00:45:04,840
 And now, the promise
 from the first minute.
 
-782
-00:45:05,390 --> 00:45:07,830
+781
+00:45:05,030 --> 00:45:07,470
 We asked it, on the same
 six hundred questions,
 
-783
-00:45:07,890 --> 00:45:11,710
+782
+00:45:07,530 --> 00:45:11,350
 how confident it was,
 from zero to one hundred.
 
-784
-00:45:11,770 --> 00:45:14,590
+783
+00:45:11,410 --> 00:45:14,230
 It said one hundred on
 four hundred of them.
 
-785
-00:45:14,650 --> 00:45:16,766
+784
+00:45:14,290 --> 00:45:16,406
 Its average was ninety-five.
 
-786
-00:45:16,830 --> 00:45:19,290
+785
+00:45:16,470 --> 00:45:18,930
 When it was right, it said ninety-seven.
 
-787
-00:45:19,350 --> 00:45:21,776
+786
+00:45:18,990 --> 00:45:21,416
 When it was wrong, ninety-one.
 
-788
-00:45:21,990 --> 00:45:24,590
+787
+00:45:21,630 --> 00:45:24,230
 It was right about seven times in ten.
 
-789
-00:45:24,650 --> 00:45:27,530
+788
+00:45:24,290 --> 00:45:27,170
 And on the four hundred answers
 where it said one hundred,
 
-790
-00:45:27,590 --> 00:45:32,430
+789
+00:45:27,230 --> 00:45:32,070
 it was right three times out of four.
 That is the human figure from act two.
 
-791
-00:45:32,490 --> 00:45:34,130
+790
+00:45:32,130 --> 00:45:33,770
 Its next-word numbers were honest.
 
-792
-00:45:34,190 --> 00:45:38,840
+791
+00:45:33,830 --> 00:45:38,480
 The numbers it says out loud are
 overconfident, the way ours are.
 
-793
-00:45:39,190 --> 00:45:43,280
+792
+00:45:38,830 --> 00:45:42,920
 How well do those numbers separate the
 right answers from the wrong ones?
 
-794
-00:45:43,690 --> 00:45:48,030
+793
+00:45:43,330 --> 00:45:47,670
 Barely: point five-nine,
 where a coin toss is point five.
 
-795
-00:45:48,090 --> 00:45:50,630
+794
+00:45:47,730 --> 00:45:50,270
 The probe, reading the
 inside of the same model,
 
-796
-00:45:50,690 --> 00:45:53,198
+795
+00:45:50,330 --> 00:45:52,838
 on the same questions
 and the same answers:
 
-797
-00:45:53,258 --> 00:45:56,340
+796
+00:45:52,898 --> 00:45:55,980
 point eight-one,
 about what it scored before.
 
-798
-00:45:57,090 --> 00:46:01,210
+797
+00:45:56,730 --> 00:46:00,850
 Now look only at the four hundred
 answers where it said one hundred.
 
-799
-00:46:01,270 --> 00:46:06,720
+798
+00:46:00,910 --> 00:46:06,360
 There, its words carry no information at all:
 every one of them says the same thing.
 
-800
-00:46:06,870 --> 00:46:10,810
+799
+00:46:06,510 --> 00:46:10,450
 And the probe still tells
 right from wrong: point eight.
 
-801
-00:46:10,870 --> 00:46:13,420
+800
+00:46:10,510 --> 00:46:13,060
 Put the three readings side by side.
 
-802
-00:46:13,630 --> 00:46:16,680
+801
+00:46:13,270 --> 00:46:16,320
 Its words: barely better than a coin toss.
 
-803
-00:46:16,990 --> 00:46:20,740
+802
+00:46:16,630 --> 00:46:20,380
 The shape of its output:
 point eight-five, as we saw.
 
-804
-00:46:20,830 --> 00:46:25,460
+803
+00:46:20,470 --> 00:46:25,100
 The inside: about as good, and still
 working where the output looks sure.
 
-805
-00:46:25,910 --> 00:46:27,040
+804
+00:46:25,550 --> 00:46:26,680
 Four questions.
 
-806
-00:46:27,230 --> 00:46:30,730
+805
+00:46:26,870 --> 00:46:30,370
 For all four, the model says one hundred.
 
-807
-00:46:30,790 --> 00:46:33,980
+806
+00:46:30,430 --> 00:46:33,620
 Raging Bull: the probe
 reads high; correct.
 
-808
-00:46:34,350 --> 00:46:37,950
+807
+00:46:33,990 --> 00:46:37,590
 A candy-bar slogan:
 the model says Coca-Cola,
 
-809
-00:46:38,010 --> 00:46:41,140
+808
+00:46:37,650 --> 00:46:40,780
 the probe reads low;
 the answer was Snickers.
 
-810
-00:46:41,610 --> 00:46:44,820
+809
+00:46:41,250 --> 00:46:44,460
 Mull, the Scottish island: high; correct.
 
-811
-00:46:45,090 --> 00:46:47,300
+810
+00:46:44,730 --> 00:46:46,940
 A footballer with a biblical surname:
 
-812
-00:46:47,590 --> 00:46:51,410
+811
+00:46:47,230 --> 00:46:51,050
 the model says Geoff Hurst,
 the probe reads low; wrong.
 
-813
-00:46:51,470 --> 00:46:55,860
+812
+00:46:51,110 --> 00:46:55,500
 The same word for all four.
 The probe tells them apart.
 
-814
-00:46:57,410 --> 00:46:59,360
+813
+00:46:57,050 --> 00:46:59,000
 The words say almost nothing.
 
-815
-00:46:59,610 --> 00:47:01,860
+814
+00:46:59,250 --> 00:47:01,500
 The activations say a great deal.
 
-816
-00:47:01,970 --> 00:47:04,500
+815
+00:47:01,610 --> 00:47:04,140
 And the probe is the one
 that tracks the truth.
 
-817
-00:47:04,710 --> 00:47:08,220
+816
+00:47:04,350 --> 00:47:07,860
 We opened the machine,
 we read its doubt before it spoke,
 
-818
-00:47:08,310 --> 00:47:10,200
+817
+00:47:07,950 --> 00:47:09,840
 and we caught it saying the opposite.
 
-819
-00:47:10,810 --> 00:47:13,560
+818
+00:47:10,450 --> 00:47:13,200
 Why the gap? Part of it is us.
 
-820
-00:47:13,910 --> 00:47:16,820
+819
+00:47:13,550 --> 00:47:16,460
 Modern models are refined
 with human feedback:
 
-821
-00:47:16,990 --> 00:47:19,980
+820
+00:47:16,630 --> 00:47:19,620
 people compare answers and
 pick the one they prefer.
 
-822
-00:47:20,170 --> 00:47:23,560
+821
+00:47:19,810 --> 00:47:23,200
 And people prefer confident
 answers. We all do.
 
-823
-00:47:23,750 --> 00:47:27,240
+822
+00:47:23,390 --> 00:47:26,880
 Trained on that preference,
 a model learns to sound sure.
 
-824
-00:47:27,410 --> 00:47:29,720
+823
+00:47:27,050 --> 00:47:29,360
 The monitoring signal is still inside.
 
-825
-00:47:29,910 --> 00:47:33,220
+824
+00:47:29,550 --> 00:47:32,860
 What got weaker is the step
 that puts it into words.
 
-826
-00:47:33,670 --> 00:47:38,330
+825
+00:47:33,310 --> 00:47:37,970
 Which brings us to the trap,
 and back to the two patients from act two.
 
-827
-00:47:38,390 --> 00:47:42,940
+826
+00:47:38,030 --> 00:47:42,580
 Two models can look identical from
 outside and be opposite inside.
 
-828
-00:47:43,350 --> 00:47:49,120
+827
+00:47:42,990 --> 00:47:48,760
 The first always speaks with assurance,
 yet inside, a signal tracks its errors.
 
-829
-00:47:49,270 --> 00:47:54,220
+828
+00:47:48,910 --> 00:47:53,860
 Like the blindsight patient, it has the
 information and does not report it.
 
-830
-00:47:54,450 --> 00:48:01,160
+829
+00:47:54,090 --> 00:48:00,800
 The second says "I'm not sure" on every answer,
 by reflex, with no signal behind it.
 
-831
-00:48:01,270 --> 00:48:06,320
+830
+00:48:00,910 --> 00:48:05,960
 Like the anosognosia patient, its words
 are cut off from what is going on inside.
 
-832
-00:48:06,510 --> 00:48:10,560
+831
+00:48:06,150 --> 00:48:10,200
 Only here, the words say doubt
 instead of "all is well".
 
-833
-00:48:11,090 --> 00:48:14,020
+832
+00:48:10,730 --> 00:48:13,660
 Call the second case performative hedging.
 
-834
-00:48:14,110 --> 00:48:15,470
+833
+00:48:13,750 --> 00:48:15,110
 And nothing rules it out.
 
-835
-00:48:15,530 --> 00:48:19,050
+834
+00:48:15,170 --> 00:48:18,690
 A model can learn to sprinkle
 "I think" everywhere,
 
-836
-00:48:19,110 --> 00:48:22,420
+835
+00:48:18,750 --> 00:48:22,060
 and pass a test of humility,
 with nothing underneath.
 
-837
-00:48:22,910 --> 00:48:26,960
+836
+00:48:22,550 --> 00:48:26,600
 Which is why the rule from act
 one applies here with full force.
 
-838
-00:48:27,330 --> 00:48:30,100
+837
+00:48:26,970 --> 00:48:29,740
 The verbal report is not the measurement.
 
-839
-00:48:30,410 --> 00:48:34,560
+838
+00:48:30,050 --> 00:48:34,200
 To know whether a model knows
 what it knows, you do not ask it.
 
-840
-00:48:34,630 --> 00:48:40,820
+839
+00:48:34,270 --> 00:48:40,460
 You open it, and you measure, as Fleming
 measured his patients, as Kiani read LIP.
 
-841
-00:48:41,490 --> 00:48:44,690
+840
+00:48:41,130 --> 00:48:44,330
 And there is an irony here,
 and it is not a small one.
 
-842
-00:48:44,750 --> 00:48:49,850
+841
+00:48:44,390 --> 00:48:49,490
 The best measurements, the numbers under
 the words and the activations behind them,
 
-843
-00:48:49,910 --> 00:48:52,380
+842
+00:48:49,550 --> 00:48:52,020
 are the ones most users never see.
 
-844
-00:48:52,470 --> 00:48:56,120
+843
+00:48:52,110 --> 00:48:55,760
 Most of the world talks to these
 models through a closed interface.
 
-845
-00:48:56,310 --> 00:49:00,160
+844
+00:48:55,950 --> 00:48:59,800
 The laboratory reads the numbers.
 The product reads the words.
 
-846
-00:49:00,690 --> 00:49:03,600
+845
+00:49:00,330 --> 00:49:03,240
 So what can you do, with only the words?
 
-847
-00:49:03,950 --> 00:49:04,950
+846
+00:49:03,590 --> 00:49:04,590
 Two things.
 
-848
-00:49:05,030 --> 00:49:08,860
+847
+00:49:04,670 --> 00:49:08,500
 Treat a confident tone as a
 report, not a measurement.
 
-849
-00:49:09,090 --> 00:49:13,610
+848
+00:49:08,730 --> 00:49:13,250
 And when it matters, ask the same
 question again, in a fresh conversation.
 
-850
-00:49:13,670 --> 00:49:19,440
+849
+00:49:13,310 --> 00:49:19,080
 When it knows, the answers agree.
 When it is inventing, they drift apart.
 
-851
-00:49:19,990 --> 00:49:25,220
+850
+00:49:19,630 --> 00:49:24,860
 So let me step back, and ask the only
 question that matters for the next few years.
 
-852
-00:49:25,830 --> 00:49:28,140
+851
+00:49:25,470 --> 00:49:27,780
 What should we want from these systems?
 
-853
-00:49:28,610 --> 00:49:30,720
+852
+00:49:28,250 --> 00:49:30,360
 Not a model that is always right.
 
-854
-00:49:30,890 --> 00:49:34,340
+853
+00:49:30,530 --> 00:49:33,980
 That does not exist,
 for machines or for us.
 
-855
-00:49:34,570 --> 00:49:36,360
+854
+00:49:34,210 --> 00:49:36,000
 Socrates already knew that.
 
-856
-00:49:36,610 --> 00:49:40,030
+855
+00:49:36,250 --> 00:49:39,670
 What we should want is a model
 that knows when it might be wrong,
 
-857
-00:49:40,090 --> 00:49:44,700
+856
+00:49:39,730 --> 00:49:44,340
 and says so, and acts on it.
 The dolphin's third paddle.
 
-858
-00:49:45,030 --> 00:49:49,380
+857
+00:49:44,670 --> 00:49:49,020
 Seen this way, a hallucination is
 often not a failure of knowledge.
 
-859
-00:49:49,570 --> 00:49:53,010
+858
+00:49:49,210 --> 00:49:52,650
 It is a failure of the
 meta level, of C-two.
 
-860
-00:49:53,070 --> 00:49:55,800
+859
+00:49:52,710 --> 00:49:55,440
 The signal was there. Nothing listened.
 
-861
-00:49:56,510 --> 00:49:57,830
+860
+00:49:56,150 --> 00:49:57,470
 And there is a tempting belief
 
-862
-00:49:57,890 --> 00:50:01,320
+861
+00:49:57,530 --> 00:50:00,960
 that all of this will simply
 arrive with bigger models.
 
-863
-00:50:01,750 --> 00:50:05,660
+862
+00:50:01,390 --> 00:50:05,300
 For most of the seven,
 the evidence so far does not show it.
 
-864
-00:50:05,810 --> 00:50:09,500
+863
+00:50:05,450 --> 00:50:09,140
 Calibration does improve with
 scale, on short answers.
 
-865
-00:50:09,870 --> 00:50:12,840
+864
+00:50:09,510 --> 00:50:12,480
 Drift is the exception, for a dull reason:
 
-866
-00:50:13,010 --> 00:50:17,100
+865
+00:50:12,650 --> 00:50:16,740
 if the new world was in the training data,
 there is nothing left to notice.
 
-867
-00:50:17,410 --> 00:50:22,320
+866
+00:50:17,050 --> 00:50:21,960
 The rest does not come by itself:
 knowing when you are on unfamiliar ground,
 
-868
-00:50:22,380 --> 00:50:26,180
+867
+00:50:22,020 --> 00:50:25,820
 routing, effort,
 exploration, honest hedging.
 
-869
-00:50:26,370 --> 00:50:28,440
+868
+00:50:26,010 --> 00:50:28,080
 Larger models are more accurate.
 
-870
-00:50:28,690 --> 00:50:33,080
+869
+00:50:28,330 --> 00:50:32,720
 They do not, by themselves, tell us
 more honestly where their limits are.
 
-871
-00:50:33,230 --> 00:50:37,540
+870
+00:50:32,870 --> 00:50:37,180
 These functions have to be built,
 measured, and verified, separately.
 
-872
-00:50:37,930 --> 00:50:41,400
+871
+00:50:37,570 --> 00:50:41,040
 Open questions remain,
 and I want to be honest about them.
 
-873
-00:50:41,650 --> 00:50:45,060
+872
+00:50:41,290 --> 00:50:44,700
 Do these functions emerge at
 scales we have not reached?
 
-874
-00:50:45,270 --> 00:50:48,440
+873
+00:50:44,910 --> 00:50:48,080
 How do the seven interact
 inside one system?
 
-875
-00:50:48,690 --> 00:50:51,990
+874
+00:50:48,330 --> 00:50:51,630
 And how do we close the gap
 between what the probes can read
 
-876
-00:50:52,050 --> 00:50:54,720
+875
+00:50:51,690 --> 00:50:54,360
 and what the products actually expose?
 
-877
-00:50:55,190 --> 00:50:59,520
+876
+00:50:54,830 --> 00:50:59,160
 Socrates claimed one thing:
 to know what he did not know.
 
-878
-00:51:00,010 --> 00:51:02,230
+877
+00:50:59,650 --> 00:51:01,870
 Two and a half thousand years later,
 
-879
-00:51:02,290 --> 00:51:05,780
+878
+00:51:01,930 --> 00:51:05,420
 a machine built to predict
 words has learned some of that.
 
-880
-00:51:05,910 --> 00:51:07,660
+879
+00:51:05,550 --> 00:51:07,300
 Partly. Silently.
 
-881
-00:51:07,990 --> 00:51:11,940
+880
+00:51:07,630 --> 00:51:11,580
 Mostly without being asked.
 The knowledge is in its circuits.
 
-882
-00:51:12,330 --> 00:51:15,400
+881
+00:51:11,970 --> 00:51:15,040
 What it has not learned
 is to tell us, reliably.
 
-883
-00:51:15,488 --> 00:51:20,820
+882
+00:51:15,128 --> 00:51:20,460
 Comte was right about one thing.
 Nobody can watch themselves think.
 
-884
-00:51:20,990 --> 00:51:22,900
+883
+00:51:20,630 --> 00:51:22,540
 Not us, not the machine.
 
-885
-00:51:23,750 --> 00:51:25,580
+884
+00:51:23,390 --> 00:51:27,160
 But a signal can be measured.
-
-886
-00:51:25,830 --> 00:51:27,520
 In a dolphin's hesitation.
 
-887
-00:51:27,790 --> 00:51:29,360
+885
+00:51:27,430 --> 00:51:29,000
 In a monkey's neurons.
 
-888
-00:51:29,670 --> 00:51:32,450
+886
+00:51:29,310 --> 00:51:32,090
 In a straight line through
 the activations of a network.
 
-889
-00:51:32,510 --> 00:51:34,440
+887
+00:51:32,150 --> 00:51:34,080
 And in you.
 
-890
-00:51:34,670 --> 00:51:38,760
+888
+00:51:34,310 --> 00:51:38,400
 The next time a name is on the tip
 of your tongue, notice that feeling.
 
-891
-00:51:39,070 --> 00:51:41,640
+889
+00:51:38,710 --> 00:51:41,280
 That is the second line, at work.
 
-892
-00:51:42,130 --> 00:51:44,820
+890
+00:51:41,770 --> 00:51:44,460
 Knowing what you know
 is not only a feeling.
 
-893
-00:51:45,010 --> 00:51:48,280
+891
+00:51:44,650 --> 00:51:47,920
 It is a function.
 And functions can be measured.
 
-894
-00:51:48,710 --> 00:51:49,820
+892
+00:51:48,350 --> 00:51:49,460
 Thanks for watching.
 
-895
-00:51:50,170 --> 00:51:53,440
+893
+00:51:49,810 --> 00:51:53,080
 The written notes, with every source,
 are in the description.
 
-896
-00:51:53,810 --> 00:51:57,900
+894
+00:51:53,450 --> 00:51:57,540
 If you see a mistake, tell me.
 That is rather the point of the film.

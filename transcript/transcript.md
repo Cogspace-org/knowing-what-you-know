@@ -375,7 +375,7 @@ In twenty twenty-three, Aviv Slobodkin and colleagues gave models questions that
 
 Then they looked inside. And in the activations, as early as the first word of the answer, the model had already encoded that the question was unanswerable. It knew. It said the opposite.
 
-The model from the first minute does it too. Asked plainly, it refuses. But ask for a short answer and a confidence score, and things change. On thirty questions that have no answer, it invents one six times, with a confidence of eighty or more.
+The model from the first minute does it too. On thirty questions that have no answer, it refuses most of them. But six times, it invents an answer. And when we also ask how sure it is, almost every invention comes with eighty or more.
 
 And now, the promise from the first minute. We asked it, on the same six hundred questions, how confident it was, from zero to one hundred. It said one hundred on four hundred of them. Its average was ninety-five. When it was right, it said ninety-seven. When it was wrong, ninety-one.
 
@@ -415,7 +415,7 @@ And there is a tempting belief that all of this will simply arrive with bigger m
 
 Open questions remain, and I want to be honest about them. Do these functions emerge at scales we have not reached? How do the seven interact inside one system? And how do we close the gap between what the probes can read and what the products actually expose?
 
-## 50:55 Outro
+## 50:54 Outro
 
 Socrates claimed one thing: to know what he did not know.
 

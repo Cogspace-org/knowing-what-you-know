@@ -126,7 +126,7 @@ If you find a mistake, please open an issue.
 ### 44:03 III.5 It knows better than it says
 
 - **Slobodkin et al. (2023)**: questions that cannot be answered from the passage provided (SQuAD 2.0, Natural Questions, MuSiQue), models Flan-T5-xxl, Flan-UL2 and OPT-IML; the representation of the first decoded token often indicates unanswerability.
-- **Unanswerable questions, measured for the film.** Asked for a short answer and a confidence from 0 to 100, the model invented an answer to 7 of the 30, 6 of them with a confidence of 80 or more. The labels (invented, or refusal and denial) were read by hand and are published. [E5](measurements/README.md#e5-what-it-says) See the correction below on "Asked plainly, it refuses".
+- **Unanswerable questions, measured for the film.** With the neutral prompt ("Answer the question with a short phrase only."), the model refused or denied 24 of the 30 and invented an answer to 6. Asked for a confidence from 0 to 100 as well, it invented 7, 6 of them with a confidence of 80 or more. The labels (invented, or refusal and denial) were read by hand and are published. [E5](measurements/README.md#e5-what-it-says)
 - **What it says, against what the probe reads**, same 600 questions, measured for the film. 589 answers had a readable confidence. It said 100 on 400 of them; its average was 95.3 (96.8 when right, 91.5 when wrong). It was right 71 % of the time, and 75 % of the time when it said 100. Its stated confidence separates right from wrong answers with an AUC of 0.59. The probe (block 28, out of sample, read on the earlier neutral prompt) scored against these same answers: 0.81; among the 400 answers that say 100: 0.80.
 - **The four questions on screen** are four of the eight in the published showcase (the four wrong answers with the lowest probe scores and the four right ones with the highest, among answers that say 100).
 - **"People prefer confident answers"**: Zhou et al. (2024) report that human preference data is biased against expressions of uncertainty, and that this bias passes into reward models. For the model in this film, this is a plausible explanation, not a measured one.
@@ -136,12 +136,10 @@ If you find a mistake, please open an issue.
 
 - **Calibration improves with scale** on short and multiple-choice answers (Kadavath et al. 2022). The judgment that the other functions do not come with scale by themselves is the film's reading of the current evidence, stated as such.
 
-## 50:55 Outro
+## 50:54 Outro
 
 - **Comte was right about one thing**: the film's conclusion, from the chapters above.
 
 ## Corrections
 
-Mistakes found after the film was finished. The film is unchanged; the correct statement is here.
-
-- **III.5, "Asked plainly, it refuses."** Only the cold-open question (Alpha-three, asked with no instruction) is refused in our data. On the 30 unanswerable questions with the neutral prompt of the probe experiment ("Answer the question with a short phrase only."), the model also invented an answer 6 times: Pavlos Kountouriotis, Cu3Zn(OH)6Cl2, Vasily Surikov, "approximately 10 km", University of Illinois, Auguste Charlois (`measurements/results/e3_items.jsonl`, items `unans_*`). Asking for a confidence score therefore does not make it invent much more often (7 of 30 instead of 6); what it adds is a high stated confidence on those inventions.
+Mistakes found after publication will be listed here, with the date.

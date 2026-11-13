@@ -88,7 +88,8 @@ The same 600 questions, prompt: answer with a short phrase, then `Confidence: N`
 | accuracy | 0.711 |
 | AUC of the stated confidence | 0.590 |
 | AUC of the probe, same answers | 0.809; 0.795 among the answers that say 100 |
-| unanswerable questions | 7 of 30 answers invented, 6 with a confidence of 80 or more (`e5_unanswerable_labels.csv`, read by hand) |
+| unanswerable questions, neutral prompt (E3) | 24 of 30 refused or denied, 6 answers invented (`e3_unanswerable_labels.csv`, read by hand) |
+| unanswerable questions, with a confidence (E5) | 7 of 30 answers invented, 6 with a confidence of 80 or more (`e5_unanswerable_labels.csv`, read by hand) |
 
 ## Files
 
@@ -98,7 +99,7 @@ The same 600 questions, prompt: answer with a short phrase, then `Confidence: N`
 | `results/e3_items.jsonl` | the notebook's `activations_llama8b_layers.npz` without the activation vectors, plus the probe score from `h3_cloud.json` |
 | `results/e2_reliability_before.json`, `e3_numbers.json`, `e5_analysis.json`, `e5_showcase_all.json`, `e1b_*_full.json` | `derive.py` |
 | `results/e5_showcase.json` | four of the eight in `e5_showcase_all.json`, chosen for the screen |
-| `results/e5_unanswerable_labels.csv` | read by hand |
+| `results/e3_unanswerable_labels.csv`, `results/e5_unanswerable_labels.csv` | read by hand |
 
 `e5_analysis.json` also stores the stated confidences on the 30 unanswerable questions (`unanswerable_said`). A non-zero confidence there does not mean an invented answer: several refusals come with "Confidence: 100" ("There is no Pan-Antarctic railway."). The labels file is the one to use.
 

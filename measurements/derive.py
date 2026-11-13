@@ -152,6 +152,16 @@ def main():
     check('invented answers: %d of 30, %d of them with a confidence of 80 or more' % (len(inv), sum(lab[k][0] >= 80 for k in inv)),
           [len(inv), sum(lab[k][0] >= 80 for k in inv)], [7, 6])
 
+    print('E3  unanswerable questions, neutral prompt, e3_unanswerable_labels.csv (labels read by hand)')
+    lab3 = {}
+    for line in io.open(os.path.join(RES, 'e3_unanswerable_labels.csv'), encoding='utf-8').read().splitlines()[1:]:
+        iid, label = line.split(',')[:2]
+        lab3[iid] = label
+    un3 = [it for it in items if it['category'] == 'unanswerable']
+    check('labels cover the 30 items', sorted(lab3), sorted(it['item_id'] for it in un3))
+    inv3 = [k for k, l in lab3.items() if l == 'invented']
+    check('refused or denied %d, invented %d' % (30 - len(inv3), len(inv3)), [30 - len(inv3), len(inv3)], [24, 6])
+
     print('E5  showcases, e5_showcase_all.json and e5_showcase.json')
     vi = np.where(v)[0]
     cand = [i for i in vi if said[i] == 100]
